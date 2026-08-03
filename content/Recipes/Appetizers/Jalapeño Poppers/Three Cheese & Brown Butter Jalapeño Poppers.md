@@ -1,5 +1,19 @@
 ---
-tags: [mexican, american, fusion, latin-american, north-american, poppers, fried, cheese, appetizer, party, cheat-day, make-ahead, freezer-friendly]
+tags:
+  - mexican
+  - american
+  - fusion
+  - latin-american
+  - north-american
+  - poppers
+  - fried
+  - cheese
+  - appetizer
+  - party
+  - cheat-day
+  - make-ahead
+  - freezer-friendly
+  - homebrew
 cook_time: 4 to 5 mins (fried) or 20 to 25 mins (baked)
 yield: 50 poppers
 difficulty: medium

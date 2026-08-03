@@ -1,5 +1,15 @@
 ---
-tags: [french, european, soup, braised, onion, beef, comfort-food, appetizer]
+tags:
+  - french
+  - european
+  - soup
+  - braised
+  - onion
+  - beef
+  - comfort-food
+  - appetizer
+  - homebrew
+  - mastered
 prep_time: 30 mins
 cook_time: 2 to 12 hours
 total_time: 2.5 to 12.5 hours

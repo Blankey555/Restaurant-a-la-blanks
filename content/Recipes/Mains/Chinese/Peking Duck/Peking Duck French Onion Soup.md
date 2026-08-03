@@ -1,5 +1,19 @@
 ---
-tags: [french, chinese, fusion, european, east-asian, soup, braised, duck, onion, comfort-food, appetizer, gf-adaptable, make-ahead]
+tags:
+  - french
+  - chinese
+  - fusion
+  - european
+  - east-asian
+  - soup
+  - braised
+  - duck
+  - onion
+  - comfort-food
+  - appetizer
+  - gf-adaptable
+  - make-ahead
+  - homebrew
 prep_time: 30 mins
 cook_time: 3 to 12 hours
 total_time: 3.5 to 12.5 hours

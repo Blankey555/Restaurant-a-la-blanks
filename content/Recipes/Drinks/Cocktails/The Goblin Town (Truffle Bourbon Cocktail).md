@@ -1,41 +1,69 @@
 ---
-tags: [digestif, dessertif, project, make-ahead]
+tags: [american, japanese, fusion, north-american, east-asian, cocktail-hour, project]
+prep_time: 10 mins
+cook_time: 0 mins
+total_time: 14 days (infusion) plus 10 mins per cocktail
+yield: 1 cocktail (infusion yields approximately 20 cocktails)
 difficulty: medium
 ---
 
-*Get carried away by murky memory to the dank warrens of your youth*
+# Goblin Town
+
+*Get carried away by murky memory to the dank warrens of your youth.*
+
+A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark, earthy, and savory with a bright herbal lift.
+
+**Serves:** 1
+**Total Time:** 14 day infusion plus 10 minutes per cocktail
 
 ---
 
-## Ingredients
-- 2 oz black truffle-infused Bulleit bourbon
+## Components
+
+- Truffle-Infused Bourbon
+- Cocktail Build
+
+---
+
+## Truffle-Infused Bourbon
+
+### Ingredients
+- 1.75 L Bulleit bourbon
+- 40 g fresh black winter truffle
+
+### Instructions
+1. Grate the truffle finely on a microplane directly into the bourbon.
+2. Seal and infuse at room temperature for 2 weeks. Do not open or offgas during the infusion.
+3. Strain through a coffee filter to remove all sediment.
+4. Transfer to a clean bottle and refrigerate until service. Keep sealed until serving.
+
+---
+
+## Cocktail Build
+
+### Ingredients
+- 2 oz truffle-infused Bulleit bourbon
 - 0.5 oz dry vermouth (Dolin recommended)
-- 0.5 oz shiso syrup
+- 0.5 oz shiso syrup (see Shiso Syrup recipe)
 - 0.25 tsp ume plum vinegar
 - 1 large ice sphere
-- 1 dark chocolate honeycomb lattice garnish
-- 1 fresh shiso leaf (garnish)
+- Cocoa powder, for rim
+- 1 fresh shiso leaf, for garnish
 - Black truffle shavings, optional garnish
 
----
-
-## Instructions
-
-1. **Make the shiso syrup:** Combine 1 cup water and 1 cup sugar over medium heat until dissolved. Remove from heat, steep roughly 20 large fresh shiso leaves for 20 minutes, then strain and refrigerate. Keeps 2 weeks. Can be done 50/50 shiso and Thai mint if desired.
-
-2. **Infuse the bourbon:** Thinly slice fresh Périgord truffle into Bulleit and infuse at room temperature for 1.5 to 2 hours, tasting every 30 minutes after the first hour. Strain through fine mesh followed by a coffee filter. Use immediately or refrigerate up to one week.
-
-3. **Build and stir:** In a mixing glass filled with ice, combine bourbon, vermouth, shiso syrup, and ume plum vinegar. Stir 30 to 40 rotations until well chilled and properly diluted. Do not shake.
-
-4. **Strain and serve:** Strain over an ice sphere in a rocks glass. Rest the chocolate honeycomb lattice on the rim. Garnish with a fresh shiso leaf and truffle shavings if desired.
+### Instructions
+1. Prepare the rim. Spread cocoa powder on a small plate. Moisten the rim of a rocks glass and dip into the cocoa. Place the ice sphere in the glass.
+2. Combine truffle bourbon, dry vermouth, shiso syrup, and ume plum vinegar in a mixing glass. Add ice and stir for 30 seconds until well chilled.
+3. Strain over the ice sphere into the prepared glass.
+4. Garnish with a fresh shiso leaf and optional truffle shavings.
 
 ---
 
 ## Notes
-
-- **Truffle infusion timing:** Fresh Périgord infuses fast in alcohol. Do not exceed 3 hours or the infusion can turn bitter and muddy. Strain very clean -- any remaining particulate will continue extracting.
-- **Ume plum vinegar:** Should read as a savory mineral whisper, not sourness. Adjust to taste. Shiso-pickled versions tie in nicely with the syrup.
-- **Shiso syrup:** Can blend 50/50 with Thai mint for brightness. Keeps 2 weeks refrigerated.
-- **Chocolate honeycomb:** Use a silicone honeycomb mold for clean, repeatable pieces at scale. Can be made several days ahead and stored airtight at room temperature away from humidity.
-
-Get carried away by musky memory to the dank warrens of your youth
+- A 24 hour infusion produces harsh, volatile aromatics. The 2 week infusion mellows dramatically and is required for the correct profile.
+- 40 g per 1.75 L is the established ratio. Frozen truffle extracts faster than fresh due to ruptured cell walls, so taste earlier if using frozen.
+- Late season truffle degrades over days after delivery. Start the infusion within 1 to 2 days of receiving fresh truffle.
+- Do not offgas the finished bourbon. The aromatic compounds that carry the flavor are volatile and are lost with air exposure. Keep the bottle sealed until service.
+- The ume plum vinegar functions as seasoning rather than a dominant flavor. Adjust by the drop.
+- The cocoa rim can be cut with a small amount of black sea salt or ground dried porcini for additional savory depth.
+- Run small test batches before scaling any change to the infusion ratio or timing.

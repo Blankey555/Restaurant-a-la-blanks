@@ -1,5 +1,13 @@
 ---
-tags: [chinese, east-asian, roast, baked, duck, project, holiday]
+tags:
+  - chinese
+  - east-asian
+  - roast
+  - baked
+  - duck
+  - project
+  - holiday
+  - homebrew
 prep_time: 24 hrs
 cook_time: 1 hr
 difficulty: hard

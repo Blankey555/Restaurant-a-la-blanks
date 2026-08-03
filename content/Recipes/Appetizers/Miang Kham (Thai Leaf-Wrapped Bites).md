@@ -1,5 +1,13 @@
 ---
-tags: [thai, southeast-asian, wrap, appetizer, party, no-cook, seafood, spicy]
+tags:
+  - thai
+  - southeast-asian
+  - wrap
+  - appetizer
+  - party
+  - no-cook
+  - seafood
+  - spicy
 prep_time: 45 min
 difficulty: medium
 ---

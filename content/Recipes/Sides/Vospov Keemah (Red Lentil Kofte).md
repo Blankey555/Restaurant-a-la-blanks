@@ -1,5 +1,12 @@
 ---
-tags: [armenian, middle-eastern, kofte, vegan, vegetarian, spicy]
+tags:
+  - armenian
+  - middle-eastern
+  - kofte
+  - vegan
+  - vegetarian
+  - spicy
+  - homebrew
 cook_time: 1 hr
 difficulty: easy
 ---

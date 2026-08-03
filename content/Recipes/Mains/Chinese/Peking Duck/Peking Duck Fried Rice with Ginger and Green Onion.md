@@ -5,9 +5,6 @@ cook_time: 10 mins
 yield: 2 to 4 servings
 difficulty: easy
 ---
-
-# Peking Duck Stir-Fry with Ginger and Green Onion
-
 This quick, elegant stir-fry is designed to let the flavor of roast duck shine, typically served as a second course to a Peking duck feast.
 
 ## Ingredients

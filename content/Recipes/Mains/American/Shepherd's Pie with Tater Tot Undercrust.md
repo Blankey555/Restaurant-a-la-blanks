@@ -1,5 +1,18 @@
 ---
-tags: [british, american, fusion, european, north-american, casserole, braised, lamb, potato, comfort-food, cheat-day, make-ahead]
+tags:
+  - british
+  - american
+  - fusion
+  - european
+  - north-american
+  - casserole
+  - braised
+  - lamb
+  - potato
+  - comfort-food
+  - cheat-day
+  - make-ahead
+  - homebrew
 total_time: 2 hours
 yield: 6 to 8 servings
 difficulty: medium
