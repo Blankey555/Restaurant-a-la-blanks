@@ -131,6 +131,8 @@ def build_system_prompt(rows, tags):
         "- No em dashes (the character —) anywhere in the output.",
         "",
         "## EXAMPLE OUTPUT (format anchor)",
+        "The example below shows FORMAT only. Never copy its text, notes, times, or tags",
+        "into your output; every line you produce must come from the provided recipe content.",
         FEW_SHOT,
     ]
     return "\n".join(lines)
@@ -190,6 +192,16 @@ def get_content(inp):
 # ---------------------------------------------------------------- ollama
 
 def ollama_chat(system, user):
+    import time
+    print(f"  converting via {MODEL} (typically 1 to 4 minutes, longer on first call "
+          "while the model loads)...", flush=True)
+    t0 = time.time()
+    r = _ollama_request(system, user)
+    print(f"  model responded in {time.time() - t0:.0f}s", flush=True)
+    return r
+
+
+def _ollama_request(system, user):
     r = requests.post(f"{OLLAMA_URL}/api/chat", json={
         "model": MODEL,
         "messages": [{"role": "system", "content": system},
@@ -363,6 +375,11 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes):
     print(f"DESTINATION: {dest}")
 
     if not auto_yes:
+        try:  # discard any Enter presses buffered while the model was working
+            import termios
+            termios.tcflush(sys.stdin, termios.TCIFLUSH)
+        except Exception:
+            pass
         ans = input("\nWrite this file? [y/N] ").strip().lower()
         if ans != "y":
             print("Skipped.")
