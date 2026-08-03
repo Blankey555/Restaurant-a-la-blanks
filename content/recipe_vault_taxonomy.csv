@@ -1,0 +1,163 @@
+type,value,dimension,description,claude_code_rules
+prompt,execution,instruction,Binding rules for any tool that writes recipes into this vault,"Apply tags per the tag rows and their rules. Never apply tags marked DO NOT APPLY. Derive region tags automatically from cuisine tags. Do not use em dashes in any file. File recipes into an existing cuisine subfolder only; never create new folders automatically. Never write into the private folder. Recipe names are grammatically complete and title case; proper-named and foreign-named dishes carry a parenthetical descriptor."
+frontmatter,template,structure,YAML frontmatter block required on every recipe,"Every recipe file begins with a YAML block delimited by --- lines. Required fields in order: tags, prep_time, cook_time, total_time, yield, difficulty."
+frontmatter,tags,field,Array of applicable taxonomy tags,"Format: tags: [tag1, tag2, tag3]. Include all applicable cuisine, region, sub-region, classification, course, drink_placement, staples_use, staples_type, dietary, method, occasion, effort, lifestyle, character, and anchor tags. Exclude mastery and provenance tags."
+frontmatter,prep_time,field,Active preparation time,"Format: N mins or N hours. Must match the time stated in the recipe body. Omit if the body states no prep time."
+frontmatter,cook_time,field,Cooking time,"Format: N mins, N hours, or a range such as 2 to 12 hours. Must match the time stated in the recipe body, including ranges. Omit if the body states no cook time."
+frontmatter,total_time,field,Total time including passive stages,"Must match the recipe body. Ranges permitted. Include or exclude marinating and resting time consistent with the recipe body. Omit if not stated."
+frontmatter,yield,field,Recipe yield,"Format: N servings, or a unit appropriate to the recipe such as 50 poppers or 2 wraps. Omit if not stated."
+frontmatter,difficulty,field,Difficulty rating,"Permitted values: easy, medium, hard."
+folder,Recipes,root,Root recipe folder,All recipe files live under this root
+folder,Recipes/Appetizers,category,Appetizers and starters,Category for starter and small-plate dishes served before or alongside mains
+folder,Recipes/Mains,category,Main dishes,Category for entree-style dishes
+folder,Recipes/Sides,category,Side dishes,Category for accompaniments
+folder,Recipes/Desserts,category,Desserts and sweets,Category for sweet courses
+folder,Recipes/Snacks,category,Snacks and small bites,Category for standalone snacking foods
+folder,Recipes/Drinks,category,All beverages,Parent folder for drink subcategories
+folder,Recipes/Drinks/Cocktails,subcategory,Alcoholic drinks,All spirit or wine based drinks
+folder,Recipes/Drinks/Non-Alcoholic,subcategory,Non-alcoholic drinks,"Sodas, limeades, mocktails, coffee drinks"
+folder,Recipes/Staples,category,"Components, infusions, sauces, stocks, breads","Any item that functions as an ingredient in or accompaniment to other dishes: breads, stocks, sauces, syrups, brines, marinades, infusions, condiments, spice blends, dips, garnish components"
+folder,Recipes/private,private,Never published or auto-written,"Excluded from the website and public repo. Tools must never write into this folder automatically."
+folder,cuisine_subfolders,structure,Cuisine subfolder rule,"Nationality subfolders are maintained wherever they exist (for example Mains/French, Mains/Chinese, Mains/Japanese, Mains/Korean, Mains/Cuban, Mains/Lebanese, Mains/Spanish, Mains/American, Mains/American/British). File a recipe into a cuisine subfolder only if one already exists for that cuisine in that category. Never create new subfolders automatically. Fusion dishes with a folder for their secondary cuisine nested under the primary cuisine folder (for example Mains/American/British) file there and carry all parent cuisines as tags."
+folder,dish_family_subfolders,structure,Dish-family folders,"Interdependent recipe families may share a dish folder (for example Mains/Chinese/Peking Duck, Appetizers/Jalapeño Poppers). File into them only when they already exist."
+tag,french,cuisine,French cuisine,Apply based on dish origin or dominant technique
+tag,british,cuisine,British and Irish cuisine,Apply based on dish origin or dominant technique. Derives european region.
+tag,chinese,cuisine,Chinese cuisine,Apply based on dish origin or dominant technique
+tag,korean,cuisine,Korean cuisine,Apply based on dish origin or dominant technique
+tag,japanese,cuisine,Japanese cuisine,Apply based on dish origin or dominant technique
+tag,lebanese,cuisine,Lebanese cuisine,Apply based on dish origin or dominant technique
+tag,armenian,cuisine,Armenian cuisine,Apply based on dish origin or dominant technique
+tag,turkish,cuisine,Turkish cuisine,Apply based on dish origin or dominant technique
+tag,thai,cuisine,Thai cuisine,Apply based on dish origin or dominant technique
+tag,mexican,cuisine,Mexican cuisine,Apply based on dish origin or dominant technique
+tag,cuban,cuisine,Cuban cuisine,Apply based on dish origin or dominant technique
+tag,indian,cuisine,Indian cuisine,Apply based on dish origin or dominant technique
+tag,italian,cuisine,Italian cuisine,Apply based on dish origin or dominant technique
+tag,spanish,cuisine,Spanish cuisine,Apply based on dish origin or dominant technique
+tag,peruvian,cuisine,Peruvian cuisine,Apply based on dish origin or dominant technique
+tag,greek,cuisine,Greek cuisine,Apply based on dish origin or dominant technique
+tag,vietnamese,cuisine,Vietnamese cuisine,Apply based on dish origin or dominant technique
+tag,american,cuisine,American cuisine,Apply based on dish origin or dominant technique
+tag,new-american,cuisine,New American cuisine,Contemporary American cooking with chef-driven technique
+tag,fusion,cuisine,Cross-cuisine dishes,Always stack with parent cuisine tags. Example: Peking duck French onion soup receives french + chinese + fusion.
+tag,mediterranean,region,"Mediterranean basin: Italian, Spanish, Greek, Lebanese, Turkish, Levantine, North African coastal","Overlay region. Stacks with european or middle-eastern where applicable. Italian and Spanish receive european + mediterranean. Lebanese and Turkish receive middle-eastern + mediterranean."
+tag,east-asian,region,"East Asia: Chinese, Korean, Japanese",Apply automatically based on cuisine tags
+tag,southeast-asian,region,"Southeast Asia: Thai, Vietnamese, Filipino, Indonesian, Malaysian",Apply automatically based on cuisine tags
+tag,south-asian,region,"South Asia: Indian, Pakistani, Sri Lankan, Bangladeshi",Apply automatically based on cuisine tags
+tag,central-asian,region,"Central Asia: Uzbek, Kazakh, Uyghur",No represented cuisines yet. Available for future use.
+tag,middle-eastern,region,"Middle East and Levant: Lebanese, Turkish, Armenian, Persian, Israeli, Gulf",Apply automatically based on cuisine tags
+tag,european,region,"Europe: French, British, Italian, Spanish, German, Eastern European, Scandinavian",Apply automatically based on cuisine tags
+tag,african,region,"Continental Africa: North African, West African, East African, Ethiopian, South African",No represented cuisines yet. Available for future use. North African coastal dishes also receive mediterranean.
+tag,latin-american,region,"Latin America: Mexican, Cuban, Peruvian, Brazilian, Argentine, Caribbean",Apply automatically based on cuisine tags
+tag,north-american,region,"North America: American, New American, Canadian, Southern US, Tex-Mex",Apply automatically based on cuisine tags
+tag,oceanian,region,"Oceania: Australian, New Zealand, Pacific Islander",No represented cuisines yet. Available for future use.
+tag,sub-regional,meta,Sub-regional specificity rule,"Where a recipe is identifiably sub-regional, apply a specific sub-region tag alongside the parent cuisine and region tags. Sub-region tags always stack with parent cuisine and region. Examples: sai ua receives thai + northern-thai + southeast-asian. Char siu receives chinese + cantonese + east-asian."
+tag,cantonese,sub-region,Cantonese (Chinese),Stacks with chinese + east-asian
+tag,sichuan,sub-region,Sichuan (Chinese),Stacks with chinese + east-asian
+tag,northern-thai,sub-region,Northern Thai,Stacks with thai + southeast-asian
+tag,southern-us,sub-region,Southern US,Stacks with american + north-american
+tag,louisiana,sub-region,Louisiana / New Orleans,Stacks with american + north-american
+tag,cajun-creole,sub-region,Cajun and Creole,Stacks with american + north-american
+tag,tex-mex,sub-region,Tex-Mex,Stacks with american + north-american
+tag,roman,sub-region,Roman (Italian),Stacks with italian + european + mediterranean
+tag,provencal,sub-region,Provençal (French),Stacks with french + european
+tag,oaxacan,sub-region,Oaxacan (Mexican),Stacks with mexican + latin-american
+tag,soup,classification,Dish format: soup,Apply to soups regardless of category
+tag,salad,classification,Dish format: salad,Apply to salads and slaws
+tag,pasta,classification,Dish format: pasta or noodles,Apply to pasta and noodle dishes
+tag,pizza,classification,Dish format: pizza,Apply to pizzas and crusts
+tag,wrap,classification,Dish format: wrap or leaf-wrapped bite,Apply to wraps and wrapped bites
+tag,burrito,classification,Dish format: burrito,Apply to burritos
+tag,sandwich,classification,Dish format: sandwich,Apply to sandwiches
+tag,stir-fry,classification,Dish format: stir-fry,Apply to stir-fried dishes
+tag,roast,classification,Dish format: roast,Apply to roasted centerpiece dishes
+tag,bbq,classification,Dish format: barbecue style,Apply to BBQ-style dishes such as bulgogi and char siu
+tag,braise,classification,Dish format: braise,Optional stack with the braised method tag for braised centerpiece dishes
+tag,casserole,classification,Dish format: casserole or layered bake,Apply to layered baked dishes such as shepherd's pie
+tag,meatballs,classification,Dish format: meatballs,Apply to meatball dishes
+tag,kofte,classification,Dish format: kofte,Apply to kofte-style dishes
+tag,fishcakes,classification,Dish format: fishcakes,Apply to fishcake dishes
+tag,sausage,classification,Dish format: sausage,Apply to sausage and sausage-patty dishes
+tag,poppers,classification,Dish format: stuffed pepper poppers,Apply to popper dishes
+tag,popcorn,classification,Dish format: popcorn,Apply to popcorn snacks
+tag,candied-nuts,classification,Dish format: candied nuts,Apply to candied nut snacks
+tag,dip,classification,Dish format: dip,Apply to dips
+tag,deviled-eggs,classification,Dish format: deviled eggs,Apply to deviled egg dishes
+tag,punch,classification,Drink format: punch,Apply to punches
+tag,martini,classification,Drink format: martini,Apply to martini-style cocktails
+tag,margarita,classification,Drink format: margarita,Apply to margarita-style cocktails
+tag,smash,classification,Drink format: smash,Apply to smash-style cocktails
+tag,sour,classification,Drink format: sour,Apply to sour-style cocktails
+tag,spritz,classification,Drink format: spritz,Apply to spritz-style drinks
+tag,non-alcoholic,classification,Drink contains no alcohol,Apply to non-alcoholic drinks. Determines filing into Drinks/Non-Alcoholic.
+tag,classification-extensible,meta,New classification tags,"Create new classification tags as needed for clear dish formats using lowercase-hyphenated convention, sparingly."
+tag,main,course,Functions as a main dish,Use on crossover items outside the Mains folder. Folder placement covers items inside it.
+tag,side,course,Functions as a side,Use on crossover items such as breads that can serve as sides
+tag,snack,course,Functions as a snack,Use on crossover items
+tag,dessert,course,Functions as a dessert,Use on crossover items such as sweet staples
+tag,appetizer,course,Functions as an appetizer,Use freely including on soups and small plates
+tag,breakfast,course,Functions as breakfast,Use on crossover items such as egg dishes and wraps
+tag,cocktail-hour,drink_placement,Pre-dinner or social hour drinks,Drinks folder items only
+tag,aperitif,drink_placement,Appetite-stimulating pre-meal drinks,Drinks folder items only
+tag,digestif,drink_placement,Post-meal drinks,Drinks folder items only
+tag,dessertif,drink_placement,Dessert-adjacent sweet drinks,Drinks folder items only
+tag,session,drink_placement,Low-proof drinks suited to extended drinking,Spritzes and low-ABV builds
+tag,cocktail,staples_use,Staple intended for cocktail use,"Staples folder: syrups, infusions, brines intended for drinks"
+tag,garnish,staples_use,Staple intended as garnish,"Staples folder: pickled items, toasted components, finishing creams"
+tag,sauce,staples_use,Staple intended as sauce,"Staples folder: sauces, dips, cremas"
+tag,ingredient,staples_use,Staple used as a cooking ingredient,"Staples folder: stocks, and infusions or brines used in cooking"
+tag,condiment,staples_use,Table condiment,Staples folder
+tag,marinade,staples_type,Is a marinade,Describes what the staple is
+tag,infusion,staples_type,Is an infusion,Describes what the staple is
+tag,syrup,staples_type,Is a syrup,Describes what the staple is
+tag,brine,staples_type,Is a brine or pickle,Describes what the staple is
+tag,stock,staples_type,Is a stock or broth,Describes what the staple is
+tag,bread,staples_type,Is a bread or dough,Describes what the staple is
+tag,vegan,dietary,Contains no animal products,Apply only when the recipe qualifies as written
+tag,vegetarian,dietary,Contains no meat or seafood,Apply only when the recipe qualifies as written
+tag,gluten-free,dietary,Contains no gluten as written,Apply only when the recipe qualifies as written
+tag,gf-adaptable,dietary,Has written gluten-free substitutions,Apply when the recipe includes an explicit gluten-free substitution section or note
+tag,grilled,method,Grilled,Apply based on primary cooking method
+tag,baked,method,Baked or roasted,Apply based on primary cooking method
+tag,fried,method,Deep or pan fried,Apply based on primary cooking method
+tag,braised,method,Braised or long-simmered,Apply based on primary cooking method
+tag,slow-roast,method,Low and slow roasted,Apply based on primary cooking method
+tag,smoked,method,Smoked,Apply based on primary cooking method
+tag,broiled,method,Broiled,Apply based on primary cooking method
+tag,no-cook,method,No heat required,Apply based on primary cooking method
+tag,dehydrated,method,Dehydrated,Apply based on primary cooking method
+tag,air-fryer,method,Air fryer method included,Apply when the recipe includes air fryer instructions
+tag,holiday,occasion,Holiday cooking,Stackable with all effort tags
+tag,party,occasion,Party or crowd food,Stackable with all effort tags
+tag,comfort-food,occasion,Comfort food,Stackable with all effort tags
+tag,make-ahead,occasion,Can be fully made ahead,Stackable
+tag,freezer-friendly,occasion,Freezes well,Stackable
+tag,project,effort,Requires multiple days or long passive stages,"Examples: pickled limes, spirit infusions, chashu. Stackable with occasion tags."
+tag,experimental,effort,Untested concept or in active development,Stackable with all other tags
+tag,weeknight,effort,Achievable on a weeknight,Stackable with occasion tags
+tag,meal-prep,effort,Batches and stores well,Stackable. A recipe may be both cheat-day and meal-prep.
+tag,cheat-day,effort,Indulgent or laborious food achievable in a single day,"Examples: fried poppers, shepherds pie, char siu. Stackable."
+tag,fitness-food,lifestyle,High-protein or macro-conscious variants of indulgent foods,"Apply to diet-conscious reinterpretations such as protein burritos and cottage cheese pizza crust. Stackable with all tags."
+tag,spicy,character,Notable heat,Apply when heat is a defining feature rather than a background note
+tag,beef,anchor,Beef anchored,Primary protein or defining ingredient
+tag,pork,anchor,Pork anchored,Primary protein or defining ingredient
+tag,chicken,anchor,Chicken anchored,Primary protein or defining ingredient
+tag,duck,anchor,Duck anchored,Primary protein or defining ingredient
+tag,turkey,anchor,Turkey anchored,Primary protein or defining ingredient
+tag,lamb,anchor,Lamb anchored,Primary protein or defining ingredient
+tag,salmon,anchor,Salmon anchored,Primary protein or defining ingredient
+tag,seafood,anchor,Other seafood anchored,Primary protein or defining ingredient
+tag,tofu,anchor,Tofu anchored,Primary protein or defining ingredient
+tag,egg,anchor,Egg anchored,Primary protein or defining ingredient
+tag,cheese,anchor,Cheese anchored,Primary protein or defining ingredient
+tag,potato,anchor,Potato anchored,Primary protein or defining ingredient
+tag,onion,anchor,Onion anchored,Primary protein or defining ingredient
+tag,homebrews,provenance,Original recipes developed by vault owner,DO NOT APPLY. Manual curation only by vault owner.
+tag,homebrew,provenance,Original recipes developed by vault owner (singular form),DO NOT APPLY. Manual curation only by vault owner.
+tag,untested,mastery,Not yet cooked,DO NOT APPLY. Manual curation only by vault owner.
+tag,tested,mastery,Cooked at least once,DO NOT APPLY. Manual curation only by vault owner.
+tag,refined,mastery,Cooked and adjusted based on results,DO NOT APPLY. Manual curation only by vault owner.
+tag,mastered,mastery,Consistent and reliable,DO NOT APPLY. Manual curation only by vault owner.
+format,naming,rule,Recipe naming convention,"Filenames and H1 titles are title case with spaces. Names are grammatically complete. Proper-named and foreign-named dishes carry a parenthetical descriptor, for example Miang Kham (Thai Leaf-Wrapped Bites) or Gochujang Sauce (Korean Chili Sauce)."
+format,structure,rule,Recipe body structure,"After frontmatter: H1 title, one italic description line, then sections: Ingredients, Instructions (numbered steps), Notes. Include a Source line with the URL when the recipe was imported from a URL. Bold body metadata lines such as Yield and Total Time are permitted after the description."
+format,punctuation,rule,Punctuation rules,"No em dashes anywhere in any file. Use commas, colons, periods, or parentheses instead."

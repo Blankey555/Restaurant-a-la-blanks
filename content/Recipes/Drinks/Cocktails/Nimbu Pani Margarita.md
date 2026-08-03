@@ -4,7 +4,6 @@ total_time: 5 minutes
 yield: 1 serving
 difficulty: easy
 ---
-
 *A spiced Indian limeade margarita with black salt, chaat masala, and triple sec. Served on the rocks with a black salt rim.*
 
 **Serves:** 1

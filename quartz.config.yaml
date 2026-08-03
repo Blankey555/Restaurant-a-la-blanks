@@ -13,6 +13,8 @@ configuration:
     - .obsidian
     - .claude
     - Agony & Annihilation
+    - "*.csv"
+    - "*.py"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
