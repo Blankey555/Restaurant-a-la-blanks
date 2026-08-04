@@ -4,6 +4,27 @@ prep_time: 15 min
 difficulty: easy
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: shake vigorously with ice until frothy; strain into a glass; garnish with 3 coffee beans
+  of:
+    - op: "brew on the stove, cool 10 minutes, strain through cheesecloth to remove grounds"
+      of:
+        - 4 oz sugar-free Turkish coffee
+    - 1.5 oz vodka
+    - 1.5 oz coffee liqueur (e.g., Vita Vera)
+    - pinch of ground cardamom
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">4 oz sugar-free Turkish coffee</td><td class="rg-op">brew on the stove, cool 10 minutes, strain through cheesecloth to remove grounds</td><td rowspan="4" class="rg-op">shake vigorously with ice until frothy; strain into a glass; garnish with 3 coffee beans</td></tr>
+  <tr><td colspan="2" class="rg-ing">1.5 oz vodka</td></tr>
+  <tr><td colspan="2" class="rg-ing">1.5 oz coffee liqueur (e.g., Vita Vera)</td></tr>
+  <tr><td colspan="2" class="rg-ing">pinch of ground cardamom</td></tr>
+</table>
+
 ## Ingredients
 
 ### The Base

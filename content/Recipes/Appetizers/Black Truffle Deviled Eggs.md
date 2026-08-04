@@ -9,6 +9,8 @@ difficulty: easy
 
 # Black Truffle Deviled Eggs
 
+Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings on top. Three layers of truffle impact.
+
 **Yield:** 60 halves (30 eggs)
 **Total Time:** 2 to 3 days aromatizing plus 1.5 hours active
 
@@ -55,7 +57,6 @@ difficulty: easy
 6. Taste and adjust seasoning. Slightly over-season the filling since the bland whites will dilute the flavor.
 
 **Pipe and garnish**
-
 7. Transfer filling to a piping bag fitted with a large star tip. Pipe into the egg white halves, mounding slightly above the rim.
 8. Finely grate the frozen truffle over each egg using a microplane. Finish with chives and flaky salt.
 9. Serve within a couple of hours for best texture and aroma.

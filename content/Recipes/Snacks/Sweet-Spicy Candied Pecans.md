@@ -9,6 +9,42 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat oven to 300°F; line a baking sheet with parchment
+steps:
+  op: "spread in a single layer; bake 300°F 30 to 40 min, turning once halfway, until dry and crunchy; cool completely on the pan"
+  of:
+    - op: toss until evenly coated
+      of:
+        - op: fold together until fully incorporated
+          of:
+            - op: mix well
+              of:
+                - "½ cup brown sugar"
+                - 1 tsp cinnamon
+                - "½ tsp salt"
+                - 1 tsp vanilla extract
+                - "¼ to ½ tsp cayenne pepper (or more to taste)"
+            - op: whip 5 to 10 min until very stiff with firm peaks
+              of:
+                - 1 egg white
+        - 2 cups pecans
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="5">Preheat oven to 300°F; line a baking sheet with parchment</td></tr>
+  <tr><td class="rg-ing">½ cup brown sugar</td><td rowspan="5" class="rg-op">mix well</td><td rowspan="6" class="rg-op">fold together until fully incorporated</td><td rowspan="7" class="rg-op">toss until evenly coated</td><td rowspan="7" class="rg-op">spread in a single layer; bake 300°F 30 to 40 min, turning once halfway, until dry and crunchy; cool completely on the pan</td></tr>
+  <tr><td class="rg-ing">1 tsp cinnamon</td></tr>
+  <tr><td class="rg-ing">½ tsp salt</td></tr>
+  <tr><td class="rg-ing">1 tsp vanilla extract</td></tr>
+  <tr><td class="rg-ing">¼ to ½ tsp cayenne pepper (or more to taste)</td></tr>
+  <tr><td class="rg-ing">1 egg white</td><td class="rg-op">whip 5 to 10 min until very stiff with firm peaks</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 cups pecans</td></tr>
+</table>
+
 ## Ingredients
 
 - 2 cups pecans

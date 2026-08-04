@@ -6,6 +6,47 @@ yield: 2 to 4 servings
 difficulty: easy
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "add green onion tops, stir 15 seconds until wilted; serve immediately with rice or mandarin pancakes"
+  of:
+    - op: "pour in seasoning sauce, cook 1 minute so duck absorbs the flavors"
+      of:
+        - op: "add duck, stir 1 minute to heat through"
+          of:
+            - op: "stir-fry 2 minutes with a generous pinch of salt until vegetables soften slightly"
+              of:
+                - op: "stir-fry ginger in hot oil 20 seconds, then onion whites 15 seconds until ginger colors"
+                  of:
+                    - 2 tablespoons canola oil
+                    - 3/4-inch section fresh ginger, julienned
+                    - "2 large green onions, bias-cut in 2-inch pieces, whites and greens separated"
+                - 1 rib celery, cut on a bias
+                - 1/2 carrot, thinly sliced
+                - 1 heaping cup bean sprouts
+            - 1 1/2 cups (approx. 1/2 lb) roast Peking duck meat, bite-size pieces
+        - op: "stir together seasoning sauce"
+          of:
+            - 2 tablespoons plum sauce
+            - 1 tablespoon Shaoxing rice wine or dry sherry
+            - 1 tablespoon light soy sauce
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">2 tablespoons canola oil</td><td rowspan="3" class="rg-op">stir-fry ginger in hot oil 20 seconds, then onion whites 15 seconds until ginger colors</td><td rowspan="6" class="rg-op">stir-fry 2 minutes with a generous pinch of salt until vegetables soften slightly</td><td rowspan="7" class="rg-op">add duck, stir 1 minute to heat through</td><td rowspan="10" class="rg-op">pour in seasoning sauce, cook 1 minute so duck absorbs the flavors</td><td rowspan="10" class="rg-op">add green onion tops, stir 15 seconds until wilted; serve immediately with rice or mandarin pancakes</td></tr>
+  <tr><td class="rg-ing">3/4-inch section fresh ginger, julienned</td></tr>
+  <tr><td class="rg-ing">2 large green onions, bias-cut in 2-inch pieces, whites and greens separated</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 rib celery, cut on a bias</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/2 carrot, thinly sliced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 heaping cup bean sprouts</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 1/2 cups (approx. 1/2 lb) roast Peking duck meat, bite-size pieces</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 tablespoons plum sauce</td><td rowspan="3" class="rg-op">stir together seasoning sauce</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tablespoon Shaoxing rice wine or dry sherry</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tablespoon light soy sauce</td></tr>
+</table>
+
 ## Ingredients
 
 * 1 1/2 cups (approx. 1/2 lb) roast Peking duck meat, cut into bite-size pieces

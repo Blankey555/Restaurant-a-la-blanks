@@ -8,6 +8,37 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: submerge eggs fully in marinade; refrigerate minimum 4 hours, ideally overnight
+  of:
+    - op: whisk until the honey fully dissolves
+      of:
+        - 1 cup reduced sodium soy sauce
+        - ½ cup water
+        - 1 heaping tbsp crystalline honey
+        - 2 tbsp chili crisp
+        - 2 to 3 tbsp sesame seeds
+        - several dashes sesame oil
+        - 2 heaping tbsp garlic powder
+    - op: soft boil to preferred doneness, peel
+      of:
+        - 6 to 8 eggs
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 cup reduced sodium soy sauce</td><td rowspan="7" class="rg-op">whisk until the honey fully dissolves</td><td rowspan="8" class="rg-op">submerge eggs fully in marinade; refrigerate minimum 4 hours, ideally overnight</td></tr>
+  <tr><td class="rg-ing">½ cup water</td></tr>
+  <tr><td class="rg-ing">1 heaping tbsp crystalline honey</td></tr>
+  <tr><td class="rg-ing">2 tbsp chili crisp</td></tr>
+  <tr><td class="rg-ing">2 to 3 tbsp sesame seeds</td></tr>
+  <tr><td class="rg-ing">several dashes sesame oil</td></tr>
+  <tr><td class="rg-ing">2 heaping tbsp garlic powder</td></tr>
+  <tr><td class="rg-ing">6 to 8 eggs</td><td class="rg-op">soft boil to preferred doneness, peel</td></tr>
+</table>
+
 ## Ingredients
 
 - 1 cup reduced sodium soy sauce (33% reduced)

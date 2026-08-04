@@ -9,6 +9,39 @@ difficulty: medium
 
 *These bread bowls are ideal for hollowing out and filling with your favorite stew or chili. The base recipe yields 5 bowls, takes 20 minutes of prep, bakes for 22 to 28 minutes, and requires 7 hours 30 minutes of total time.*
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: bake 22 to 28 min at 425°F until deep brown and hollow-sounding; cool on rack
+  of:
+    - op: rest uncovered 30 min while oven preheats to 425°F, then slash tops
+      of:
+        - op: divide into 5 balls on greased sheet; cover and refrigerate 4 to 24 hours
+          of:
+            - op: rise covered 45 min until puffy
+              of:
+                - op: mix and knead into a smooth dough
+                  of:
+                    - 3 3/4 cups (450g) all-purpose flour
+                    - 2 tsp (12g) table salt
+                    - 1/2 cup (57g) whole wheat or pumpernickel flour
+                    - 2 tbsp (25g) olive oil
+                    - 1 1/2 cups (340g) lukewarm water
+                    - 1/4 cup (28g) dry milk
+                    - 1 1/2 tsp instant yeast
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">3 3/4 cups (450g) all-purpose flour</td><td rowspan="7" class="rg-op">mix and knead into a smooth dough</td><td rowspan="7" class="rg-op">rise covered 45 min until puffy</td><td rowspan="7" class="rg-op">divide into 5 balls on greased sheet; cover and refrigerate 4 to 24 hours</td><td rowspan="7" class="rg-op">rest uncovered 30 min while oven preheats to 425°F, then slash tops</td><td rowspan="7" class="rg-op">bake 22 to 28 min at 425°F until deep brown and hollow-sounding; cool on rack</td></tr>
+  <tr><td class="rg-ing">2 tsp (12g) table salt</td></tr>
+  <tr><td class="rg-ing">1/2 cup (57g) whole wheat or pumpernickel flour</td></tr>
+  <tr><td class="rg-ing">2 tbsp (25g) olive oil</td></tr>
+  <tr><td class="rg-ing">1 1/2 cups (340g) lukewarm water</td></tr>
+  <tr><td class="rg-ing">1/4 cup (28g) dry milk</td></tr>
+  <tr><td class="rg-ing">1 1/2 tsp instant yeast</td></tr>
+</table>
+
 ## Ingredients
 
 * **All-Purpose Flour:** 3 3/4 cups (450g) King Arthur Unbleached All-Purpose Flour. *(Scaled 2.5x: 9 3/8 cups)*

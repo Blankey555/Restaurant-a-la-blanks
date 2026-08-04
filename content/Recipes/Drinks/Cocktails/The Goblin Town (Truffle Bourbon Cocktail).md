@@ -18,6 +18,32 @@ A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Rim a rocks glass with cocoa powder; place a large ice sphere inside
+steps:
+  op: stir with ice 30 seconds until well chilled; strain over the ice sphere; garnish with fresh shiso leaf and optional truffle shavings
+  of:
+    - op: "grate truffle into the bourbon; infuse sealed 2 weeks at room temperature; strain through a coffee filter; use 2 oz"
+      of:
+        - 1.75 L Bulleit bourbon
+        - 40 g fresh black winter truffle
+    - 0.5 oz dry vermouth (Dolin recommended)
+    - 0.5 oz shiso syrup (see Shiso Syrup recipe)
+    - 0.25 tsp ume plum vinegar
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="3">Rim a rocks glass with cocoa powder; place a large ice sphere inside</td></tr>
+  <tr><td class="rg-ing">1.75 L Bulleit bourbon</td><td rowspan="2" class="rg-op">grate truffle into the bourbon; infuse sealed 2 weeks at room temperature; strain through a coffee filter; use 2 oz</td><td rowspan="5" class="rg-op">stir with ice 30 seconds until well chilled; strain over the ice sphere; garnish with fresh shiso leaf and optional truffle shavings</td></tr>
+  <tr><td class="rg-ing">40 g fresh black winter truffle</td></tr>
+  <tr><td colspan="2" class="rg-ing">0.5 oz dry vermouth (Dolin recommended)</td></tr>
+  <tr><td colspan="2" class="rg-ing">0.5 oz shiso syrup (see Shiso Syrup recipe)</td></tr>
+  <tr><td colspan="2" class="rg-ing">0.25 tsp ume plum vinegar</td></tr>
+</table>
+
 ## Components
 
 - Truffle-Infused Bourbon

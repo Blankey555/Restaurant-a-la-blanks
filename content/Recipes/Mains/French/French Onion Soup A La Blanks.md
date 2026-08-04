@@ -25,6 +25,51 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: Ladle into oven-safe bowls, float toast, cover with Gruyère; broil 2 to 4 min until bubbling and deeply golden; serve immediately
+  of:
+    - op: Simmer uncovered at least 1 to 2 hours, up to 12, thinning with stock or water as it concentrates; remove bay leaves and season
+      of:
+        - op: Deglaze 2 min until the alcohol absorbs
+          of:
+            - op: Caramelize low and slow at least 1 hour until deeply golden, almost black at the edges
+              of:
+                - 4 tbsp unsalted butter
+                - 4 tbsp olive oil
+                - 4 yellow onions, thinly sliced
+                - 4 red onions, thinly sliced
+            - 2 tbsp brandy or cognac
+        - 5 cups beef stock
+        - 1 tsp dried thyme
+        - 2 bay leaves
+        - salt and black pepper, to taste
+        - "optional: 1 to 2 short ribs, seared first in the pot, returned for the simmer, bones removed before serving"
+    - op: Butter generously and toast until very firm and golden on both sides
+      of:
+        - 4 thick slices crusty bread (sourdough or baguette)
+        - unsalted butter, for toasting
+    - 1 1/2 cups Gruyère, grated
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">4 tbsp unsalted butter</td><td rowspan="4" class="rg-op">Caramelize low and slow at least 1 hour until deeply golden, almost black at the edges</td><td rowspan="5" class="rg-op">Deglaze 2 min until the alcohol absorbs</td><td rowspan="10" class="rg-op">Simmer uncovered at least 1 to 2 hours, up to 12, thinning with stock or water as it concentrates; remove bay leaves and season</td><td rowspan="13" class="rg-op">Ladle into oven-safe bowls, float toast, cover with Gruyère; broil 2 to 4 min until bubbling and deeply golden; serve immediately</td></tr>
+  <tr><td class="rg-ing">4 tbsp olive oil</td></tr>
+  <tr><td class="rg-ing">4 yellow onions, thinly sliced</td></tr>
+  <tr><td class="rg-ing">4 red onions, thinly sliced</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp brandy or cognac</td></tr>
+  <tr><td colspan="3" class="rg-ing">5 cups beef stock</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tsp dried thyme</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 bay leaves</td></tr>
+  <tr><td colspan="3" class="rg-ing">salt and black pepper, to taste</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: 1 to 2 short ribs, seared first in the pot, returned for the simmer, bones removed before serving</td></tr>
+  <tr><td colspan="3" class="rg-ing">4 thick slices crusty bread (sourdough or baguette)</td><td rowspan="2" class="rg-op">Butter generously and toast until very firm and golden on both sides</td></tr>
+  <tr><td colspan="3" class="rg-ing">unsalted butter, for toasting</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 1/2 cups Gruyère, grated</td></tr>
+</table>
+
 ## Ingredients
 
 ### Soup

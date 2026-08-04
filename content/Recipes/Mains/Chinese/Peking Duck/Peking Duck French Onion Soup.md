@@ -29,6 +29,76 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat broiler for finishing
+steps:
+  op: "ladle soup into oven-safe bowls, float toast on top, cover generously with grated Gruyère; broil 2 to 4 minutes until bubbling and golden, serve immediately"
+  of:
+    - op: "add stock, aromatics, and optional add-ins; boil then simmer uncovered 2 to 12 hours, refreshing periodically with splashes of Shaoxing and pinches of five spice; remove bay leaves, stir in 1 tbsp Shaoxing off heat, adjust with red vinegar"
+      of:
+        - op: "deglaze with 2 tbsp of the Shaoxing and the red vinegar, cook 2 minutes"
+          of:
+            - op: "caramelize low and slow in duck fat and olive oil, at least 1 hour, until deeply golden and almost black at the edges"
+              of:
+                - "½ cup rendered Peking duck fat (or unsalted butter)"
+                - 4 tbsp olive oil
+                - 4 yellow onions, thinly sliced
+                - 4 red onions, thinly sliced
+            - "3 tbsp Shaoxing rice wine, divided"
+            - 1 tbsp Chinese red vinegar
+        - op: "simmer stock uncovered 3 to 4 hours until reduced by a third; strain, season lightly with salt (yields 5 cups)"
+          of:
+            - op: "roast at 425°F for 20 to 25 minutes until deeply browned"
+              of:
+                - Roasted Peking duck carcass, bones, and meat scraps
+            - 1 onion, halved
+            - 4 cloves garlic, smashed
+            - 2 inch piece fresh ginger, sliced
+            - 2 star anise
+            - 1 cinnamon stick
+            - 2 tbsp Shaoxing rice wine
+            - 1 tbsp Chinese red vinegar (Zhenjiang)
+            - Cold water to cover
+        - "¼ tsp five spice powder, plus more to taste"
+        - 1 tsp dried thyme
+        - 2 bay leaves
+        - "optional: 1 to 2 packets gelatin, bloomed in 2 tbsp cold water 5 minutes, whisked in near the end"
+        - "optional: 2 tbsp duck and/or veal demi-glace"
+    - op: "brush bread with duck fat or butter, toast until very firm and golden on both sides"
+      of:
+        - Crusty bread slices
+    - Grated Gruyère
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="5">Preheat broiler for finishing</td></tr>
+  <tr><td class="rg-ing">½ cup rendered Peking duck fat (or unsalted butter)</td><td rowspan="4" class="rg-op">caramelize low and slow in duck fat and olive oil, at least 1 hour, until deeply golden and almost black at the edges</td><td rowspan="6" class="rg-op">deglaze with 2 tbsp of the Shaoxing and the red vinegar, cook 2 minutes</td><td rowspan="20" class="rg-op">add stock, aromatics, and optional add-ins; boil then simmer uncovered 2 to 12 hours, refreshing periodically with splashes of Shaoxing and pinches of five spice; remove bay leaves, stir in 1 tbsp Shaoxing off heat, adjust with red vinegar</td><td rowspan="22" class="rg-op">ladle soup into oven-safe bowls, float toast on top, cover generously with grated Gruyère; broil 2 to 4 minutes until bubbling and golden, serve immediately</td></tr>
+  <tr><td class="rg-ing">4 tbsp olive oil</td></tr>
+  <tr><td class="rg-ing">4 yellow onions, thinly sliced</td></tr>
+  <tr><td class="rg-ing">4 red onions, thinly sliced</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 tbsp Shaoxing rice wine, divided</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp Chinese red vinegar</td></tr>
+  <tr><td class="rg-ing">Roasted Peking duck carcass, bones, and meat scraps</td><td class="rg-op">roast at 425°F for 20 to 25 minutes until deeply browned</td><td rowspan="9" class="rg-op">simmer stock uncovered 3 to 4 hours until reduced by a third; strain, season lightly with salt (yields 5 cups)</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 onion, halved</td></tr>
+  <tr><td colspan="2" class="rg-ing">4 cloves garlic, smashed</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 inch piece fresh ginger, sliced</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 star anise</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cinnamon stick</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp Shaoxing rice wine</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp Chinese red vinegar (Zhenjiang)</td></tr>
+  <tr><td colspan="2" class="rg-ing">Cold water to cover</td></tr>
+  <tr><td colspan="3" class="rg-ing">¼ tsp five spice powder, plus more to taste</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tsp dried thyme</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 bay leaves</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: 1 to 2 packets gelatin, bloomed in 2 tbsp cold water 5 minutes, whisked in near the end</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: 2 tbsp duck and/or veal demi-glace</td></tr>
+  <tr><td colspan="3" class="rg-ing">Crusty bread slices</td><td class="rg-op">brush bread with duck fat or butter, toast until very firm and golden on both sides</td></tr>
+  <tr><td colspan="4" class="rg-ing">Grated Gruyère</td></tr>
+</table>
+
 ## Components
 
 - Duck Stock

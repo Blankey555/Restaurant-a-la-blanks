@@ -14,6 +14,105 @@ difficulty: hard
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: Pool velouté on warm plates, add panisse, nest castelfranco alongside, set salmon skin side up, spoon pesto over and around; finish with olive oil and flaky salt
+  of:
+    - op: Slice set panisse 1/2 inch thick; fry in olive oil 3 to 4 min per side until deeply golden; drain and season with flaky salt
+      of:
+        - op: Pour into an oiled dish and refrigerate at least 1 hour until firm
+          of:
+            - op: Whisk chickpea flour into simmering water; cook 10 to 15 min, stirring constantly, until thick; stir in herbs
+              of:
+                - 2 cups water
+                - 1 cup chickpea flour (besan)
+                - 1 tbsp olive oil, plus more for frying
+                - 1 tsp salt and 1/2 tsp white pepper
+                - 1 tbsp fresh thyme leaves
+                - 1 tbsp fresh chives, finely chopped
+                - 1 tbsp fresh flat-leaf parsley, finely chopped
+    - op: Whisk in both mustards off heat; season with salt, white pepper, and lemon; keep warm without boiling
+      of:
+        - op: Add cream and simmer gently about 5 min until the sauce coats a spoon
+          of:
+            - op: Add wine and reduce by half, then add stock and reduce by half again
+              of:
+                - op: Sweat shallot in butter about 3 min until translucent
+                  of:
+                    - 1 tbsp unsalted butter
+                    - 1 small shallot, finely minced
+                - 1/2 cup dry white wine
+                - 1 cup chicken or vegetable stock
+            - 1/2 cup heavy cream
+        - 1 1/2 tbsp Dijon mustard
+        - 1 tsp wholegrain mustard
+        - squeeze of lemon juice
+    - op: Season with lemon juice, salt, and pepper; loosen with more oil if needed
+      of:
+        - op: Drizzle in olive oil with the motor running until a loose, bright pesto forms
+          of:
+            - op: Pulse until roughly chopped
+              of:
+                - 1 cup fresh tarragon leaves
+                - 1/2 cup fresh flat-leaf parsley leaves
+                - 1 small clove garlic
+                - 2 tbsp toasted pine nuts or blanched almonds
+            - 1/4 cup good quality olive oil
+        - 1 tbsp lemon juice
+    - op: Add castelfranco and a splash of wine; wilt about 1 min, keeping some texture; season and keep warm
+      of:
+        - op: Soften shallot in butter about 2 min
+          of:
+            - 1 tbsp unsalted butter
+            - 1 small shallot, thinly sliced
+        - 1 small head castelfranco radicchio, leaves torn
+        - splash of white wine or white wine vinegar
+    - op: Flip, cook 1 min on the flesh side; rest 2 min
+      of:
+        - op: Sear skin side down 4 to 5 min until crisp, then baste with foaming butter, thyme, and garlic
+          of:
+            - 2 skin-on salmon fillets (approximately 6 oz / 175g each), patted dry and seasoned
+            - 1 tbsp neutral oil
+            - 1 tbsp unsalted butter
+            - 1 sprig thyme
+            - 1 clove garlic, crushed
+-->
+
+<table class="recipe-grid">
+  <tr><td colspan="2" class="rg-ing">2 cups water</td><td rowspan="7" class="rg-op">Whisk chickpea flour into simmering water; cook 10 to 15 min, stirring constantly, until thick; stir in herbs</td><td rowspan="7" class="rg-op">Pour into an oiled dish and refrigerate at least 1 hour until firm</td><td rowspan="7" class="rg-op">Slice set panisse 1/2 inch thick; fry in olive oil 3 to 4 min per side until deeply golden; drain and season with flaky salt</td><td rowspan="30" class="rg-op">Pool velouté on warm plates, add panisse, nest castelfranco alongside, set salmon skin side up, spoon pesto over and around; finish with olive oil and flaky salt</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup chickpea flour (besan)</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp olive oil, plus more for frying</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp salt and 1/2 tsp white pepper</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp fresh thyme leaves</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp fresh chives, finely chopped</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp fresh flat-leaf parsley, finely chopped</td></tr>
+  <tr><td class="rg-ing">1 tbsp unsalted butter</td><td rowspan="2" class="rg-op">Sweat shallot in butter about 3 min until translucent</td><td rowspan="4" class="rg-op">Add wine and reduce by half, then add stock and reduce by half again</td><td rowspan="5" class="rg-op">Add cream and simmer gently about 5 min until the sauce coats a spoon</td><td rowspan="8" class="rg-op">Whisk in both mustards off heat; season with salt, white pepper, and lemon; keep warm without boiling</td></tr>
+  <tr><td class="rg-ing">1 small shallot, finely minced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/2 cup dry white wine</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup chicken or vegetable stock</td></tr>
+  <tr><td colspan="3" class="rg-ing">1/2 cup heavy cream</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 1/2 tbsp Dijon mustard</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 tsp wholegrain mustard</td></tr>
+  <tr><td colspan="4" class="rg-ing">squeeze of lemon juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup fresh tarragon leaves</td><td rowspan="4" class="rg-op">Pulse until roughly chopped</td><td rowspan="5" class="rg-op">Drizzle in olive oil with the motor running until a loose, bright pesto forms</td><td rowspan="6" class="rg-op">Season with lemon juice, salt, and pepper; loosen with more oil if needed</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/2 cup fresh flat-leaf parsley leaves</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 small clove garlic</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp toasted pine nuts or blanched almonds</td></tr>
+  <tr><td colspan="3" class="rg-ing">1/4 cup good quality olive oil</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 tbsp lemon juice</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tbsp unsalted butter</td><td rowspan="2" class="rg-op">Soften shallot in butter about 2 min</td><td rowspan="4" class="rg-op">Add castelfranco and a splash of wine; wilt about 1 min, keeping some texture; season and keep warm</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 small shallot, thinly sliced</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 small head castelfranco radicchio, leaves torn</td></tr>
+  <tr><td colspan="4" class="rg-ing">splash of white wine or white wine vinegar</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 skin-on salmon fillets (approximately 6 oz / 175g each), patted dry and seasoned</td><td rowspan="5" class="rg-op">Sear skin side down 4 to 5 min until crisp, then baste with foaming butter, thyme, and garlic</td><td rowspan="5" class="rg-op">Flip, cook 1 min on the flesh side; rest 2 min</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tbsp neutral oil</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tbsp unsalted butter</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 sprig thyme</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 clove garlic, crushed</td></tr>
+</table>
+
 ## Components
 
 - Herb Panisse

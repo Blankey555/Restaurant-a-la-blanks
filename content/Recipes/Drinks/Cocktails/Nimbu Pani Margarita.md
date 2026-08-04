@@ -11,6 +11,38 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Rim a rocks glass with black salt and chaat masala mix; fill with ice
+steps:
+  op: shake hard with ice 15 seconds; strain over fresh ice into the rimmed glass; garnish with lime wheel and optional mint sprig
+  of:
+    - op: stir in the spices
+      of:
+        - op: stir until the sugar dissolves
+          of:
+            - 2 tbsp fresh lime juice
+            - 1 tsp sugar, or to taste
+        - "¼ tsp black salt (kala namak)"
+        - "¼ tsp chaat masala"
+        - pinch of black pepper powder
+    - 2 oz blanco tequila
+    - "½ oz triple sec"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="4">Rim a rocks glass with black salt and chaat masala mix; fill with ice</td></tr>
+  <tr><td class="rg-ing">2 tbsp fresh lime juice</td><td rowspan="2" class="rg-op">stir until the sugar dissolves</td><td rowspan="5" class="rg-op">stir in the spices</td><td rowspan="7" class="rg-op">shake hard with ice 15 seconds; strain over fresh ice into the rimmed glass; garnish with lime wheel and optional mint sprig</td></tr>
+  <tr><td class="rg-ing">1 tsp sugar, or to taste</td></tr>
+  <tr><td colspan="2" class="rg-ing">¼ tsp black salt (kala namak)</td></tr>
+  <tr><td colspan="2" class="rg-ing">¼ tsp chaat masala</td></tr>
+  <tr><td colspan="2" class="rg-ing">pinch of black pepper powder</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 oz blanco tequila</td></tr>
+  <tr><td colspan="3" class="rg-ing">½ oz triple sec</td></tr>
+</table>
+
 ## Ingredients
 
 ### Nimbu Pani Base

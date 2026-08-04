@@ -15,6 +15,45 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "day 2, slice into ¼-inch rounds; optional quick torch sear; drizzle generously with warmed braising sauce"
+  of:
+    - op: "marinate refrigerated in 1 cup strained braising liquid at least 8 hours or overnight"
+      of:
+        - op: "bring to a boil, skim; simmer on low under drop lid (otoshibuta) 45 to 60 minutes, turning every 15 minutes; pull at 145°F, cool slightly in liquid"
+          of:
+            - op: "sear all sides in cast iron over high heat until evenly golden, 8 to 10 minutes"
+              of:
+                - op: "roll and tie with butcher twine at ½-inch intervals if irregular"
+                  of:
+                    - "1 boneless pork loin, 2 to 2½ lb"
+                - 1 tbsp neutral oil
+            - op: "combine in a heavy pot just large enough to hold the loin"
+              of:
+                - 1 cup sake
+                - 1 cup soy sauce
+                - 2 cups water
+                - "⅔ cup sugar"
+                - 2 tbsp mirin
+                - 1 Tokyo negi, green part only (or leek or green onions)
+                - 1 inch fresh ginger, unpeeled, cut into 4 slices
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 boneless pork loin, 2 to 2½ lb</td><td class="rg-op">roll and tie with butcher twine at ½-inch intervals if irregular</td><td rowspan="2" class="rg-op">sear all sides in cast iron over high heat until evenly golden, 8 to 10 minutes</td><td rowspan="9" class="rg-op">bring to a boil, skim; simmer on low under drop lid (otoshibuta) 45 to 60 minutes, turning every 15 minutes; pull at 145°F, cool slightly in liquid</td><td rowspan="9" class="rg-op">marinate refrigerated in 1 cup strained braising liquid at least 8 hours or overnight</td><td rowspan="9" class="rg-op">day 2, slice into ¼-inch rounds; optional quick torch sear; drizzle generously with warmed braising sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp neutral oil</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup sake</td><td rowspan="7" class="rg-op">combine in a heavy pot just large enough to hold the loin</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup soy sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 cups water</td></tr>
+  <tr><td colspan="2" class="rg-ing">⅔ cup sugar</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp mirin</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 Tokyo negi, green part only (or leek or green onions)</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 inch fresh ginger, unpeeled, cut into 4 slices</td></tr>
+</table>
+
 ## Ingredients
 
 - 1 boneless pork loin, 2 to 2½ lb (907 to 1134g)

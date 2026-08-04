@@ -11,6 +11,34 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Rim a rocks glass with black salt and chaat masala mix
+steps:
+  op: shake hard with ice 15 seconds; strain over fresh ice into the rimmed glass; garnish with watermelon wedge and mint sprig
+  of:
+    - op: stir until the sugar dissolves, tasting as you go
+      of:
+        - 3 oz fresh watermelon juice, strained
+        - "¾ oz fresh lime juice"
+        - "¼ tsp black salt (kala namak)"
+        - "½ tsp sugar or simple syrup, or to taste"
+        - "optional: pinch each of chaat masala, black pepper, Tajín, or cumin"
+    - "1½ oz clean neutral vodka"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="3">Rim a rocks glass with black salt and chaat masala mix</td></tr>
+  <tr><td class="rg-ing">3 oz fresh watermelon juice, strained</td><td rowspan="5" class="rg-op">stir until the sugar dissolves, tasting as you go</td><td rowspan="6" class="rg-op">shake hard with ice 15 seconds; strain over fresh ice into the rimmed glass; garnish with watermelon wedge and mint sprig</td></tr>
+  <tr><td class="rg-ing">¾ oz fresh lime juice</td></tr>
+  <tr><td class="rg-ing">¼ tsp black salt (kala namak)</td></tr>
+  <tr><td class="rg-ing">½ tsp sugar or simple syrup, or to taste</td></tr>
+  <tr><td class="rg-ing">optional: pinch each of chaat masala, black pepper, Tajín, or cumin</td></tr>
+  <tr><td colspan="2" class="rg-ing">1½ oz clean neutral vodka</td></tr>
+</table>
+
 ## Ingredients
 
 ### Base

@@ -11,6 +11,43 @@ cook_time: 1 hr
 difficulty: easy
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "knead or mix thoroughly; adjust seasoning; shape and garnish with parsley, chopped bell peppers, and scallions"
+  of:
+    - op: "rest covered 10 minutes"
+      of:
+        - op: spoon cooked lentils over the cracked wheat; mix to blend
+          of:
+            - op: "add salt; simmer covered 40 to 50 min, stirring, until a thick yellow mass with water absorbed"
+              of:
+                - op: "bring to a boil; simmer 5 min, skimming foam"
+                  of:
+                    - "2 1/2 cups red lentils, picked over and rinsed"
+                    - 6 cups water
+                - 4 teaspoons salt
+            - 2 cups fine cracked wheat
+    - op: stir together
+      of:
+        - op: sauté in the hot oil just until beginning to brown
+          of:
+            - "1 1/2 cups olive oil (or less)"
+            - 2 cups coarsely chopped onion
+        - 2 teaspoons cayenne red pepper (1 tsp for less hot)
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">2 1/2 cups red lentils, picked over and rinsed</td><td rowspan="2" class="rg-op">bring to a boil; simmer 5 min, skimming foam</td><td rowspan="3" class="rg-op">add salt; simmer covered 40 to 50 min, stirring, until a thick yellow mass with water absorbed</td><td rowspan="4" class="rg-op">spoon cooked lentils over the cracked wheat; mix to blend</td><td rowspan="4" class="rg-op">rest covered 10 minutes</td><td rowspan="7" class="rg-op">knead or mix thoroughly; adjust seasoning; shape and garnish with parsley, chopped bell peppers, and scallions</td></tr>
+  <tr><td class="rg-ing">6 cups water</td></tr>
+  <tr><td colspan="2" class="rg-ing">4 teaspoons salt</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 cups fine cracked wheat</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 1/2 cups olive oil (or less)</td><td rowspan="2" class="rg-op">sauté in the hot oil just until beginning to brown</td><td rowspan="3" class="rg-op">stir together</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 cups coarsely chopped onion</td></tr>
+  <tr><td colspan="4" class="rg-ing">2 teaspoons cayenne red pepper (1 tsp for less hot)</td></tr>
+</table>
+
 ## Ingredients
 
 * 2 1/2 cups red lentils, picked over and rinsed.

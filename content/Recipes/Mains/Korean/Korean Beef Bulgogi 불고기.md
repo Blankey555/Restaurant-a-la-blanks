@@ -12,6 +12,41 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: cook in batches over medium-high heat, 2 to 3 minutes per side until charred; garnish with green onions and sesame seeds
+  of:
+    - op: marinate in a zip-lock bag at least 2 hours, up to overnight in the fridge
+      of:
+        - op: freeze 30 minutes, then slice across the grain into ¼ inch pieces
+          of:
+            - "1½ lb boneless ribeye steak"
+        - op: combine into a marinade
+          of:
+            - "½ small pear, peeled and grated"
+            - "¼ cup reduced sodium soy sauce"
+            - 2 tbsp brown sugar
+            - 2 tbsp toasted sesame oil
+            - 3 cloves garlic, minced
+            - 1 tbsp fresh ginger, grated
+            - 1 tbsp gochujang
+    - 2 tbsp vegetable oil, divided
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1½ lb boneless ribeye steak</td><td class="rg-op">freeze 30 minutes, then slice across the grain into ¼ inch pieces</td><td rowspan="8" class="rg-op">marinate in a zip-lock bag at least 2 hours, up to overnight in the fridge</td><td rowspan="9" class="rg-op">cook in batches over medium-high heat, 2 to 3 minutes per side until charred; garnish with green onions and sesame seeds</td></tr>
+  <tr><td class="rg-ing">½ small pear, peeled and grated</td><td rowspan="7" class="rg-op">combine into a marinade</td></tr>
+  <tr><td class="rg-ing">¼ cup reduced sodium soy sauce</td></tr>
+  <tr><td class="rg-ing">2 tbsp brown sugar</td></tr>
+  <tr><td class="rg-ing">2 tbsp toasted sesame oil</td></tr>
+  <tr><td class="rg-ing">3 cloves garlic, minced</td></tr>
+  <tr><td class="rg-ing">1 tbsp fresh ginger, grated</td></tr>
+  <tr><td class="rg-ing">1 tbsp gochujang</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 tbsp vegetable oil, divided</td></tr>
+</table>
+
 ## Ingredients
 
 - 1½ lb boneless ribeye steak (or top sirloin, flank, or skirt steak)

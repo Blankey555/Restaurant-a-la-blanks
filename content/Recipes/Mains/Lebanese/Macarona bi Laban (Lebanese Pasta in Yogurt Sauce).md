@@ -12,6 +12,41 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: Spoon the mint pine nut butter over the sauced pasta; serve immediately
+  of:
+    - op: Stir pasta gently into the sauce; loosen with reserved pasta water if too thick
+      of:
+        - op: Boil in well-salted water until al dente; reserve 1/2 cup pasta water and drain
+          of:
+            - 400g short pasta (penne, rigatoni, or elbow)
+        - op: Whisk smooth, then heat over medium-low, stirring constantly in one direction, until simmering and slightly thickened, 8 to 10 min
+          of:
+            - 3 cups full-fat plain yogurt, room temperature
+            - 2 to 3 cloves garlic, crushed to a paste with a pinch of salt
+            - 1 tbsp cornstarch dissolved in 2 tbsp cold water
+            - 1/2 tsp salt
+    - op: Melt butter until foaming; toast pine nuts 2 to 3 min until golden; stir in mint off the heat
+      of:
+        - 2 tbsp unsalted butter
+        - 1/4 cup pine nuts
+        - 1 tsp dried mint (or 1 tbsp fresh mint, chopped)
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">400g short pasta (penne, rigatoni, or elbow)</td><td class="rg-op">Boil in well-salted water until al dente; reserve 1/2 cup pasta water and drain</td><td rowspan="5" class="rg-op">Stir pasta gently into the sauce; loosen with reserved pasta water if too thick</td><td rowspan="8" class="rg-op">Spoon the mint pine nut butter over the sauced pasta; serve immediately</td></tr>
+  <tr><td class="rg-ing">3 cups full-fat plain yogurt, room temperature</td><td rowspan="4" class="rg-op">Whisk smooth, then heat over medium-low, stirring constantly in one direction, until simmering and slightly thickened, 8 to 10 min</td></tr>
+  <tr><td class="rg-ing">2 to 3 cloves garlic, crushed to a paste with a pinch of salt</td></tr>
+  <tr><td class="rg-ing">1 tbsp cornstarch dissolved in 2 tbsp cold water</td></tr>
+  <tr><td class="rg-ing">1/2 tsp salt</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp unsalted butter</td><td rowspan="3" class="rg-op">Melt butter until foaming; toast pine nuts 2 to 3 min until golden; stir in mint off the heat</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/4 cup pine nuts</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp dried mint (or 1 tbsp fresh mint, chopped)</td></tr>
+</table>
+
 ## Ingredients
 
 ### Pasta

@@ -4,6 +4,33 @@ prep_time: 10 min
 difficulty: easy
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: toss thoroughly until evenly coated; serve immediately or refrigerate to develop flavors
+  of:
+    - op: whisk until completely smooth
+      of:
+        - "1/2 cup mayonnaise"
+        - 2 tablespoons apple cider vinegar
+        - 2 tablespoons maple syrup
+        - 1 teaspoon Dijon mustard
+        - 1 teaspoon celery seed
+        - Salt and pepper to taste
+    - 16 oz shredded coleslaw mix
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1/2 cup mayonnaise</td><td rowspan="6" class="rg-op">whisk until completely smooth</td><td rowspan="7" class="rg-op">toss thoroughly until evenly coated; serve immediately or refrigerate to develop flavors</td></tr>
+  <tr><td class="rg-ing">2 tablespoons apple cider vinegar</td></tr>
+  <tr><td class="rg-ing">2 tablespoons maple syrup</td></tr>
+  <tr><td class="rg-ing">1 teaspoon Dijon mustard</td></tr>
+  <tr><td class="rg-ing">1 teaspoon celery seed</td></tr>
+  <tr><td class="rg-ing">Salt and pepper to taste</td></tr>
+  <tr><td colspan="2" class="rg-ing">16 oz shredded coleslaw mix</td></tr>
+</table>
+
 ## Ingredients
 
 * 1/2 cup mayonnaise

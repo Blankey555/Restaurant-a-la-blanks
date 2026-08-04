@@ -13,6 +13,43 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "day 2, remove twine, slice into ¼-inch rounds; optional torch sear (aburi); strain remaining sauce and keep up to 1 month"
+  of:
+    - op: "marinate refrigerated in ½ cup strained braising liquid at least 8 hours or overnight (optional soft-boiled eggs in remaining liquid for ramen eggs)"
+      of:
+        - op: "bring to a boil, skim; simmer on low under drop lid (otoshibuta) 2 hours, turning every 30 minutes; cool slightly"
+          of:
+            - op: "sear all sides in cast iron over high heat until evenly golden, 10 to 15 minutes"
+              of:
+                - op: "roll into a compact log, tie tightly with butcher twine every ⅓ inch"
+                  of:
+                    - "1 block pork belly, 2 to 2½ lb, rind removed"
+                - 1 tbsp neutral oil
+            - op: "combine in a heavy pot just large enough to hold the roll"
+              of:
+                - 1 cup sake
+                - 1 cup soy sauce
+                - 2 cups water
+                - "⅔ cup sugar"
+                - 1 Tokyo negi, green part only (or leek or green onions)
+                - 1 inch fresh ginger, unpeeled, cut into 4 slices
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 block pork belly, 2 to 2½ lb, rind removed</td><td class="rg-op">roll into a compact log, tie tightly with butcher twine every ⅓ inch</td><td rowspan="2" class="rg-op">sear all sides in cast iron over high heat until evenly golden, 10 to 15 minutes</td><td rowspan="8" class="rg-op">bring to a boil, skim; simmer on low under drop lid (otoshibuta) 2 hours, turning every 30 minutes; cool slightly</td><td rowspan="8" class="rg-op">marinate refrigerated in ½ cup strained braising liquid at least 8 hours or overnight (optional soft-boiled eggs in remaining liquid for ramen eggs)</td><td rowspan="8" class="rg-op">day 2, remove twine, slice into ¼-inch rounds; optional torch sear (aburi); strain remaining sauce and keep up to 1 month</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp neutral oil</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup sake</td><td rowspan="6" class="rg-op">combine in a heavy pot just large enough to hold the roll</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup soy sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 cups water</td></tr>
+  <tr><td colspan="2" class="rg-ing">⅔ cup sugar</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 Tokyo negi, green part only (or leek or green onions)</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 inch fresh ginger, unpeeled, cut into 4 slices</td></tr>
+</table>
+
 ## Ingredients
 
 ### Rolled Chashu Log (serves 8 to 10)

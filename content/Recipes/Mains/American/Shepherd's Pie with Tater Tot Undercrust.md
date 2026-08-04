@@ -25,6 +25,82 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat oven to 425°F for the tater tots, then 400°F for the final bake
+steps:
+  op: Layer tot crust, filling, then mash in the dish; top generously with extra cheddar or parmesan; bake at 400°F 25 to 30 min until golden and bubbling; rest 10 min
+  of:
+    - op: Bake at 425°F 25 to 30 min until very crispy, then smash into a greased baking dish as a dense crust
+      of:
+        - 1 bag frozen tater tots (approximately 32 oz)
+        - olive oil or cooking spray, plus salt
+    - op: Simmer uncovered 30 to 40 min until moist but not soupy; add peas in the final 5 min; remove bay leaves and herb sprigs; season
+      of:
+        - op: Pour in Guinness slowly, scraping up browned bits; reduce 5 min, then add broth, chili crisp, and herbs
+          of:
+            - op: Brown the meat, stir in carrots, then cook tomato paste 2 min to coat
+              of:
+                - op: Cook onions in butter low and slow 15 to 20 min until caramelizing; add garlic for 2 min
+                  of:
+                    - 2 tbsp unsalted butter
+                    - 1 large onion, finely diced
+                    - 4 cloves garlic, minced
+                - 1 1/2 lb ground lamb (or beef)
+                - 2 medium carrots, diced
+                - 2 tbsp tomato paste
+            - 1 bottle Guinness stout
+            - 1 cup beef or lamb broth
+            - 1 tbsp chili crisp
+            - 2 bay leaves
+            - 2 sprigs fresh rosemary
+            - 4 sprigs fresh thyme
+        - 1 cup frozen peas
+        - "optional: 1 tbsp flour or cornstarch slurry, if needed for thickening"
+    - op: Mash smooth; add herb cream gradually, then butter, cheddar, and yogurt; season with salt and white pepper
+      of:
+        - op: Boil in well-salted water about 20 min until tender; drain and dry over low heat 1 to 2 min
+          of:
+            - 2 lb russet or Yukon Gold potatoes, peeled and cubed
+        - op: Warm over low heat 10 min without boiling; strain out herbs
+          of:
+            - 1 cup heavy cream
+            - 2 sprigs fresh rosemary
+            - 4 sprigs fresh thyme
+        - 3 tbsp unsalted butter (or browned butter)
+        - 1 cup sharp cheddar, grated
+        - 3 tbsp Greek yogurt
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="6">Preheat oven to 425°F for the tater tots, then 400°F for the final bake</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 bag frozen tater tots (approximately 32 oz)</td><td rowspan="2" class="rg-op">Bake at 425°F 25 to 30 min until very crispy, then smash into a greased baking dish as a dense crust</td><td rowspan="23" class="rg-op">Layer tot crust, filling, then mash in the dish; top generously with extra cheddar or parmesan; bake at 400°F 25 to 30 min until golden and bubbling; rest 10 min</td></tr>
+  <tr><td colspan="4" class="rg-ing">olive oil or cooking spray, plus salt</td></tr>
+  <tr><td class="rg-ing">2 tbsp unsalted butter</td><td rowspan="3" class="rg-op">Cook onions in butter low and slow 15 to 20 min until caramelizing; add garlic for 2 min</td><td rowspan="6" class="rg-op">Brown the meat, stir in carrots, then cook tomato paste 2 min to coat</td><td rowspan="12" class="rg-op">Pour in Guinness slowly, scraping up browned bits; reduce 5 min, then add broth, chili crisp, and herbs</td><td rowspan="14" class="rg-op">Simmer uncovered 30 to 40 min until moist but not soupy; add peas in the final 5 min; remove bay leaves and herb sprigs; season</td></tr>
+  <tr><td class="rg-ing">1 large onion, finely diced</td></tr>
+  <tr><td class="rg-ing">4 cloves garlic, minced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 1/2 lb ground lamb (or beef)</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 medium carrots, diced</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp tomato paste</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 bottle Guinness stout</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 cup beef or lamb broth</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tbsp chili crisp</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 bay leaves</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 sprigs fresh rosemary</td></tr>
+  <tr><td colspan="3" class="rg-ing">4 sprigs fresh thyme</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 cup frozen peas</td></tr>
+  <tr><td colspan="4" class="rg-ing">optional: 1 tbsp flour or cornstarch slurry, if needed for thickening</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 lb russet or Yukon Gold potatoes, peeled and cubed</td><td class="rg-op">Boil in well-salted water about 20 min until tender; drain and dry over low heat 1 to 2 min</td><td rowspan="7" class="rg-op">Mash smooth; add herb cream gradually, then butter, cheddar, and yogurt; season with salt and white pepper</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 cup heavy cream</td><td rowspan="3" class="rg-op">Warm over low heat 10 min without boiling; strain out herbs</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 sprigs fresh rosemary</td></tr>
+  <tr><td colspan="3" class="rg-ing">4 sprigs fresh thyme</td></tr>
+  <tr><td colspan="4" class="rg-ing">3 tbsp unsalted butter (or browned butter)</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 cup sharp cheddar, grated</td></tr>
+  <tr><td colspan="4" class="rg-ing">3 tbsp Greek yogurt</td></tr>
+</table>
+
 ## Components
 
 - Guinness-Braised Meat Filling

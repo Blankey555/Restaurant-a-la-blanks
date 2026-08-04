@@ -16,6 +16,30 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Fill larger bowl halfway with ice; nest smaller bowl on top
+  - Set up smoker for cold smoking with dry applewood, cherry, or pecan chips; keep under 90°F
+steps:
+  op: whip cold in a chilled bowl to soft or medium peaks
+  of:
+    - op: refrigerate sealed, ideally overnight to deepen the smoke
+      of:
+        - op: cold smoke under 90°F 45 min, stirring every 20 to 30 min; extend in 15 to 30 min increments to taste
+          of:
+            - 1 cup heavy cream (36% fat or higher), in the ice-nested bowl
+    - "optional: sweetener to taste, added while whipping"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="4">Fill larger bowl halfway with ice; nest smaller bowl on top</td></tr>
+  <tr><td class="rg-setup" colspan="4">Set up smoker for cold smoking with dry applewood, cherry, or pecan chips; keep under 90°F</td></tr>
+  <tr><td class="rg-ing">1 cup heavy cream (36% fat or higher), in the ice-nested bowl</td><td class="rg-op">cold smoke under 90°F 45 min, stirring every 20 to 30 min; extend in 15 to 30 min increments to taste</td><td class="rg-op">refrigerate sealed, ideally overnight to deepen the smoke</td><td rowspan="2" class="rg-op">whip cold in a chilled bowl to soft or medium peaks</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: sweetener to taste, added while whipping</td></tr>
+</table>
+
 ## Ingredients
 
 - 1 cup heavy cream (36% fat or higher)

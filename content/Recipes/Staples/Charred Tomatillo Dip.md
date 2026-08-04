@@ -14,6 +14,35 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: pulse to preferred texture; adjust salt, lime, heat; refrigerate until serving
+  of:
+    - op: char under broiler or in dry cast iron 8 to 10 min until blackened and soft; peel garlic, stem pepper
+      of:
+        - 450 g tomatillos, husked and rinsed
+        - 4 garlic cloves, unpeeled
+        - 1 jalapeño or serrano pepper
+        - ½ white onion, quartered
+    - ½ cup fresh cilantro
+    - 1 lime, juiced
+    - 1 tsp salt
+    - ½ tsp cumin
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">450 g tomatillos, husked and rinsed</td><td rowspan="4" class="rg-op">char under broiler or in dry cast iron 8 to 10 min until blackened and soft; peel garlic, stem pepper</td><td rowspan="8" class="rg-op">pulse to preferred texture; adjust salt, lime, heat; refrigerate until serving</td></tr>
+  <tr><td class="rg-ing">4 garlic cloves, unpeeled</td></tr>
+  <tr><td class="rg-ing">1 jalapeño or serrano pepper</td></tr>
+  <tr><td class="rg-ing">½ white onion, quartered</td></tr>
+  <tr><td colspan="2" class="rg-ing">½ cup fresh cilantro</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 lime, juiced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp salt</td></tr>
+  <tr><td colspan="2" class="rg-ing">½ tsp cumin</td></tr>
+</table>
+
 ## Ingredients
 
 - 450 g tomatillos, husked and rinsed

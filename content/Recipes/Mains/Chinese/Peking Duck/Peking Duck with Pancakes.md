@@ -17,6 +17,63 @@ difficulty: hard
 
 *A refined version of the classic roast, utilizing a beer can spit for even airflow and a double-scald technique for maximum skin crispness.*
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "carve duck into thin slices with crispy skin attached; serve with hoisin and scallions in warm pancakes"
+  of:
+    - op: "roast at 350°F for 60 to 70 minutes with oven door slightly ajar, then 375 to 400°F for 15 minutes to brown skin"
+      of:
+        - op: "mount on spit, air-dry uncovered in refrigerator at least 24 hours until skin is tacky and dry; rest at room temperature 2 hours before roasting"
+          of:
+            - op: "pour boiling glaze over duck to scald a second time"
+              of:
+                - op: "inflate skin loose with pump, scald with boiling water, pat dry, rest 30 minutes"
+                  of:
+                    - 1 whole duck (approx. 2kg)
+                - op: "bring glaze to a boil"
+                  of:
+                    - 5 tbsp honey or maltose
+                    - 1 tbsp red vinegar
+                    - 1 tbsp Shaoxing wine
+                    - "2 tsp five spice powder, divided (1 tsp in glaze, 1 tsp into spit)"
+                    - "2 tsp salt, divided (1 tsp in glaze, 1 tsp into spit)"
+            - 1 half-full can of beer (or water) in a stainless steel vertical spit
+    - op: "toast in a dry pan over medium heat 30 to 45 seconds per side; peel pairs apart while warm, keep covered"
+      of:
+        - op: "roll into a log, cut into 20 discs; oil, stack in pairs, roll into thin 6-inch circles"
+          of:
+            - op: "knead 5 minutes, cover and rest 30 minutes"
+              of:
+                - op: "stir until a dough forms"
+                  of:
+                    - 2 cups all-purpose flour
+                    - 1 pinch salt
+                    - 3/4 cup boiling water
+                    - 1 tsp vegetable oil (plus extra for brushing)
+    - Hoisin sauce or sweet bean sauce (Tianmianjiang)
+    - Cucumber, julienned
+    - Scallions, shredded
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 whole duck (approx. 2kg)</td><td class="rg-op">inflate skin loose with pump, scald with boiling water, pat dry, rest 30 minutes</td><td rowspan="6" class="rg-op">pour boiling glaze over duck to scald a second time</td><td rowspan="7" class="rg-op">mount on spit, air-dry uncovered in refrigerator at least 24 hours until skin is tacky and dry; rest at room temperature 2 hours before roasting</td><td rowspan="7" class="rg-op">roast at 350°F for 60 to 70 minutes with oven door slightly ajar, then 375 to 400°F for 15 minutes to brown skin</td><td rowspan="14" class="rg-op">carve duck into thin slices with crispy skin attached; serve with hoisin and scallions in warm pancakes</td></tr>
+  <tr><td class="rg-ing">5 tbsp honey or maltose</td><td rowspan="5" class="rg-op">bring glaze to a boil</td></tr>
+  <tr><td class="rg-ing">1 tbsp red vinegar</td></tr>
+  <tr><td class="rg-ing">1 tbsp Shaoxing wine</td></tr>
+  <tr><td class="rg-ing">2 tsp five spice powder, divided (1 tsp in glaze, 1 tsp into spit)</td></tr>
+  <tr><td class="rg-ing">2 tsp salt, divided (1 tsp in glaze, 1 tsp into spit)</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 half-full can of beer (or water) in a stainless steel vertical spit</td></tr>
+  <tr><td class="rg-ing">2 cups all-purpose flour</td><td rowspan="4" class="rg-op">stir until a dough forms</td><td rowspan="4" class="rg-op">knead 5 minutes, cover and rest 30 minutes</td><td rowspan="4" class="rg-op">roll into a log, cut into 20 discs; oil, stack in pairs, roll into thin 6-inch circles</td><td rowspan="4" class="rg-op">toast in a dry pan over medium heat 30 to 45 seconds per side; peel pairs apart while warm, keep covered</td></tr>
+  <tr><td class="rg-ing">1 pinch salt</td></tr>
+  <tr><td class="rg-ing">3/4 cup boiling water</td></tr>
+  <tr><td class="rg-ing">1 tsp vegetable oil (plus extra for brushing)</td></tr>
+  <tr><td colspan="5" class="rg-ing">Hoisin sauce or sweet bean sauce (Tianmianjiang)</td></tr>
+  <tr><td colspan="5" class="rg-ing">Cucumber, julienned</td></tr>
+  <tr><td colspan="5" class="rg-ing">Scallions, shredded</td></tr>
+</table>
+
 ## Ingredients
 
 ### The Duck & Glaze

@@ -8,6 +8,43 @@ difficulty: hard
 
 *A delicate, paper-thin pastry made without gluten. This recipe uses psyllium husk to provide the necessary elasticity for stretching the dough.*
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: divide into 8, keep covered; roll and stretch each piece paper-thin on tapioca-dusted surface; trim, layer with parchment
+  of:
+    - op: knead 5 min until smooth and pliable; wrap and rest at least 30 min at room temperature
+      of:
+        - op: mix in a well until a rough dough forms
+          of:
+            - op: combine in a large bowl
+              of:
+                - 200g gluten-free flour blend (rice, potato, maize)
+                - 50g tapioca starch, plus extra for dusting
+                - 1/2 tsp xanthan gum
+                - 1/2 tsp salt
+            - op: whisk, rest 10 min until thick and jelly-like
+              of:
+                - 15g psyllium husk (whole)
+                - 200g warm water
+            - 1 large egg (room temperature)
+            - 1 tbsp apple cider vinegar
+            - 2 tbsp vegetable oil
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">200g gluten-free flour blend (rice, potato, maize)</td><td rowspan="4" class="rg-op">combine in a large bowl</td><td rowspan="9" class="rg-op">mix in a well until a rough dough forms</td><td rowspan="9" class="rg-op">knead 5 min until smooth and pliable; wrap and rest at least 30 min at room temperature</td><td rowspan="9" class="rg-op">divide into 8, keep covered; roll and stretch each piece paper-thin on tapioca-dusted surface; trim, layer with parchment</td></tr>
+  <tr><td class="rg-ing">50g tapioca starch, plus extra for dusting</td></tr>
+  <tr><td class="rg-ing">1/2 tsp xanthan gum</td></tr>
+  <tr><td class="rg-ing">1/2 tsp salt</td></tr>
+  <tr><td class="rg-ing">15g psyllium husk (whole)</td><td rowspan="2" class="rg-op">whisk, rest 10 min until thick and jelly-like</td></tr>
+  <tr><td class="rg-ing">200g warm water</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 large egg (room temperature)</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp apple cider vinegar</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp vegetable oil</td></tr>
+</table>
+
 ## Ingredients
 
 ### Psyllium Gel

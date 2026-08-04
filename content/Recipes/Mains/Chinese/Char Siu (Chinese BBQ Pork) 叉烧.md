@@ -13,6 +13,62 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - "Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below"
+steps:
+  op: "baste with any remaining sauce, rest 10 minutes, slice"
+  of:
+    - op: "baste both sides at 40 minutes, roast final 10 minutes (50 minutes total); broil 1 to 2 minutes if more color is needed"
+      of:
+        - op: "roast at 475°F 10 minutes, reduce to 375°F for 15 minutes; flip, rotate pan, roast 15 minutes more, adding water if pan is dry"
+          of:
+            - op: "rub pork with marinade, cover, refrigerate 8 hours to overnight"
+              of:
+                - op: "mix well; reserve 2 tbsp for basting sauce"
+                  of:
+                    - "¼ cup granulated white sugar"
+                    - 2 tsp salt
+                    - "½ tsp five spice powder"
+                    - "¼ tsp white pepper"
+                    - "½ tsp sesame oil"
+                    - 1 tbsp Shaoxing rice wine (or dry sherry)
+                    - 1 tbsp soy sauce
+                    - 1 tbsp hoisin sauce
+                    - 2 tsp molasses
+                    - "optional: ⅛ tsp red food coloring"
+                    - 3 cloves garlic, finely minced
+                - op: "cut into strips 2 to 3 inches thick, fat left on"
+                  of:
+                    - 3 lb boneless pork shoulder or pork butt
+        - op: "mix basting sauce, microwaving briefly to loosen maltose"
+          of:
+            - 2 tbsp reserved marinade
+            - 2 tbsp maltose or honey
+            - 1 tbsp hot water
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="6">Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below</td></tr>
+  <tr><td class="rg-ing">¼ cup granulated white sugar</td><td rowspan="11" class="rg-op">mix well; reserve 2 tbsp for basting sauce</td><td rowspan="12" class="rg-op">rub pork with marinade, cover, refrigerate 8 hours to overnight</td><td rowspan="12" class="rg-op">roast at 475°F 10 minutes, reduce to 375°F for 15 minutes; flip, rotate pan, roast 15 minutes more, adding water if pan is dry</td><td rowspan="15" class="rg-op">baste both sides at 40 minutes, roast final 10 minutes (50 minutes total); broil 1 to 2 minutes if more color is needed</td><td rowspan="15" class="rg-op">baste with any remaining sauce, rest 10 minutes, slice</td></tr>
+  <tr><td class="rg-ing">2 tsp salt</td></tr>
+  <tr><td class="rg-ing">½ tsp five spice powder</td></tr>
+  <tr><td class="rg-ing">¼ tsp white pepper</td></tr>
+  <tr><td class="rg-ing">½ tsp sesame oil</td></tr>
+  <tr><td class="rg-ing">1 tbsp Shaoxing rice wine (or dry sherry)</td></tr>
+  <tr><td class="rg-ing">1 tbsp soy sauce</td></tr>
+  <tr><td class="rg-ing">1 tbsp hoisin sauce</td></tr>
+  <tr><td class="rg-ing">2 tsp molasses</td></tr>
+  <tr><td class="rg-ing">optional: ⅛ tsp red food coloring</td></tr>
+  <tr><td class="rg-ing">3 cloves garlic, finely minced</td></tr>
+  <tr><td class="rg-ing">3 lb boneless pork shoulder or pork butt</td><td class="rg-op">cut into strips 2 to 3 inches thick, fat left on</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 tbsp reserved marinade</td><td rowspan="3" class="rg-op">mix basting sauce, microwaving briefly to loosen maltose</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 tbsp maltose or honey</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 tbsp hot water</td></tr>
+</table>
+
 ## Ingredients
 
 ### Marinade

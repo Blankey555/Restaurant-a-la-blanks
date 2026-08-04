@@ -6,6 +6,82 @@ difficulty: hard
 
 *A multi-day process involving a dry brine, herb compound butter, and a maple-balsamic glaze for deep flavor and crispy skin.*
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Day 3, remove turkey from fridge 3 hours before cooking; preheat oven to 185°C
+steps:
+  op: Serve rested turkey with pan gravy
+  of:
+    - op: Rest uncovered 1 to 1.5 hours; drain cavity juices into the tray and reserve fat and juices
+      of:
+        - op: Day 3, brush with olive oil, add water to tray, roast at 185°C for 25 min, then glaze and rotate every 25 min until breast reaches 150 to 155°F (65 to 68°C)
+          of:
+            - op: Day 2, blot dry, stuff compound butter under the skin and smear over the bird; add onions, lemons, garlic, and herbs to cavity; refrigerate overnight
+              of:
+                - op: Day 1, pat dry, mix salt and sugar 3 to 1, sprinkle over skin and cavity; refrigerate uncovered on a rack 24 hours
+                  of:
+                    - 1 whole large turkey (approx. 5kg)
+                    - 50g fine sea salt
+                    - 15g brown sugar
+                - op: Mix until fragrant
+                  of:
+                    - 500g unsalted butter, softened
+                    - 1 tbsp each of chopped rosemary, thyme, sage, and parsley
+                    - zest of 2 lemons
+                    - 3 cloves garlic, minced
+                    - 1 tsp sea salt and 1 tsp black pepper
+            - olive oil
+            - 100ml water (for roasting tray)
+            - op: Simmer 7 min until reduced, glossy, and spoon-coating; strain
+              of:
+                - 3 tbsp maple syrup
+                - 3 tbsp sherry vinegar
+                - 1 tbsp Worcestershire sauce
+                - 1 tsp dark soy sauce
+                - 3 strips orange peel
+                - 2 sprigs each of fresh rosemary and thyme
+                - 3 cloves garlic, gently smashed
+                - 4 tbsp unsalted butter
+    - op: Whisk fat and flour 1 to 2 min, whisk in wine to a paste, stream in stock and juices; simmer until thickened, then steep rosemary 15 min off heat
+      of:
+        - 3 tbsp reserved turkey fat
+        - 2 tbsp all-purpose flour
+        - 150ml dry white wine
+        - 500ml high-quality chicken stock
+        - reserved roasting juices
+        - 1 fresh sprig rosemary
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="6">Day 3, remove turkey from fridge 3 hours before cooking; preheat oven to 185°C</td></tr>
+  <tr><td class="rg-ing">1 whole large turkey (approx. 5kg)</td><td rowspan="3" class="rg-op">Day 1, pat dry, mix salt and sugar 3 to 1, sprinkle over skin and cavity; refrigerate uncovered on a rack 24 hours</td><td rowspan="8" class="rg-op">Day 2, blot dry, stuff compound butter under the skin and smear over the bird; add onions, lemons, garlic, and herbs to cavity; refrigerate overnight</td><td rowspan="18" class="rg-op">Day 3, brush with olive oil, add water to tray, roast at 185°C for 25 min, then glaze and rotate every 25 min until breast reaches 150 to 155°F (65 to 68°C)</td><td rowspan="18" class="rg-op">Rest uncovered 1 to 1.5 hours; drain cavity juices into the tray and reserve fat and juices</td><td rowspan="24" class="rg-op">Serve rested turkey with pan gravy</td></tr>
+  <tr><td class="rg-ing">50g fine sea salt</td></tr>
+  <tr><td class="rg-ing">15g brown sugar</td></tr>
+  <tr><td class="rg-ing">500g unsalted butter, softened</td><td rowspan="5" class="rg-op">Mix until fragrant</td></tr>
+  <tr><td class="rg-ing">1 tbsp each of chopped rosemary, thyme, sage, and parsley</td></tr>
+  <tr><td class="rg-ing">zest of 2 lemons</td></tr>
+  <tr><td class="rg-ing">3 cloves garlic, minced</td></tr>
+  <tr><td class="rg-ing">1 tsp sea salt and 1 tsp black pepper</td></tr>
+  <tr><td colspan="3" class="rg-ing">olive oil</td></tr>
+  <tr><td colspan="3" class="rg-ing">100ml water (for roasting tray)</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 tbsp maple syrup</td><td rowspan="8" class="rg-op">Simmer 7 min until reduced, glossy, and spoon-coating; strain</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 tbsp sherry vinegar</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp Worcestershire sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp dark soy sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 strips orange peel</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 sprigs each of fresh rosemary and thyme</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 cloves garlic, gently smashed</td></tr>
+  <tr><td colspan="2" class="rg-ing">4 tbsp unsalted butter</td></tr>
+  <tr><td colspan="4" class="rg-ing">3 tbsp reserved turkey fat</td><td rowspan="6" class="rg-op">Whisk fat and flour 1 to 2 min, whisk in wine to a paste, stream in stock and juices; simmer until thickened, then steep rosemary 15 min off heat</td></tr>
+  <tr><td colspan="4" class="rg-ing">2 tbsp all-purpose flour</td></tr>
+  <tr><td colspan="4" class="rg-ing">150ml dry white wine</td></tr>
+  <tr><td colspan="4" class="rg-ing">500ml high-quality chicken stock</td></tr>
+  <tr><td colspan="4" class="rg-ing">reserved roasting juices</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 fresh sprig rosemary</td></tr>
+</table>
+
 ## Ingredients
 
 ### The Turkey & Brine

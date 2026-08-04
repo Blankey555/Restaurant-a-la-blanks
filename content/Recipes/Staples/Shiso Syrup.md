@@ -16,6 +16,27 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: strain through fine mesh, pressing the leaves; bottle and refrigerate
+  of:
+    - op: steep covered off heat as syrup cools; taste at 30 min, up to 1 hour for purple, earlier for green
+      of:
+        - op: simmer, stirring until sugar fully dissolves
+          of:
+            - 1 cup sugar
+            - 1 cup water
+        - 1 large handful dried shiso (purple/red preferred)
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 cup sugar</td><td rowspan="2" class="rg-op">simmer, stirring until sugar fully dissolves</td><td rowspan="3" class="rg-op">steep covered off heat as syrup cools; taste at 30 min, up to 1 hour for purple, earlier for green</td><td rowspan="3" class="rg-op">strain through fine mesh, pressing the leaves; bottle and refrigerate</td></tr>
+  <tr><td class="rg-ing">1 cup water</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 large handful dried shiso (purple/red preferred)</td></tr>
+</table>
+
 ## Ingredients
 
 - 1 cup sugar

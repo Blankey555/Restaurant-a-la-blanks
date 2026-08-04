@@ -10,6 +10,33 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: stir well over ice; taste and adjust; serve immediately
+  of:
+    - op: stir in the spices
+      of:
+        - op: stir until the sugar dissolves completely
+          of:
+            - 2 tbsp fresh lime juice
+            - 1 to 2 tsp sugar, or to taste
+        - "¼ tsp black salt (kala namak)"
+        - "¼ tsp chaat masala"
+        - pinch of black pepper powder
+    - 1 cup cold water or chilled sparkling water
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">2 tbsp fresh lime juice</td><td rowspan="2" class="rg-op">stir until the sugar dissolves completely</td><td rowspan="5" class="rg-op">stir in the spices</td><td rowspan="6" class="rg-op">stir well over ice; taste and adjust; serve immediately</td></tr>
+  <tr><td class="rg-ing">1 to 2 tsp sugar, or to taste</td></tr>
+  <tr><td colspan="2" class="rg-ing">¼ tsp black salt (kala namak)</td></tr>
+  <tr><td colspan="2" class="rg-ing">¼ tsp chaat masala</td></tr>
+  <tr><td colspan="2" class="rg-ing">pinch of black pepper powder</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 cup cold water or chilled sparkling water</td></tr>
+</table>
+
 ## Ingredients
 
 - 2 tbsp fresh lime juice (approximately 1 to 2 limes)

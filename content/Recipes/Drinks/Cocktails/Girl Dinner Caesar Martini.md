@@ -14,6 +14,48 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Chill a coupe glass
+steps:
+  op: stir with ice 30 seconds; strain into the chilled coupe; garnish with olives on a pick
+  of:
+    - 2 oz vodka
+    - op: "infuse refrigerated 2 to 3 days, tasting daily; strain through a coffee filter; use ¾ oz"
+      of:
+        - 1 bottle (375 ml) dry vermouth
+        - 2 to 3 parmesan rinds, shredded or cubed
+        - 3 strips lemon peel
+        - "optional: a few shavings of fresh parmesan if flavor is mellow"
+    - op: "steep overnight at minimum; strain through a coffee filter; use 1 to 2 barspoons"
+      of:
+        - op: mash into a rough paste
+          of:
+            - 2 to 3 anchovy fillets
+            - 1 small garlic clove, minced
+            - cracked black pepper
+            - squeeze of fresh lemon juice
+        - 2 oz high-proof vodka
+    - "½ oz olive brine"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="4">Chill a coupe glass</td></tr>
+  <tr><td colspan="3" class="rg-ing">2 oz vodka</td><td rowspan="11" class="rg-op">stir with ice 30 seconds; strain into the chilled coupe; garnish with olives on a pick</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 bottle (375 ml) dry vermouth</td><td rowspan="4" class="rg-op">infuse refrigerated 2 to 3 days, tasting daily; strain through a coffee filter; use ¾ oz</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 to 3 parmesan rinds, shredded or cubed</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 strips lemon peel</td></tr>
+  <tr><td colspan="2" class="rg-ing">optional: a few shavings of fresh parmesan if flavor is mellow</td></tr>
+  <tr><td class="rg-ing">2 to 3 anchovy fillets</td><td rowspan="4" class="rg-op">mash into a rough paste</td><td rowspan="5" class="rg-op">steep overnight at minimum; strain through a coffee filter; use 1 to 2 barspoons</td></tr>
+  <tr><td class="rg-ing">1 small garlic clove, minced</td></tr>
+  <tr><td class="rg-ing">cracked black pepper</td></tr>
+  <tr><td class="rg-ing">squeeze of fresh lemon juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 oz high-proof vodka</td></tr>
+  <tr><td colspan="3" class="rg-ing">½ oz olive brine</td></tr>
+</table>
+
 ## Components
 
 - Lemon-Parmesan Vermouth

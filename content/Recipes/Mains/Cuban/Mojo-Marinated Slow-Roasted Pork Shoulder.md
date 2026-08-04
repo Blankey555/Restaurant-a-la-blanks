@@ -15,6 +15,53 @@ difficulty: medium
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: Rest uncovered 20 to 30 min; pull into large chunks and spoon pan juices over
+  of:
+    - op: Day 2, rest 1 hour at room temp, roast covered at 300°F for 5 hours, then uncovered at 375°F for 1 to 1.5 hours until caramelized and 195 to 205°F internal
+      of:
+        - op: Pour marinade over, massage into every surface and slit; refrigerate overnight (minimum 8 hours), turning once or twice
+          of:
+            - op: Cut deep slits all over and push a seasoned garlic half into each
+              of:
+                - 1 bone-in pork butt (6 to 8 lb)
+                - op: Toss to coat
+                  of:
+                    - 8 to 10 cloves garlic, halved lengthwise
+                    - 1 tsp salt, 1 tsp cumin, and 1/2 tsp black pepper
+            - op: Whisk to combine
+              of:
+                - 1 cup sofrito
+                - 1/2 cup fresh orange juice
+                - 1/4 cup fresh lime juice
+                - 1/4 cup fresh lemon juice
+                - 1/3 cup olive oil
+                - 1 tbsp dried oregano
+                - 1 tbsp cumin
+                - 1 tbsp salt
+                - 1 tsp black pepper
+                - 1 tsp smoked paprika
+-->
+
+<table class="recipe-grid">
+  <tr><td colspan="2" class="rg-ing">1 bone-in pork butt (6 to 8 lb)</td><td rowspan="3" class="rg-op">Cut deep slits all over and push a seasoned garlic half into each</td><td rowspan="13" class="rg-op">Pour marinade over, massage into every surface and slit; refrigerate overnight (minimum 8 hours), turning once or twice</td><td rowspan="13" class="rg-op">Day 2, rest 1 hour at room temp, roast covered at 300°F for 5 hours, then uncovered at 375°F for 1 to 1.5 hours until caramelized and 195 to 205°F internal</td><td rowspan="13" class="rg-op">Rest uncovered 20 to 30 min; pull into large chunks and spoon pan juices over</td></tr>
+  <tr><td class="rg-ing">8 to 10 cloves garlic, halved lengthwise</td><td rowspan="2" class="rg-op">Toss to coat</td></tr>
+  <tr><td class="rg-ing">1 tsp salt, 1 tsp cumin, and 1/2 tsp black pepper</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup sofrito</td><td rowspan="10" class="rg-op">Whisk to combine</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/2 cup fresh orange juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/4 cup fresh lime juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/4 cup fresh lemon juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/3 cup olive oil</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp dried oregano</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp cumin</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp salt</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp black pepper</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp smoked paprika</td></tr>
+</table>
+
 ## Ingredients
 
 ### Pork

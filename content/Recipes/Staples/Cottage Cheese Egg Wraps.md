@@ -12,6 +12,30 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Heat a non-stick pan over medium heat, lightly greased
+steps:
+  op: pour half the batter, swirl thin, cook 2 to 3 min until set, flip, cook 1 min more; repeat with remaining batter
+  of:
+    - op: blend until completely smooth
+      of:
+        - 2 eggs
+        - 1 cup cottage cheese
+        - 1 tsp salt
+        - ½ tsp dried oregano
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="3">Heat a non-stick pan over medium heat, lightly greased</td></tr>
+  <tr><td class="rg-ing">2 eggs</td><td rowspan="4" class="rg-op">blend until completely smooth</td><td rowspan="4" class="rg-op">pour half the batter, swirl thin, cook 2 to 3 min until set, flip, cook 1 min more; repeat with remaining batter</td></tr>
+  <tr><td class="rg-ing">1 cup cottage cheese</td></tr>
+  <tr><td class="rg-ing">1 tsp salt</td></tr>
+  <tr><td class="rg-ing">½ tsp dried oregano</td></tr>
+</table>
+
 ## Ingredients
 
 - 2 eggs

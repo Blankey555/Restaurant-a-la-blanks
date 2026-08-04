@@ -16,6 +16,35 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: strain out solids, pressing to extract; adjust lime, palm sugar, fish sauce; cool to room temperature
+  of:
+    - op: simmer uncovered over medium-low 15 to 20 min, stirring occasionally, until slightly syrupy
+      of:
+        - 2 stalks lemongrass, bruised and roughly chopped
+        - 2 inch piece galangal, sliced
+        - 6 makrut lime leaves, torn
+        - ¼ cup fish sauce
+        - ¼ cup fresh lime juice
+        - 3 tbsp palm sugar
+        - ½ cup water
+        - "optional: 1 to 2 fresh Thai chilies, sliced"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">2 stalks lemongrass, bruised and roughly chopped</td><td rowspan="8" class="rg-op">simmer uncovered over medium-low 15 to 20 min, stirring occasionally, until slightly syrupy</td><td rowspan="8" class="rg-op">strain out solids, pressing to extract; adjust lime, palm sugar, fish sauce; cool to room temperature</td></tr>
+  <tr><td class="rg-ing">2 inch piece galangal, sliced</td></tr>
+  <tr><td class="rg-ing">6 makrut lime leaves, torn</td></tr>
+  <tr><td class="rg-ing">¼ cup fish sauce</td></tr>
+  <tr><td class="rg-ing">¼ cup fresh lime juice</td></tr>
+  <tr><td class="rg-ing">3 tbsp palm sugar</td></tr>
+  <tr><td class="rg-ing">½ cup water</td></tr>
+  <tr><td class="rg-ing">optional: 1 to 2 fresh Thai chilies, sliced</td></tr>
+</table>
+
 ## Ingredients
 
 - 2 stalks lemongrass, bruised and roughly chopped

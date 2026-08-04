@@ -15,6 +15,48 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat broiler with rack 5 to 6 inches below heat; set a greased wire rack over a foil-lined sheet pan
+steps:
+  op: broil 4 to 5 minutes per side until lightly charred and cooked through; slice, garnish with perilla leaves and sesame seeds
+  of:
+    - op: marinate 10 to 30 minutes at room temperature, or overnight refrigerated
+      of:
+        - op: pound gently under plastic wrap to even thickness
+          of:
+            - 6 boneless, skinless chicken thighs (about 900g / 2 lb)
+        - op: combine into a marinade
+          of:
+            - 3 tbsp gochujang
+            - "optional: 1 tbsp gochugaru"
+            - 1 tbsp soy sauce
+            - 1 to 2 tbsp light brown sugar
+            - 1 tbsp garlic, minced
+            - 1 tsp ginger paste
+            - 1 tbsp Korean corn syrup (mulyeot)
+            - "optional: 1 tbsp sweet rice wine (mirim)"
+            - 1 tbsp sesame oil
+            - "½ tsp black pepper"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="4">Preheat broiler with rack 5 to 6 inches below heat; set a greased wire rack over a foil-lined sheet pan</td></tr>
+  <tr><td class="rg-ing">6 boneless, skinless chicken thighs (about 900g / 2 lb)</td><td class="rg-op">pound gently under plastic wrap to even thickness</td><td rowspan="11" class="rg-op">marinate 10 to 30 minutes at room temperature, or overnight refrigerated</td><td rowspan="11" class="rg-op">broil 4 to 5 minutes per side until lightly charred and cooked through; slice, garnish with perilla leaves and sesame seeds</td></tr>
+  <tr><td class="rg-ing">3 tbsp gochujang</td><td rowspan="10" class="rg-op">combine into a marinade</td></tr>
+  <tr><td class="rg-ing">optional: 1 tbsp gochugaru</td></tr>
+  <tr><td class="rg-ing">1 tbsp soy sauce</td></tr>
+  <tr><td class="rg-ing">1 to 2 tbsp light brown sugar</td></tr>
+  <tr><td class="rg-ing">1 tbsp garlic, minced</td></tr>
+  <tr><td class="rg-ing">1 tsp ginger paste</td></tr>
+  <tr><td class="rg-ing">1 tbsp Korean corn syrup (mulyeot)</td></tr>
+  <tr><td class="rg-ing">optional: 1 tbsp sweet rice wine (mirim)</td></tr>
+  <tr><td class="rg-ing">1 tbsp sesame oil</td></tr>
+  <tr><td class="rg-ing">½ tsp black pepper</td></tr>
+</table>
+
 ## Ingredients
 
 - 6 boneless, skinless chicken thighs (about 900g / 2 lb)

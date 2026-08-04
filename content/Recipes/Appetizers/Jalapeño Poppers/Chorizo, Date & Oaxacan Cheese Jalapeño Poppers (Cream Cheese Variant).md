@@ -22,6 +22,43 @@ difficulty: medium
 
 # Jalapeño Popper - Chorizo, Date & Oaxacan Cheese
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: fry at 375°F until golden and crispy, 4 to 5 min, or bake 425°F 20 to 25 min
+  of:
+    - op: "dredge frozen poppers in flour, dip in beer, coat in masa harina"
+      of:
+        - op: fill and pack tightly; freeze solid on a sheet pan, then bag
+          of:
+            - 50 jalapeños, tops removed and hollowed
+            - op: mix with reserved chorizo fat
+              of:
+                - op: render over medium heat until cooked through; drain, reserving some fat; cool
+                  of:
+                    - 350g Mexican chorizo
+                - 300g cream cheese, softened
+                - 225g Oaxacan cheese, shredded
+                - 75g Manchego, shredded
+                - 150g medjool dates, pitted and finely chopped
+        - All purpose flour
+        - Mexican lager or beer
+        - Masa harina
+-->
+
+<table class="recipe-grid">
+  <tr><td colspan="3" class="rg-ing">50 jalapeños, tops removed and hollowed</td><td rowspan="6" class="rg-op">fill and pack tightly; freeze solid on a sheet pan, then bag</td><td rowspan="9" class="rg-op">dredge frozen poppers in flour, dip in beer, coat in masa harina</td><td rowspan="9" class="rg-op">fry at 375°F until golden and crispy, 4 to 5 min, or bake 425°F 20 to 25 min</td></tr>
+  <tr><td class="rg-ing">350g Mexican chorizo</td><td class="rg-op">render over medium heat until cooked through; drain, reserving some fat; cool</td><td rowspan="5" class="rg-op">mix with reserved chorizo fat</td></tr>
+  <tr><td colspan="2" class="rg-ing">300g cream cheese, softened</td></tr>
+  <tr><td colspan="2" class="rg-ing">225g Oaxacan cheese, shredded</td></tr>
+  <tr><td colspan="2" class="rg-ing">75g Manchego, shredded</td></tr>
+  <tr><td colspan="2" class="rg-ing">150g medjool dates, pitted and finely chopped</td></tr>
+  <tr><td colspan="4" class="rg-ing">All purpose flour</td></tr>
+  <tr><td colspan="4" class="rg-ing">Mexican lager or beer</td></tr>
+  <tr><td colspan="4" class="rg-ing">Masa harina</td></tr>
+</table>
+
 ## Ingredients
 
 ### Peppers

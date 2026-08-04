@@ -12,6 +12,35 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: taste, adjust pepper and cheese; serve immediately
+  of:
+    - op: toss vigorously while the popcorn is still hot and buttered
+      of:
+        - op: drizzle over and toss quickly to coat
+          of:
+            - op: "pop covered over medium-high heat, shaking often, until pops slow to 2 to 3 seconds apart; transfer to a large bowl"
+              of:
+                - 3 tbsp neutral oil
+                - "½ cup popcorn kernels"
+            - 3 tbsp unsalted butter, melted
+        - "¾ cup finely grated Pecorino Romano"
+        - "1½ tsp freshly cracked black pepper"
+    - "½ tsp flaky salt"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">3 tbsp neutral oil</td><td rowspan="2" class="rg-op">pop covered over medium-high heat, shaking often, until pops slow to 2 to 3 seconds apart; transfer to a large bowl</td><td rowspan="3" class="rg-op">drizzle over and toss quickly to coat</td><td rowspan="5" class="rg-op">toss vigorously while the popcorn is still hot and buttered</td><td rowspan="6" class="rg-op">taste, adjust pepper and cheese; serve immediately</td></tr>
+  <tr><td class="rg-ing">½ cup popcorn kernels</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 tbsp unsalted butter, melted</td></tr>
+  <tr><td colspan="3" class="rg-ing">¾ cup finely grated Pecorino Romano</td></tr>
+  <tr><td colspan="3" class="rg-ing">1½ tsp freshly cracked black pepper</td></tr>
+  <tr><td colspan="4" class="rg-ing">½ tsp flaky salt</td></tr>
+</table>
+
 ## Ingredients
 
 - ½ cup popcorn kernels

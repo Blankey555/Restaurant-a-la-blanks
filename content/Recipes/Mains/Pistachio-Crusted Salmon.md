@@ -14,6 +14,44 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat oven to 375°F (190°C); line a baking sheet with parchment
+steps:
+  op: Bake 15 to 20 min until the salmon just flakes; rest 5 min before serving
+  of:
+    - op: Spoon pistachio mixture over the salmon and press gently to adhere
+      of:
+        - op: Spread 3/4 of the glaze evenly over the fillets
+          of:
+            - op: Rinse, pat dry, place skin side down, and season
+              of:
+                - 2 salmon fillets (approximately 6 oz / 175g each)
+                - salt and pepper, to taste
+            - op: Whisk together in a small bowl
+              of:
+                - 1 clove garlic, minced
+                - 1 tbsp olive oil
+                - 1/4 tsp Dijon mustard
+                - 2 tbsp lemon juice, freshly squeezed
+                - 1 tbsp honey
+        - 1/3 cup raw pistachios, coarsely chopped (stirred into the remaining glaze)
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="5">Preheat oven to 375°F (190°C); line a baking sheet with parchment</td></tr>
+  <tr><td class="rg-ing">2 salmon fillets (approximately 6 oz / 175g each)</td><td rowspan="2" class="rg-op">Rinse, pat dry, place skin side down, and season</td><td rowspan="7" class="rg-op">Spread 3/4 of the glaze evenly over the fillets</td><td rowspan="8" class="rg-op">Spoon pistachio mixture over the salmon and press gently to adhere</td><td rowspan="8" class="rg-op">Bake 15 to 20 min until the salmon just flakes; rest 5 min before serving</td></tr>
+  <tr><td class="rg-ing">salt and pepper, to taste</td></tr>
+  <tr><td class="rg-ing">1 clove garlic, minced</td><td rowspan="5" class="rg-op">Whisk together in a small bowl</td></tr>
+  <tr><td class="rg-ing">1 tbsp olive oil</td></tr>
+  <tr><td class="rg-ing">1/4 tsp Dijon mustard</td></tr>
+  <tr><td class="rg-ing">2 tbsp lemon juice, freshly squeezed</td></tr>
+  <tr><td class="rg-ing">1 tbsp honey</td></tr>
+  <tr><td colspan="3" class="rg-ing">1/3 cup raw pistachios, coarsely chopped (stirred into the remaining glaze)</td></tr>
+</table>
+
 ## Ingredients
 
 - 2 salmon fillets (approximately 6 oz / 175g each)

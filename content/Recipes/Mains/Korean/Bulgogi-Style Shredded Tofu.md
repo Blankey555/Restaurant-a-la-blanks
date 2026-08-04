@@ -15,6 +15,48 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat oven to 400°F; line a baking sheet with parchment paper
+steps:
+  op: sear in a very hot skillet 2 to 3 minutes per side until charred and sticky; garnish with green onions and sesame seeds
+  of:
+    - op: marinate at least 2 hours, or overnight in the fridge
+      of:
+        - op: bake at 400°F for 25 to 30 minutes, turning halfway, until dry, firm, and golden
+          of:
+            - op: shred into rough uneven pieces; toss to coat
+              of:
+                - 2 blocks superfirm tofu, well drained
+                - 1 tbsp neutral oil
+                - salt and pepper, to taste
+        - op: mix well into a marinade
+          of:
+            - "½ small pear, peeled and grated"
+            - "¼ cup reduced sodium soy sauce"
+            - 2 tbsp brown sugar
+            - 2 tbsp toasted sesame oil
+            - 3 cloves garlic, minced
+            - 1 tbsp fresh ginger, grated
+            - 1 tbsp gochujang
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="5">Preheat oven to 400°F; line a baking sheet with parchment paper</td></tr>
+  <tr><td class="rg-ing">2 blocks superfirm tofu, well drained</td><td rowspan="3" class="rg-op">shred into rough uneven pieces; toss to coat</td><td rowspan="3" class="rg-op">bake at 400°F for 25 to 30 minutes, turning halfway, until dry, firm, and golden</td><td rowspan="10" class="rg-op">marinate at least 2 hours, or overnight in the fridge</td><td rowspan="10" class="rg-op">sear in a very hot skillet 2 to 3 minutes per side until charred and sticky; garnish with green onions and sesame seeds</td></tr>
+  <tr><td class="rg-ing">1 tbsp neutral oil</td></tr>
+  <tr><td class="rg-ing">salt and pepper, to taste</td></tr>
+  <tr><td colspan="2" class="rg-ing">½ small pear, peeled and grated</td><td rowspan="7" class="rg-op">mix well into a marinade</td></tr>
+  <tr><td colspan="2" class="rg-ing">¼ cup reduced sodium soy sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp brown sugar</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tbsp toasted sesame oil</td></tr>
+  <tr><td colspan="2" class="rg-ing">3 cloves garlic, minced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp fresh ginger, grated</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp gochujang</td></tr>
+</table>
+
 ## Ingredients
 
 ### Tofu

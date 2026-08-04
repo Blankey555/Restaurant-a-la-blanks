@@ -7,6 +7,34 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Chill a rocks glass in the freezer
+steps:
+  op: strain into the absinthe-rinsed glass; express lemon peel over the surface; garnish with toasted coconut flakes
+  of:
+    - op: stir with ice 30 seconds until well chilled
+      of:
+        - "1½ oz Pierre Ferrand cognac"
+        - "½ oz Wild Turkey rye"
+        - 3 dashes Peychaud's bitters
+        - 1 barspoon simple syrup
+    - op: swirl to coat the chilled glass; discard excess
+      of:
+        - Pernod Absinthe, for rinsing
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="3">Chill a rocks glass in the freezer</td></tr>
+  <tr><td class="rg-ing">1½ oz Pierre Ferrand cognac</td><td rowspan="4" class="rg-op">stir with ice 30 seconds until well chilled</td><td rowspan="5" class="rg-op">strain into the absinthe-rinsed glass; express lemon peel over the surface; garnish with toasted coconut flakes</td></tr>
+  <tr><td class="rg-ing">½ oz Wild Turkey rye</td></tr>
+  <tr><td class="rg-ing">3 dashes Peychaud&#x27;s bitters</td></tr>
+  <tr><td class="rg-ing">1 barspoon simple syrup</td></tr>
+  <tr><td class="rg-ing">Pernod Absinthe, for rinsing</td><td class="rg-op">swirl to coat the chilled glass; discard excess</td></tr>
+</table>
+
 ## Ingredients
 
 - 1½ oz Pierre Ferrand cognac

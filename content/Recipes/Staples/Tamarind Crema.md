@@ -16,6 +16,29 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: whisk until smooth; adjust sweet-sour balance; refrigerate overnight, stir before serving
+  of:
+    - 1 cup Mexican crema
+    - 2 tbsp tamarind paste or concentrate
+    - 1 tbsp fresh lime juice
+    - 1 tsp brown sugar, or to taste
+    - pinch of salt
+    - "optional: pinch of chipotle powder or a few drops of hot sauce"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">1 cup Mexican crema</td><td rowspan="6" class="rg-op">whisk until smooth; adjust sweet-sour balance; refrigerate overnight, stir before serving</td></tr>
+  <tr><td class="rg-ing">2 tbsp tamarind paste or concentrate</td></tr>
+  <tr><td class="rg-ing">1 tbsp fresh lime juice</td></tr>
+  <tr><td class="rg-ing">1 tsp brown sugar, or to taste</td></tr>
+  <tr><td class="rg-ing">pinch of salt</td></tr>
+  <tr><td class="rg-ing">optional: pinch of chipotle powder or a few drops of hot sauce</td></tr>
+</table>
+
 ## Ingredients
 
 - 1 cup Mexican crema (Crema Salvadoreña works; slightly thicker and tangier)

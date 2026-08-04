@@ -6,6 +6,42 @@ difficulty: easy
 calories: 321 per half pizza
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Preheat oven to 400 degrees; line a large baking sheet with parchment
+steps:
+  op: Bake 15 min, flip, bake 5 to 10 min until golden; top and bake 5 min more until cheese melts
+  of:
+    - op: Spread into a 9 inch round about 1/4 inch thick on the parchment
+      of:
+        - op: Process until smooth in a food processor (or finely chop chicken and combine in a bowl)
+          of:
+            - 5 ounces cooked chicken breast
+            - 5 ounces cottage cheese 4%
+            - 1 large egg
+            - 1/4 cup grated Parmesan cheese
+            - 1/4 cup shredded mozzarella cheese
+            - 1/4 teaspoon Italian seasoning
+            - 1/4 teaspoon onion powder
+            - 1/4 teaspoon garlic powder
+            - 1/4 teaspoon salt
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="4">Preheat oven to 400 degrees; line a large baking sheet with parchment</td></tr>
+  <tr><td class="rg-ing">5 ounces cooked chicken breast</td><td rowspan="9" class="rg-op">Process until smooth in a food processor (or finely chop chicken and combine in a bowl)</td><td rowspan="9" class="rg-op">Spread into a 9 inch round about 1/4 inch thick on the parchment</td><td rowspan="9" class="rg-op">Bake 15 min, flip, bake 5 to 10 min until golden; top and bake 5 min more until cheese melts</td></tr>
+  <tr><td class="rg-ing">5 ounces cottage cheese 4%</td></tr>
+  <tr><td class="rg-ing">1 large egg</td></tr>
+  <tr><td class="rg-ing">1/4 cup grated Parmesan cheese</td></tr>
+  <tr><td class="rg-ing">1/4 cup shredded mozzarella cheese</td></tr>
+  <tr><td class="rg-ing">1/4 teaspoon Italian seasoning</td></tr>
+  <tr><td class="rg-ing">1/4 teaspoon onion powder</td></tr>
+  <tr><td class="rg-ing">1/4 teaspoon garlic powder</td></tr>
+  <tr><td class="rg-ing">1/4 teaspoon salt</td></tr>
+</table>
+
 ## Ingredients
 
 * 5 ounces cooked chicken breast.
