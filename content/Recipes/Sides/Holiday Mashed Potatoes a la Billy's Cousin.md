@@ -51,6 +51,43 @@ difficulty: easy
 
 ---
 
+## At a Glance
+
+<!-- recipe-grid-spec
+setup:
+  - Peel and cube 4 lb Yukon Gold potatoes
+steps:
+  op: "well of butter, chives, flaky salt; serve"
+  of:
+    - op: "fold in; season"
+      of:
+        - op: "rice or mash"
+          of:
+            - op: "boil in salted water 20 min; drain; dry over low heat"
+              of: ["4 lb Yukon Gold potatoes, cubed"]
+        - op: "simmer 20 to 30 min on lowest heat; strain; keep warm"
+          of:
+            - 1 cup heavy cream
+            - 1 stick unsalted butter, cubed
+            - 4 cloves garlic, smashed + 2 shallots, halved
+            - thyme, rosemary, whole chives
+            - 1 tsp salt + 1/2 tsp white pepper
+        - "optional: 1/2 cup Greek yogurt"
+        - "optional: 1 cup Gruyère, cheddar, or Parmesan"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-setup" colspan="5">Peel and cube 4 lb Yukon Gold potatoes</td></tr>
+  <tr><td class="rg-ing">4 lb Yukon Gold potatoes, cubed</td><td class="rg-op">boil in salted water 20 min; drain; dry over low heat</td><td class="rg-op">rice or mash</td><td rowspan="8" class="rg-op">fold in; season</td><td rowspan="8" class="rg-op">well of butter, chives, flaky salt; serve</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 cup heavy cream</td><td rowspan="5" class="rg-op">simmer 20 to 30 min on lowest heat; strain; keep warm</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 stick unsalted butter, cubed</td></tr>
+  <tr><td colspan="2" class="rg-ing">4 cloves garlic, smashed + 2 shallots, halved</td></tr>
+  <tr><td colspan="2" class="rg-ing">thyme, rosemary, whole chives</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tsp salt + 1/2 tsp white pepper</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: 1/2 cup Greek yogurt</td></tr>
+  <tr><td colspan="3" class="rg-ing">optional: 1 cup Gruyère, cheddar, or Parmesan</td></tr>
+</table>
+
 ## Instructions
 
 **Simmer the cream and butter**

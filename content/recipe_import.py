@@ -329,7 +329,54 @@ def title_from_md(md):
 
 # ---------------------------------------------------------------- pipeline
 
-def process_one(inp, system_prompt, allowed_tags, auto_yes):
+GRID_PROMPT = """Derive a process-grid spec for the recipe below. Output ONLY YAML, no commentary, no code fences.
+
+Format:
+setup:            # optional list of prep lines (oven preheat, pan prep); omit if none
+  - <line>
+steps:            # a nested tree: leaves are ingredient strings (with quantities),
+  op: <final operation>          # ops describe what is done to everything beneath
+  of:
+    - op: <earlier operation>
+      of:
+        - <ingredient>
+        - <ingredient>
+    - <ingredient added at the later stage>
+
+Rules:
+- Every ingredient appears exactly once as a leaf, in the order used.
+- Ops are short imperative phrases with key times/temps (e.g. "bake 350F 30 to 40 min").
+- Ingredients grouped under the same op are combined by that op; parent ops merge their children in order.
+- Maximum nesting depth 6. No em dashes anywhere.
+"""
+
+
+def try_generate_grid(content, md):
+    import recipe_grid
+    user = GRID_PROMPT + "\n--- RECIPE ---\n" + content[:8000]
+    for attempt, extra in enumerate(["", None]):
+        raw = ollama_chat("You convert recipes into structured process-grid YAML specs.",
+                          user if extra is None or attempt == 0 else user)
+        raw = re.sub(r"\A```(?:yaml)?\s*\n|\n```\s*\Z", "", raw.strip())
+        try:
+            spec = yaml.safe_load(raw)
+            if not isinstance(spec, dict):
+                raise ValueError("spec is not a mapping")
+            table = recipe_grid.spec_to_html(spec)
+            block = ("## At a Glance\n\n<!-- recipe-grid-spec\n" + raw.strip()
+                     + "\n-->\n\n" + table + "\n\n")
+            if "## Ingredients" in md:
+                return md.replace("## Ingredients", block + "## Ingredients", 1)
+            return md + "\n" + block
+        except Exception as e:
+            err = str(e)
+            print(f"  grid attempt {attempt + 1} invalid: {err}")
+            user = user + f"\n\nYour previous output failed: {err}\nOutput corrected YAML only."
+    print("  grid generation failed twice; importing recipe without a grid.")
+    return md
+
+
+def process_one(inp, system_prompt, allowed_tags, auto_yes, want_grid=False):
     print(f"\n=== {inp} ===")
     content, source_url = get_content(inp)
 
@@ -357,6 +404,9 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes):
             for e in errors:
                 print(f"  - {e}")
             return False
+
+    if want_grid:
+        md = try_generate_grid(content, md)
 
     title = title_from_md(md) or "Untitled Recipe"
     filename = f"{title}.md"
@@ -396,6 +446,8 @@ def main():
     ap.add_argument("--input", help="URL, file path, or '-' for stdin")
     ap.add_argument("--batch", help="file containing URLs, one per line")
     ap.add_argument("--yes", action="store_true", help="skip confirmation prompts")
+    ap.add_argument("--grid", action="store_true",
+                    help="also generate a process-grid table (At a Glance section)")
     ap.add_argument("--model", default=None, help=f"override model (default {MODEL})")
     args = ap.parse_args()
 
@@ -419,7 +471,7 @@ def main():
         inputs += [l.strip() for l in Path(args.batch).read_text().splitlines()
                    if l.strip() and not l.startswith("#")]
 
-    results = [process_one(i, system_prompt, allowed_tags, args.yes) for i in inputs]
+    results = [process_one(i, system_prompt, allowed_tags, args.yes, args.grid) for i in inputs]
     print(f"\nDone: {sum(results)}/{len(results)} written.")
 
 
