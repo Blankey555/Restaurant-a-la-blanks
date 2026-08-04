@@ -33,20 +33,24 @@ difficulty: easy
 ## Instructions
 
 **Slice the beef**
+
 1. Wrap the steak in plastic wrap and freeze for 30 minutes. This firms it up for easier thin slicing.
 2. Unwrap and slice across the grain into ¼-inch thick pieces.
 
 **Marinate**
+
 3. In a bowl, combine pear, soy sauce, brown sugar, sesame oil, garlic, ginger, and gochujang.
 4. Add the sliced beef to a gallon zip-lock bag and pour in the marinade. Seal and turn to coat.
 5. Marinate for at least 2 hours, up to overnight in the fridge. Turn the bag occasionally.
 
 **Cook**
+
 6. Heat 1 tbsp vegetable oil in a cast iron grill pan or skillet over medium-high heat.
 7. Working in batches, add beef in a single layer. Cook 2 to 3 minutes per side until charred and cooked through. Do not overcrowd the pan or the beef will steam instead of sear.
 8. Repeat with remaining oil and beef.
 
 **Serve**
+
 9. Garnish with green onions and sesame seeds. Serve immediately over steamed rice with kimchi, cucumbers, perilla leaves, and ssamjang on the side.
 
 ---

@@ -34,21 +34,26 @@ difficulty: easy
 ## Instructions
 
 **Cook the pasta**
+
 1. Boil pasta in well-salted water until al dente. Reserve ½ cup pasta water before draining.
 
 **Stabilize the yogurt**
+
 2. Whisk the yogurt, garlic paste, cornstarch slurry, and salt together in a medium saucepan until smooth.
 3. Heat over medium-low, stirring constantly in one direction only. Do not stop stirring or the yogurt will break.
 4. Once the sauce begins to simmer and thickens slightly, about 8 to 10 minutes, reduce to low heat.
 
 **Combine**
+
 5. Add the drained pasta to the yogurt sauce and stir gently to coat. If the sauce is too thick, loosen with a splash of reserved pasta water.
 
 **Make the topping**
+
 6. Melt butter in a small pan over medium heat until foaming. Add pine nuts and cook, stirring frequently, until golden, about 2 to 3 minutes. Remove from heat immediately.
 7. Stir in the dried mint off the heat.
 
 **Serve**
+
 8. Transfer pasta to a serving dish or individual bowls. Spoon the pine nut butter over the top. Serve immediately.
 
 ---

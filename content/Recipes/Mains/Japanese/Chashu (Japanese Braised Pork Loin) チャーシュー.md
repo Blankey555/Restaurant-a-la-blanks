@@ -43,12 +43,15 @@ difficulty: medium
 ### Day 1
 
 **Roll and tie**
+
 1. If the loin is irregular in shape, roll and tie with butcher twine at ½-inch intervals to keep it uniform. If it's already a compact cylinder, tying is optional but helps it hold its shape when sliced.
 
 **Sear**
+
 2. Heat oil in a cast iron skillet over high heat. Sear all sides until evenly golden brown, about 8 to 10 minutes total. Don't skip this step. It adds flavor the lean meat needs.
 
 **Braise**
+
 3. Combine sake, soy sauce, water, sugar, and mirin in a heavy-bottomed pot just large enough to hold the loin. Add negi and ginger.
 4. Transfer the seared loin to the pot. Bring to a boil over medium heat.
 5. Skim off any foam and scum. Reduce to low heat.
@@ -56,6 +59,7 @@ difficulty: medium
 7. Turn off heat and let cool slightly in the liquid.
 
 **Marinate overnight**
+
 8. Transfer the pork to a container or vacuum bag with 1 cup of the strained braising liquid (more than the belly version; loin needs extra liquid contact to stay moist). Seal and refrigerate for at least 8 hours.
 
 ### Day 2

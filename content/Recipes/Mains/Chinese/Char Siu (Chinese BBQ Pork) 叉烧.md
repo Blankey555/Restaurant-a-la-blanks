@@ -41,20 +41,24 @@ difficulty: medium
 ## Instructions
 
 **Prep the pork**
+
 1. Cut the pork into long strips or chunks about 2 to 3 inches thick. Do not trim the fat. It renders off during roasting and adds flavor.
 
 **Marinate**
+
 2. Combine all marinade ingredients in a bowl and mix well.
 3. Reserve 2 tablespoons of the marinade and set aside in the fridge.
 4. Rub the remaining marinade all over the pork in a large bowl or baking dish. Cover and refrigerate for at least 8 hours or overnight.
 
 **Roast**
+
 5. Preheat oven to 475°F (246°C) with a rack in the upper third. Use an oven thermometer if possible. Home oven temperatures vary significantly.
 6. Line a sheet pan with foil and set a wire rack on top. Place pork on the rack with space between pieces. Pour 1½ cups water into the pan below to prevent drippings from burning.
 7. Roast at 475°F for 10 minutes, then reduce to 375°F (190°C) and roast for another 15 minutes.
 8. Flip the pork. Add another cup of water to the pan if dry. Rotate the pan 180 degrees. Roast another 15 minutes. Check every 10 minutes and reduce temperature if it looks like it is burning.
 
 **Baste and finish**
+
 9. Mix the reserved 2 tbsp marinade with maltose or honey and 1 tbsp hot water. Maltose is very thick. Microwave briefly to loosen it.
 10. At 40 minutes total roasting time, baste the pork on both sides. Roast a final 10 minutes.
 11. Total roasting time is 50 minutes. The pork should be cooked through and caramelized. If more color is needed, broil for 1 to 2 minutes. Watch closely. The sugar glaze burns fast.

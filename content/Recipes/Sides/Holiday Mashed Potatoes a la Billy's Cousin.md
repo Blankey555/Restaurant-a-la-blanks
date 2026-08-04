@@ -54,17 +54,20 @@ difficulty: easy
 ## Instructions
 
 **Simmer the cream and butter**
+
 1. Combine cream, butter, garlic, shallots, thyme, rosemary, and chives in a small saucepan over low heat.
 2. Heat gently until the butter is fully melted and the mixture just begins to steam. Do not boil.
 3. Simmer on the lowest possible heat for 20 to 30 minutes, stirring occasionally, until the cream is fragrant and infused with the aromatics.
 4. Strain through a fine mesh sieve, pressing the solids to extract as much flavor as possible. Discard the solids. Keep warm.
 
 **Cook the potatoes**
+
 5. Place cubed potatoes in a large pot and cover with cold salted water.
 6. Bring to a boil and cook until completely tender and a fork meets no resistance, about 20 minutes.
 7. Drain thoroughly. Return the potatoes to the pot and place over low heat for 1 to 2 minutes, shaking occasionally, to drive off excess moisture.
 
 **Mash**
+
 8. Pass the potatoes through a ricer or food mill for the smoothest result. Alternatively, use a masher for a more rustic texture. Do not use a food processor or blender: it will make the potatoes gluey.
 9. Add the warm herb-infused cream and butter gradually, folding it in with a spatula or wooden spoon until fully incorporated and smooth. Use as much as the potatoes will absorb.
 10. If using Greek yogurt, fold it in now. Taste before adjusting salt. The yogurt adds tang and slight acidity that brightens the richness.
@@ -72,6 +75,7 @@ difficulty: easy
 12. Taste and adjust salt and white pepper.
 
 **Finish and serve**
+
 13. Transfer to a warm serving bowl. Make a well in the center and add a generous knob of butter to melt on top.
 14. Garnish with finely sliced fresh chives and a pinch of flaky salt.
 15. Serve immediately.

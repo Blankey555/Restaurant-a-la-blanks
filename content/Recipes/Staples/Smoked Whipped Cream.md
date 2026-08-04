@@ -32,16 +32,19 @@ Cold-smoked heavy cream whipped for topping coffee martinis and desserts. The sm
 ## Instructions
 
 **Set up**
+
 1. Fill the larger metal bowl halfway with ice. Nest the smaller bowl on top and pour in the cream. The wide surface maximizes smoke exposure while the ice keeps the cream out of the temperature danger zone.
 2. Set up the smoker for cold smoking: a small amount of dry wood chips smoldering with no charcoal beneath them, producing smoke without meaningful heat. Do not soak the chips. Wet chips produce steam before smoke and dilute the flavor.
 3. Monitor smoker temperature. It must stay under 90°F. Open vents or remove wood if it climbs.
 
 **Smoke**
+
 4. Place the nested bowls in the smoker.
 5. Smoke for 45 minutes, stirring the cream every 20 to 30 minutes so the smoke distributes rather than sitting on the surface.
 6. Taste at 45 minutes. If the smoke is too subtle, continue in 15 to 30 minute increments. The flavor concentrates further as the cream rests, so stop slightly short of the target intensity.
 
 **Rest and whip**
+
 7. Transfer the cream to a sealed container and refrigerate. Overnight rest deepens and integrates the smoke.
 8. Whip cold, in a chilled bowl, to soft or medium peaks. Add sweetener while whipping if desired, or leave unsweetened to contrast a sweet drink.
 

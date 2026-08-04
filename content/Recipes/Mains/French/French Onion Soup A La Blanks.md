@@ -64,25 +64,31 @@ If adding short rib, start here before caramelizing the onions.
 ## Instructions
 
 **Slice the onions**
+
 1. Thinly slice all 8 onions. To reduce the crying response, place the onions in the freezer for 15 to 20 minutes before slicing. A sharp knife also helps significantly.
 
 **Caramelize the onions**
+
 2. Melt butter and olive oil together in a large heavy-bottomed pot or Dutch oven over medium-low heat.
 3. Add the sliced onions and stir to coat. Cook low and slow, stirring occasionally, for at least 1 hour until deeply golden and almost black at the edges. The darker they get, the sweeter and more complex the soup will be.
 
 **Deglaze**
+
 4. Add the brandy or cognac and stir to deglaze, scraping up any browned bits from the bottom of the pot. Cook for 2 minutes until the alcohol absorbs.
 
 **Build the soup**
+
 5. Add the beef stock, thyme, and bay leaves. Season with salt and black pepper.
 6. Bring to a rolling boil, then reduce to a low simmer.
 7. Simmer uncovered for at least 1 to 2 hours. You can simmer for 4 to 12 hours, letting it reduce and concentrate, then thin back out with additional stock or water as needed.
 8. Remove bay leaves. Taste and adjust seasoning before serving.
 
 **Toast the bread**
+
 9. Butter the bread slices generously and toast in a pan or under the broiler until very firm and golden on both sides.
 
 **Broil and serve**
+
 10. Preheat the broiler.
 11. Ladle hot soup into oven-safe bowls. Float a slice of toasted bread on top of each.
 12. Cover generously with grated Gruyère.

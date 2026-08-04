@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-# Alex's Restaurant
+# Alex's Restaurant.
 
 Ox bears all.
 

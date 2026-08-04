@@ -38,6 +38,7 @@ difficulty: easy
 ## Instructions
 
 **Shred and bake**
+
 1. Preheat oven to 400°F. Line a baking sheet with parchment paper.
 2. Using your hands or two forks, shred the tofu into rough, uneven pieces resembling pulled meat. Vary the size: some smaller crumbles, some larger chunks. Uneven pieces create more surface area and better texture variation.
 3. Spread in a single layer on the prepared baking sheet. Drizzle with neutral oil and season lightly with salt and pepper. Toss to coat.
@@ -45,16 +46,19 @@ difficulty: easy
 5. Remove from oven and let cool slightly.
 
 **Marinate**
+
 6. Combine pear, soy sauce, brown sugar, sesame oil, garlic, ginger, and gochujang in a bowl and mix well.
 7. Add the baked tofu and toss thoroughly to coat. Marinate for at least 2 hours, or overnight in the fridge for deeper flavor. The tofu will absorb the marinade significantly.
 
 **Sear**
+
 8. Heat a cast iron skillet, griddle, or grill pan over medium-high heat until very hot.
 9. Add the marinated tofu in a single layer without overcrowding. Work in batches if necessary.
 10. Cook without moving for 2 to 3 minutes until deeply caramelized and crispy on the bottom. Toss and cook for another 2 to 3 minutes until charred at the edges and sticky throughout.
 11. Remove from heat immediately. The sugars in the marinade burn quickly.
 
 **Serve**
+
 12. Transfer to a serving dish. Garnish with sliced green onions and toasted sesame seeds.
 13. Serve over steamed rice with kimchi, cucumbers, and perilla leaves.
 

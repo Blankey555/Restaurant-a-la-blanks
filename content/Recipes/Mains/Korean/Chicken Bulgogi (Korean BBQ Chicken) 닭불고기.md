@@ -36,19 +36,23 @@ difficulty: easy
 ## Instructions
 
 **Prepare the chicken**
+
 1. Place a sheet of plastic wrap over the chicken thighs and pound gently with a meat mallet to even out the thickness.
 
 **Marinate**
+
 2. In a large bowl, combine gochujang, gochugaru (if using), soy sauce, brown sugar, garlic, ginger, corn syrup, rice wine, sesame oil, and black pepper.
 3. Add the chicken and toss to coat evenly. Marinate at room temperature for 10 to 30 minutes, or refrigerate overnight for deeper flavor.
 
 **Broil**
+
 4. Preheat oven broiler and position the rack 5 to 6 inches below the heat source.
 5. Lightly grease a wire cooling rack with oil spray and set it over a foil-lined sheet pan.
 6. Arrange chicken on the rack in a single layer without overlapping.
 7. Broil for 4 to 5 minutes until lightly charred. Flip and broil another 4 to 5 minutes until fully cooked. Watch carefully to prevent burning.
 
 **Serve**
+
 8. Slice into bite-sized pieces. Garnish with perilla leaves and sesame seeds. Serve hot with steamed rice.
 
 ---

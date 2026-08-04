@@ -39,20 +39,25 @@ Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings 
 ## Instructions
 
 **Aromatize the eggs**
+
 1. Place the eggs in a sealed container with the fresh truffle 2 to 3 days before making the deviled eggs. Pack them snugly in a small container with the truffle unwrapped and loose to concentrate the aroma. Keep refrigerated. The aroma penetrates the porous shells and perfumes both white and yolk.
 
 **Boil the eggs**
+
 2. Place eggs in a single layer in a pot and cover with cold water by an inch. Bring to a rolling boil, then remove from heat, cover, and let sit for 11 minutes.
 3. Transfer immediately to an ice bath and cool completely, about 15 minutes.
 
 **Peel and halve**
+
 4. Peel the eggs and slice in half lengthwise. Place the yolks in a bowl and arrange the whites on serving trays.
 
 **Make the filling**
+
 5. Finely grate the truffle on a microplane into the bowl with the yolks. Add mayonnaise, Dijon, white pepper, and salt. Mash and mix until completely smooth.
 6. Taste and adjust seasoning. Slightly over-season the filling since the bland whites will dilute the flavor.
 
 **Pipe and garnish**
+
 7. Transfer filling to a piping bag fitted with a large star tip. Pipe into the egg white halves, mounding slightly above the rim.
 8. Finely grate the frozen truffle over each egg using a microplane. Finish with chives and flaky salt.
 9. Serve within a couple of hours for best texture and aroma.

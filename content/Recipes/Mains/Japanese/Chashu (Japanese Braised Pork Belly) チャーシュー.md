@@ -54,6 +54,7 @@ difficulty: medium
 #### Day 1
 
 **Roll and tie the pork belly**
+
 1. Orient the slab so the layered meat-and-fat pattern is visible at one or both ends.
 2. Roll into a compact log and trim any excess.
 3. Run butcher twine under the far end and tie a double knot, leaving a 3-inch tail.
@@ -63,10 +64,12 @@ difficulty: medium
 7. Tie a double knot with the tail and cut the excess.
 
 **Sear**
+
 8. Heat oil in a cast iron skillet over high heat. Add the tied pork belly.
 9. Sear all sides until evenly golden brown, about 10 to 15 minutes total.
 
 **Braise**
+
 10. Combine sake, soy sauce, water, and sugar in a heavy-bottomed pot just large enough to hold the roll. Add negi and ginger.
 11. Transfer the seared pork belly to the pot. Bring to a boil over medium heat.
 12. Skim off any foam and scum. Reduce to low heat.
@@ -74,6 +77,7 @@ difficulty: medium
 14. Turn off heat and let cool slightly.
 
 **Marinate overnight**
+
 15. Transfer the pork to a container or vacuum bag with ½ cup of the strained braising liquid. Seal and refrigerate for at least 8 hours. Optionally add peeled soft-boiled eggs to the remaining liquid to make ramen eggs.
 
 #### Day 2

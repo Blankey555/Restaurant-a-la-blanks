@@ -85,32 +85,40 @@ difficulty: medium
 ## Instructions
 
 **Slice the onions**
+
 1. Thinly slice all 8 onions. To reduce the crying response, place the onions in the freezer for 15 to 20 minutes before slicing.
 
 **Caramelize the onions**
+
 2. Heat duck fat and olive oil together in a large heavy-bottomed pot or Dutch oven over medium-low heat.
 3. Add sliced onions and stir to coat. Cook low and slow, stirring occasionally, for at least 1 hour until deeply golden and almost black at the edges.
 
 **Deglaze**
+
 4. Add 2 tbsp Shaoxing wine and the red vinegar. Stir to deglaze, scraping up any browned bits from the bottom of the pot. Cook for 2 minutes until the liquid absorbs.
 
 **Build the soup**
+
 5. Add duck stock, five spice powder, thyme, and bay leaves. Add demi-glace here if using. Season with salt and white pepper.
 6. Bring to a rolling boil, then reduce to a low simmer.
 
 **Bloom and add gelatin (if using)**
+
 7. Pour 2 tbsp cold water into a small bowl. Sprinkle the gelatin evenly over the surface and let it sit undisturbed for 5 minutes until it blooms into a thick, opaque gel. Do not stir during this time. In the final 5 minutes of simmering, spoon a ladleful of hot soup into the bloomed gelatin and whisk to dissolve, then stir the mixture back into the pot.
 
 **Simmer and refresh**
+
 8. Simmer uncovered for at least 1 to 2 hours. You can simmer for 4 to 12 hours, letting it reduce and concentrate, then thin back out with additional stock or water as needed.
 9. Every 1 to 2 hours, taste the soup and consider refreshing: add a small splash of Shaoxing wine and a pinch of five spice to keep both aromas present and forward as the soup cooks down. These volatile compounds fade with prolonged heat, so periodic small additions maintain their character without overpowering.
 10. Remove bay leaves. Just before serving, stir in the remaining 1 tbsp Shaoxing wine off the heat.
 11. Taste and adjust seasoning. Add a splash more red vinegar if the soup needs brightness.
 
 **Toast the bread**
+
 12. Butter or brush the bread slices with duck fat and toast in a pan or under the broiler until very firm and golden on both sides.
 
 **Broil and serve**
+
 13. Preheat the broiler.
 14. Ladle hot soup into oven-safe bowls. Float a slice of toasted bread on top of each.
 15. Cover generously with grated Gruyère.
