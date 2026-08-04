@@ -48,10 +48,10 @@ steps:
 
 ### Eggs
 - 30 large eggs
-- Fresh black truffle, for aromatizing (reuse the filling truffle)
+- Fresh black truffle, for aromatizing (the same 24 g truffle destined for the filling)
 
 ### Filling
-- 24 g black winter truffle (approximately 0.8 g per egg)
+- 24 g black winter truffle (reuse the aromatizing truffle; approximately 0.8 g per egg)
 - 180 g mayonnaise, good quality
 - 45 g Dijon mustard
 - 1 tsp white pepper
