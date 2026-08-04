@@ -6,8 +6,6 @@ yield: 6 servings
 difficulty: easy
 ---
 
-*Thinly sliced marinated beef with a sweet, savory, slightly spicy marinade. Cooks in minutes.*
-
 **Prep:** 15 minutes (plus 2 hours to overnight marinating)
 **Cook:** 15 minutes
 **Servings:** 6

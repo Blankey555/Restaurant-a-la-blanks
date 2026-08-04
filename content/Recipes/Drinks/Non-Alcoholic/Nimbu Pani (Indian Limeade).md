@@ -5,8 +5,6 @@ yield: 1 serving
 difficulty: easy
 ---
 
-*A tangy, spiced Indian limeade with black salt and chaat masala. Refreshing and savory-sweet in equal measure. Easily spiked with vodka or tequila.*
-
 **Serves:** 1
 **Time:** 5 minutes
 

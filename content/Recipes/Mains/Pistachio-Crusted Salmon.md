@@ -7,8 +7,6 @@ yield: 2 servings
 difficulty: easy
 ---
 
-*Tender, flaky salmon with a crunchy pistachio crust and a garlic-Dijon-honey glaze. Ready in 25 minutes.*
-
 **Prep:** 10 minutes
 **Cook:** 15 minutes
 **Rest:** 5 minutes

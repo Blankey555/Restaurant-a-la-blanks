@@ -14,7 +14,6 @@ total_time: 65 mins
 yield: 8 servings
 difficulty: medium
 ---
-*Classic takeout-style ribs with a sweet and savory glaze.*
 
 **Source:** https://thewoksoflife.com/chinese-boneless-spare-ribs/
 

@@ -6,8 +6,6 @@ yield: 8 servings
 difficulty: medium
 ---
 
-*Cantonese roast pork with a sweet, savory, deeply spiced BBQ glaze. Restaurant-quality at home.*
-
 **Prep:** 10 minutes (plus 8 hours to overnight marinating)
 **Cook:** 50 minutes
 **Rest:** 10 minutes

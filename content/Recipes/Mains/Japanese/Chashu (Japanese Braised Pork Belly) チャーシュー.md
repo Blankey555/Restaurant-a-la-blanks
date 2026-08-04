@@ -6,8 +6,6 @@ yield: 8 to 10 servings (rolled) or 3 to 4 (block)
 difficulty: medium
 ---
 
-*Melt-in-your-mouth pork belly braised low and slow in a sweet-savory sauce. Two methods: rolled log (classic ramen shop style) or flat block (quicker, easier).*
-
 **Prep:** 20 minutes
 **Cook:** 2 hours 20 minutes (rolled) / 1 hour 20 minutes (block)
 **Rest:** 8 hours or overnight

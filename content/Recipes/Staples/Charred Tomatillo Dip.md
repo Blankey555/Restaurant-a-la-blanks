@@ -9,8 +9,6 @@ difficulty: easy
 
 # Charred Tomatillo Dip
 
-*Smoky, bright, and slightly spicy. Built on broiler-charred vegetables. Pairs well with fried jalapeño poppers.*
-
 **Serves:** 8
 **Total Time:** 20 minutes
 

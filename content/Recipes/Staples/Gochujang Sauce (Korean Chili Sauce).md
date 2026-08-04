@@ -6,8 +6,6 @@ yield: 4 servings
 difficulty: easy
 ---
 
-*A quick, bold dipping sauce and drizzle with sweet, spicy, umami depth. Ready in 5 minutes.*
-
 **Prep:** 5 minutes
 **Total:** 5 minutes
 **Servings:** 4

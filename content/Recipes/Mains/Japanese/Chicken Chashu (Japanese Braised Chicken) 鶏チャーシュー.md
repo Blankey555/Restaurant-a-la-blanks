@@ -6,8 +6,6 @@ yield: 4 servings
 difficulty: medium
 ---
 
-*Juicy and tender chicken thighs rolled, pan-seared, and braised in a sweet-savory sauce. Perfect on ramen, in a rice bowl, or on their own.*
-
 **Prep:** 20 minutes
 **Cook:** 40 minutes
 **Rest:** 8 hours or overnight

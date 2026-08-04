@@ -5,8 +5,6 @@ yield: 8 to 10 servings
 difficulty: easy
 ---
 
-*A bright, fruit-forward punch built around pisco. Light enough to drink freely, complex enough to be interesting. Still and sparkling variants.*
-
 **Serves:** 8 to 10
 **Time:** 15 minutes plus 1 hour chilling
 
