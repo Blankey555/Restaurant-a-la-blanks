@@ -7,7 +7,7 @@ yield: 5 bread bowls
 difficulty: medium
 ---
 
-These bread bowls are ideal for hollowing out and filling with your favorite stew or chili. The base recipe yields 5 bowls, takes 20 minutes of prep, bakes for 22 to 28 minutes, and requires 7 hours 30 minutes of total time. 
+*These bread bowls are ideal for hollowing out and filling with your favorite stew or chili. The base recipe yields 5 bowls, takes 20 minutes of prep, bakes for 22 to 28 minutes, and requires 7 hours 30 minutes of total time.*
 
 ## Ingredients
 

@@ -9,7 +9,7 @@ difficulty: medium
 
 # Smoked Whipped Cream
 
-Cold-smoked heavy cream whipped for topping coffee martinis and desserts. The smoke deepens overnight in the fridge.
+*Cold-smoked heavy cream whipped for topping coffee martinis and desserts. The smoke deepens overnight in the fridge.*
 
 **Yield:** Approximately 2 cups whipped
 **Total Time:** 1 to 2 hours plus optional overnight rest

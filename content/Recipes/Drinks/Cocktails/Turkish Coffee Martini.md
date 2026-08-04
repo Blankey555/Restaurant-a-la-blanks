@@ -4,7 +4,7 @@ prep_time: 15 min
 difficulty: easy
 ---
 
-A "stiff drink" that elevates the classic Espresso Martini with a Mediterranean palette.
+*A "stiff drink" that elevates the classic Espresso Martini with a Mediterranean palette.*
 
 ## Ingredients
 

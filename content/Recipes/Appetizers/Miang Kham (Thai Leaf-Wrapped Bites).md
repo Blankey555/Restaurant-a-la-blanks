@@ -12,7 +12,7 @@ prep_time: 45 min
 difficulty: medium
 ---
 
-These Thai bites combine sweet, salty, sour, and spicy flavors in a single leaf wrap. 
+*These Thai bites combine sweet, salty, sour, and spicy flavors in a single leaf wrap.*
 
 ## Ingredients
 

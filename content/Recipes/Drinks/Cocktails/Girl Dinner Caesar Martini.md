@@ -9,7 +9,7 @@ difficulty: medium
 
 # Girl Dinner Caesar Martini
 
-A caesar salad in a glass. A dirty martini stacked with umami: lemon-parmesan vermouth, anchovy-garlic tincture, and olive brine.
+*A caesar salad in a glass. A dirty martini stacked with umami: lemon-parmesan vermouth, anchovy-garlic tincture, and olive brine.*
 
 **Serves:** 1
 **Total Time:** 2 to 3 days for components plus 5 minutes per cocktail

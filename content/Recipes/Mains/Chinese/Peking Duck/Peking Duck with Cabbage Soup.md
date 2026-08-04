@@ -6,7 +6,7 @@ yield: 4 to 6 servings
 difficulty: easy
 ---
 
-This comforting soup uses the remaining carcass from a roast duck to create a rich, savory broth, serving as the traditional final course of a Peking duck meal.
+*This comforting soup uses the remaining carcass from a roast duck to create a rich, savory broth, serving as the traditional final course of a Peking duck meal.*
 
 ## Ingredients
 

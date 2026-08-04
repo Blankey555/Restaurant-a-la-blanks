@@ -4,7 +4,7 @@ prep_time: 3 days
 difficulty: hard
 ---
 
-A multi-day process involving a dry brine, herb compound butter, and a maple-balsamic glaze for deep flavor and crispy skin.
+*A multi-day process involving a dry brine, herb compound butter, and a maple-balsamic glaze for deep flavor and crispy skin.*
 
 ## Ingredients
 

@@ -9,7 +9,7 @@ difficulty: easy
 
 # Sai Ua Dipping Sauce
 
-A simplified nam jim built as a reduction of lemongrass, galangal, and makrut lime leaf. Developed to restore aromatics to a batch of sai ua that came up short on them, but works as a general dipping sauce for grilled meats and sausage.
+*A simplified nam jim built as a reduction of lemongrass, galangal, and makrut lime leaf. Developed to restore aromatics to a batch of sai ua that came up short on them, but works as a general dipping sauce for grilled meats and sausage.*
 
 **Yield:** Approximately ¾ cup
 **Total Time:** 30 minutes

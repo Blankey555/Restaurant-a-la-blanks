@@ -9,7 +9,7 @@ difficulty: easy
 
 # Tamarind Crema
 
-A sweet-sour dipping crema built on Mexican crema and tamarind. Pairs with fried jalapeño poppers and other fried foods.
+*A sweet-sour dipping crema built on Mexican crema and tamarind. Pairs with fried jalapeño poppers and other fried foods.*
 
 **Yield:** Approximately 1.5 cups
 **Total Time:** 5 minutes plus overnight rest recommended
