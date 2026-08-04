@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Fix squished tag pills in the Properties panel: let the row wrap and
+// keep each tag at its natural width instead of flex-shrinking mid-word.
+.note-properties-tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+
+  .tag-link {
+    white-space: nowrap;
+    flex-shrink: 0;
+    width: auto;
+    line-height: 1.4;
+  }
+
+  .note-properties-separator {
+    display: none; // commas between pills read as clutter once wrapped
+  }
+}
