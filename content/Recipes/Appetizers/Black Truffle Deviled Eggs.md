@@ -9,12 +9,40 @@ difficulty: easy
 
 # Black Truffle Deviled Eggs
 
-Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings on top. Three layers of truffle impact.
+*Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings on top.*
 
 **Yield:** 60 halves (30 eggs)
 **Total Time:** 2 to 3 days aromatizing plus 1.5 hours active
 
 ---
+
+## At a Glance
+
+<!-- recipe-grid-spec
+steps:
+  op: "pipe into whites; grate 20 g frozen truffle over; chives and flaky salt; serve within 2 hours"
+  of:
+    - op: "mash smooth with the yolks; season slightly strong"
+      of:
+        - op: "halve lengthwise; whites to trays, yolks to bowl"
+          of:
+            - op: "boil, then rest covered off heat 11 min; ice bath 15 min; peel"
+              of:
+                - op: "aromatize sealed with the fresh truffle 2 to 3 days, refrigerated"
+                  of: ["30 large eggs"]
+        - "24 g black winter truffle, finely grated"
+        - "180 g mayonnaise"
+        - "45 g Dijon mustard"
+        - "1 tsp white pepper + 1 tsp fine sea salt"
+-->
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">30 large eggs</td><td class="rg-op">aromatize sealed with the fresh truffle 2 to 3 days, refrigerated</td><td class="rg-op">boil, then rest covered off heat 11 min; ice bath 15 min; peel</td><td class="rg-op">halve lengthwise; whites to trays, yolks to bowl</td><td rowspan="5" class="rg-op">mash smooth with the yolks; season slightly strong</td><td rowspan="5" class="rg-op">pipe into whites; grate 20 g frozen truffle over; chives and flaky salt; serve within 2 hours</td></tr>
+  <tr><td colspan="4" class="rg-ing">24 g black winter truffle, finely grated</td></tr>
+  <tr><td colspan="4" class="rg-ing">180 g mayonnaise</td></tr>
+  <tr><td colspan="4" class="rg-ing">45 g Dijon mustard</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 tsp white pepper + 1 tsp fine sea salt</td></tr>
+</table>
 
 ## Ingredients
 
@@ -57,6 +85,7 @@ Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings 
 6. Taste and adjust seasoning. Slightly over-season the filling since the bland whites will dilute the flavor.
 
 **Pipe and garnish**
+
 7. Transfer filling to a piping bag fitted with a large star tip. Pipe into the egg white halves, mounding slightly above the rim.
 8. Finely grate the frozen truffle over each egg using a microplane. Finish with chives and flaky salt.
 9. Serve within a couple of hours for best texture and aroma.
