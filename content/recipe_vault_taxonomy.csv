@@ -78,6 +78,10 @@ tag,meatballs,classification,Dish format: meatballs,Apply to meatball dishes
 tag,kofte,classification,Dish format: kofte,Apply to kofte-style dishes
 tag,fishcakes,classification,Dish format: fishcakes,Apply to fishcake dishes
 tag,sausage,classification,Dish format: sausage,Apply to sausage and sausage-patty dishes
+tag,dolma,classification,Dish format: stuffed vegetables or shellfish,"Apply to the stuffed family: grape leaves, cabbage leaves, mussels, peppers"
+tag,boereg,classification,Dish format: filled phyllo pastry,Apply to boereg triangles and rolls
+tag,flatbread,classification,Dish format: topped or plain flatbread,Apply to lahmajoon and other flatbreads
+tag,pastry,classification,Dish format: layered or rolled sweet pastry,"Apply to pakhlava, boorma, tel khadayeef, and similar"
 tag,poppers,classification,Dish format: stuffed pepper poppers,Apply to popper dishes
 tag,popcorn,classification,Dish format: popcorn,Apply to popcorn snacks
 tag,candied-nuts,classification,Dish format: candied nuts,Apply to candied nut snacks

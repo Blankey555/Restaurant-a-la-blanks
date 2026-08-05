@@ -6,7 +6,6 @@ total_time: 2 to 3 days (aromatizing) plus 1.5 hours
 yield: 60 halves
 difficulty: easy
 ---
-
 # Black Truffle Deviled Eggs
 
 *Truffle-aromatized eggs with truffle-pureed filling and frozen truffle shavings on top.*
