@@ -1,5 +1,5 @@
 ---
-tags: [armenian, middle-eastern, dolma, appetizer, seafood, party, make-ahead, baked, gluten-free]
+tags: [armenian, middle-eastern, dolma, appetizer, seafood, party, make-ahead, baked, gluten-free, homebrew]
 prep_time: 1 hour soaking plus assembly
 cook_time: 1 to 1.5 hours
 yield: about 3 dozen mussels
