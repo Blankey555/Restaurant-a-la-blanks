@@ -1,5 +1,5 @@
 ---
-tags: [armenian, middle-eastern, boereg, appetizer, lamb, beef, baked, party, freezer-friendly]
+tags: [armenian, middle-eastern, boereg, appetizer, lamb, beef, baked, party, freezer-friendly, homebrew]
 cook_time: 20 mins
 yield: about 30 triangles
 difficulty: medium
@@ -81,4 +81,5 @@ steps:
 
 ## Notes
 
+- Instead of triangles, roll into individual or large cylinders: layer three sheets of the desired length, buttering between, spread the filling, and roll up like a burrito.
 - See the notes on [[Cheese Triangles (Boereg)]]: a one pound package of phyllo contains 25 to 35 sheets depending on brand, and the triangles may be prepared in advance, frozen, and then baked. Allow an extra five minutes of baking from frozen.

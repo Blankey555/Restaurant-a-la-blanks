@@ -1,5 +1,5 @@
 ---
-tags: [armenian, middle-eastern, boereg, appetizer, cheese, egg, vegetarian, baked, party, freezer-friendly]
+tags: [armenian, middle-eastern, boereg, appetizer, cheese, egg, vegetarian, baked, party, freezer-friendly, homebrew]
 cook_time: 20 to 25 mins
 yield: about 30 triangles
 difficulty: medium
@@ -22,7 +22,7 @@ steps:
       of:
         - op: "blend thoroughly with a fork; set aside"
           of:
-            - "8 oz cream cheese, room temperature"
+            - "1 tbsp cream cheese, room temperature"
             - "1 lb muenster cheese, coarsely grated"
             - 3 eggs
             - 1/2 tsp sugar
@@ -34,7 +34,7 @@ steps:
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Preheat oven to 375°F</td></tr>
   <tr><td class="rg-setup" colspan="4">Keep phyllo between two slightly dampened dish towels; work one sheet at a time</td></tr>
-  <tr><td class="rg-ing">8 oz cream cheese, room temperature</td><td rowspan="6" class="rg-op">blend thoroughly with a fork; set aside</td><td rowspan="7" class="rg-op">butter each sheet, fold in half lengthwise; spoonful of filling at bottom; fold sides over; fold up in triangles; seam down on buttered pan; brush tops</td><td rowspan="7" class="rg-op">bake 375°F 20 to 25 min until golden brown; serve hot</td></tr>
+  <tr><td class="rg-ing">1 tbsp cream cheese, room temperature</td><td rowspan="6" class="rg-op">blend thoroughly with a fork; set aside</td><td rowspan="7" class="rg-op">butter each sheet, fold in half lengthwise; spoonful of filling at bottom; fold sides over; fold up in triangles; seam down on buttered pan; brush tops</td><td rowspan="7" class="rg-op">bake 375°F 20 to 25 min until golden brown; serve hot</td></tr>
   <tr><td class="rg-ing">1 lb muenster cheese, coarsely grated</td></tr>
   <tr><td class="rg-ing">3 eggs</td></tr>
   <tr><td class="rg-ing">1/2 tsp sugar</td></tr>
@@ -45,7 +45,7 @@ steps:
 
 ## Ingredients
 
-- 8 ounces cream cheese, room temperature
+- 1 tablespoon cream cheese, room temperature (family adjustment; the book calls for 8 ounces)
 - 1 pound muenster cheese, coarsely grated
 - 3 eggs
 - 1/2 teaspoon sugar
@@ -67,6 +67,7 @@ steps:
 
 ## Notes
 
+- Instead of triangles, roll into individual or large cylinders: layer three sheets of the desired length, buttering between, spread the filling, and roll up like a burrito.
 - Variation: for a roll-shaped boereg, after folding over both sides of the sheet in step 3, roll from bottom, jelly-roll fashion, up to the top.
 - Phyllo dough, also called filo or strudel leaves, is available in various brand names and, depending on the manufacturer, a one-pound package will contain anywhere from 25 to 35 sheets.
 - These triangles may be prepared in advance, frozen and then baked. Allow an extra five minutes for baking.
