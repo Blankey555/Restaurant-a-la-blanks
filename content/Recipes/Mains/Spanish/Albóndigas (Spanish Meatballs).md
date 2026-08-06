@@ -7,11 +7,7 @@ yield: 6 servings
 difficulty: medium
 ---
 
-
-
 *Juicy Spanish meatballs seared to perfection and finished in an aromatic white wine and saffron broth.*
-
-
 
 **Source:** https://www.themediterraneandish.com/albondigas-spanish-meatballs/
 
@@ -90,4 +86,7 @@ steps:
 9. Pour wine and chicken stock into the pan, then nestle in meatballs in a single layer. Sprinkle picada into the sauce and simmer for 5 to 10 minutes.
 
 ## Notes
+
+- Improves as it sits. Can be made 1 to 2 days ahead.
+- Keeps in the fridge for 3 to 4 days.
 
