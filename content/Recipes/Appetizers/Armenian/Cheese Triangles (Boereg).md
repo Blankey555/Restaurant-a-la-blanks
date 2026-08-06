@@ -22,7 +22,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 375°F
   - Keep phyllo between two slightly dampened dish towels; work one sheet at a time
@@ -40,7 +40,7 @@ steps:
             - 1/4 cup minced parsley or dill
             - 1 tbsp flour
         - "1 lb phyllo dough + 1.5 cups clarified butter, melted"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Preheat oven to 375°F</td></tr>

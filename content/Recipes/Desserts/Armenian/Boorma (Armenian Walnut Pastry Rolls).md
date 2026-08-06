@@ -14,7 +14,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 350°F
   - Keep phyllo covered with a slightly dampened towel; work one sheet at a time
@@ -35,7 +35,7 @@ steps:
       of:
         - "2 cups sugar + 1.5 cups water"
         - 1 tsp lemon juice
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 350°F</td></tr>

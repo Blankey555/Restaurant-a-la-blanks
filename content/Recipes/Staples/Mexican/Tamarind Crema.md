@@ -19,7 +19,7 @@ difficulty: easy
 *A sweet-sour dipping crema built on Mexican crema and tamarind. Pairs with fried jalapeño poppers and other fried foods.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: whisk until smooth; adjust sweet-sour balance; refrigerate overnight, stir before serving
   of:
@@ -29,7 +29,7 @@ steps:
     - 1 tsp brown sugar, or to taste
     - pinch of salt
     - "optional: pinch of chipotle powder or a few drops of hot sauce"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 cup Mexican crema</td><td rowspan="6" class="rg-op">whisk until smooth; adjust sweet-sour balance; refrigerate overnight, stir before serving</td></tr>

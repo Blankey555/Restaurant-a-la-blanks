@@ -18,7 +18,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "marinate refrigerated 4 hours to overnight, turning once or twice; serve halved with marinade and pickled shallots; garnish with pepper slivers, cilantro, scallions, and toasted sesame seeds"
   of:
@@ -38,7 +38,7 @@ steps:
             - "1/4 cup sesame oil"
         - 3 large shallots, peeled and sliced thinly lengthwise
         - 3 scallions, thinly chopped
--->
+%%
 
 <table class="recipe-grid">
   <tr><td colspan="3" class="rg-ing">8 large eggs</td><td class="rg-op">soft-boil 6 1/2 to 7 min; ice bath, cool completely, peel</td><td rowspan="8" class="rg-op">marinate refrigerated 4 hours to overnight, turning once or twice; serve halved with marinade and pickled shallots; garnish with pepper slivers, cilantro, scallions, and toasted sesame seeds</td></tr>

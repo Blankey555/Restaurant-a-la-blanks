@@ -22,7 +22,7 @@ calories: 321 per half pizza
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 400 degrees; line a large baking sheet with parchment
 steps:
@@ -41,7 +41,7 @@ steps:
             - 1/4 teaspoon onion powder
             - 1/4 teaspoon garlic powder
             - 1/4 teaspoon salt
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Preheat oven to 400 degrees; line a large baking sheet with parchment</td></tr>

@@ -17,7 +17,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Rim a rocks glass with black salt and chaat masala mix
 steps:
@@ -31,7 +31,7 @@ steps:
         - "½ tsp sugar or simple syrup, or to taste"
         - "optional: pinch each of chaat masala, black pepper, Tajín, or cumin"
     - "1½ oz clean neutral vodka"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="3">Rim a rocks glass with black salt and chaat masala mix</td></tr>

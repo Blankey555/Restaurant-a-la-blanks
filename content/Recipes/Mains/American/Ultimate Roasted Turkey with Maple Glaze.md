@@ -15,7 +15,7 @@ difficulty: hard
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Day 3, remove turkey from fridge 3 hours before cooking; preheat oven to 185°C
 steps:
@@ -59,7 +59,7 @@ steps:
         - 500ml high-quality chicken stock
         - reserved roasting juices
         - 1 fresh sprig rosemary
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Day 3, remove turkey from fridge 3 hours before cooking; preheat oven to 185°C</td></tr>

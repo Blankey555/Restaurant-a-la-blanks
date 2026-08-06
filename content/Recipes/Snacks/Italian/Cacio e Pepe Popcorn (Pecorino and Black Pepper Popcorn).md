@@ -17,7 +17,7 @@ difficulty: easy
 *All the flavors of the Roman pasta (sharp pecorino, aggressive black pepper, and a little butter) on stovetop popcorn.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: taste, adjust pepper and cheese; serve immediately
   of:
@@ -33,7 +33,7 @@ steps:
         - "¾ cup finely grated Pecorino Romano"
         - "1½ tsp freshly cracked black pepper"
     - "½ tsp flaky salt"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">3 tbsp neutral oil</td><td rowspan="2" class="rg-op">pop covered over medium-high heat, shaking often, until pops slow to 2 to 3 seconds apart; transfer to a large bowl</td><td rowspan="3" class="rg-op">drizzle over and toss quickly to coat</td><td rowspan="5" class="rg-op">toss vigorously while the popcorn is still hot and buttered</td><td rowspan="6" class="rg-op">taste, adjust pepper and cheese; serve immediately</td></tr>

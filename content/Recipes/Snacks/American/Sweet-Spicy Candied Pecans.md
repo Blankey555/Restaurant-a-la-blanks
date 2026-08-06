@@ -18,7 +18,7 @@ difficulty: easy
 *A crunchy, candy-shelled pecan with heat from cayenne and warmth from cinnamon. Measurements are flexible. Adjust to taste.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 300°F; line a baking sheet with parchment
 steps:
@@ -39,7 +39,7 @@ steps:
               of:
                 - 1 egg white
         - 2 cups pecans
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 300°F; line a baking sheet with parchment</td></tr>

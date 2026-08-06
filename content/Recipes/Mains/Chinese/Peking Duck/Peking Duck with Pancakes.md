@@ -17,7 +17,7 @@ difficulty: hard
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "carve duck into thin slices with crispy skin attached; serve with hoisin and scallions in warm pancakes"
   of:
@@ -53,7 +53,7 @@ steps:
     - Hoisin sauce or sweet bean sauce (Tianmianjiang)
     - Cucumber, julienned
     - Scallions, shredded
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 whole duck (approx. 2kg)</td><td class="rg-op">inflate skin loose with pump, scald with boiling water, pat dry, rest 30 minutes</td><td rowspan="6" class="rg-op">pour boiling glaze over duck to scald a second time</td><td rowspan="7" class="rg-op">mount on spit, air-dry uncovered in refrigerator at least 24 hours until skin is tacky and dry; rest at room temperature 2 hours before roasting</td><td rowspan="7" class="rg-op">roast at 350°F for 60 to 70 minutes with oven door slightly ajar, then 375 to 400°F for 15 minutes to brown skin</td><td rowspan="14" class="rg-op">carve duck into thin slices with crispy skin attached; serve with hoisin and scallions in warm pancakes</td></tr>

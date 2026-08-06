@@ -14,7 +14,7 @@ difficulty: easy
 *A bold, savory-sweet marinade for soft-boiled eggs. Makes enough for 6 to 8 eggs.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: submerge eggs fully in marinade; refrigerate minimum 4 hours, ideally overnight
   of:
@@ -30,7 +30,7 @@ steps:
     - op: soft boil to preferred doneness, peel
       of:
         - 6 to 8 eggs
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 cup reduced sodium soy sauce</td><td rowspan="7" class="rg-op">whisk until the honey fully dissolves</td><td rowspan="8" class="rg-op">submerge eggs fully in marinade; refrigerate minimum 4 hours, ideally overnight</td></tr>

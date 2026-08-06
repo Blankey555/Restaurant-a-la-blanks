@@ -23,7 +23,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Fill larger bowl halfway with ice; nest smaller bowl on top
   - Set up smoker for cold smoking with dry applewood, cherry, or pecan chips; keep under 90°F
@@ -36,7 +36,7 @@ steps:
           of:
             - 1 cup heavy cream (36% fat or higher), in the ice-nested bowl
     - "optional: sweetener to taste, added while whipping"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Fill larger bowl halfway with ice; nest smaller bowl on top</td></tr>

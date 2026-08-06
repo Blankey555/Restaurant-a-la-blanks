@@ -48,7 +48,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Peel and cube 4 lb Yukon Gold potatoes
 steps:
@@ -69,7 +69,7 @@ steps:
             - 1 tsp salt + 1/2 tsp white pepper
         - "optional: 1/2 cup Greek yogurt"
         - "optional: 1 cup Gruyère, cheddar, or Parmesan"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Peel and cube 4 lb Yukon Gold potatoes</td></tr>

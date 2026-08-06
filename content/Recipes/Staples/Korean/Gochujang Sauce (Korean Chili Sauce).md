@@ -16,7 +16,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: whisk until smooth; use immediately or refrigerate up to 1 week
   of:
@@ -24,7 +24,7 @@ steps:
     - 1½ tbsp rice vinegar
     - 1 tbsp sesame oil
     - 1 tbsp pure maple syrup
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">2 to 3 tbsp gochujang paste</td><td rowspan="4" class="rg-op">whisk until smooth; use immediately or refrigerate up to 1 week</td></tr>

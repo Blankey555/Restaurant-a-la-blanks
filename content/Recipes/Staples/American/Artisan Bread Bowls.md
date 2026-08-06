@@ -18,7 +18,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: bake 22 to 28 min at 425°F until deep brown and hollow-sounding; cool on rack
   of:
@@ -37,7 +37,7 @@ steps:
                     - 1 1/2 cups (340g) lukewarm water
                     - 1/4 cup (28g) dry milk
                     - 1 1/2 tsp instant yeast
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">3 3/4 cups (450g) all-purpose flour</td><td rowspan="7" class="rg-op">mix and knead into a smooth dough</td><td rowspan="7" class="rg-op">rise covered 45 min until puffy</td><td rowspan="7" class="rg-op">divide into 5 balls on greased sheet; cover and refrigerate 4 to 24 hours</td><td rowspan="7" class="rg-op">rest uncovered 30 min while oven preheats to 425°F, then slash tops</td><td rowspan="7" class="rg-op">bake 22 to 28 min at 425°F until deep brown and hollow-sounding; cool on rack</td></tr>

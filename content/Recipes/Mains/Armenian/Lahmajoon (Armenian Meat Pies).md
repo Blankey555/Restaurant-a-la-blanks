@@ -18,7 +18,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 450°F
 steps:
@@ -45,7 +45,7 @@ steps:
             - "2 tbsp tomato paste + 2 tbsp flour"
             - "1 tsp crushed dried mint + 1 clove garlic, mashed"
             - "2 tsp salt + 1 tsp paprika + 1/4 tsp cayenne"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 450°F</td></tr>

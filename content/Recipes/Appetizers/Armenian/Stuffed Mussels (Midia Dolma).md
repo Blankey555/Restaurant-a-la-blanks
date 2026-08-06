@@ -22,7 +22,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - "Soak mussels in cold salted water 1 hour; scrub well, open with a small knife, remove beards, rinse"
 steps:
@@ -43,7 +43,7 @@ steps:
             - "2 tbsp chopped parsley + 2 tbsp chopped dill"
             - "1 tsp ground allspice + 1/4 tsp red cayenne pepper"
             - "1/2 cup pine nuts + 1/4 cup currants (optional)"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Soak mussels in cold salted water 1 hour; scrub well, open with a small knife, remove beards, rinse</td></tr>

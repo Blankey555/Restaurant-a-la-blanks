@@ -20,7 +20,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "add water; boil; simmer covered 1 hour; cool in pan 1 hour; refrigerate; serve cold with parsley and lemon wedges"
   of:
@@ -30,7 +30,7 @@ steps:
           of:
             - "1 cabbage, 2 or 3 pounds"
         - "1 recipe Stuffed Grape Leaves filling (omit the currants)"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 cabbage, 2 or 3 pounds</td><td class="rg-op">core; boil stem end down with 1 tbsp salt; peel leaves off in layers, simmering 2 min between; drain</td><td rowspan="2" class="rg-op">halve leaves, remove center vein; roll a spoonful in each; arrange seam side down over scraps in pan; top with a leaf and inverted dish</td><td rowspan="2" class="rg-op">add water; boil; simmer covered 1 hour; cool in pan 1 hour; refrigerate; serve cold with parsley and lemon wedges</td></tr>

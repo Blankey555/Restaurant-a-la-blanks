@@ -15,7 +15,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "day 2, remove twine, slice into ¼-inch rounds; optional torch sear (aburi); strain remaining sauce and keep up to 1 month"
   of:
@@ -37,7 +37,7 @@ steps:
                 - "⅔ cup sugar"
                 - 1 Tokyo negi, green part only (or leek or green onions)
                 - 1 inch fresh ginger, unpeeled, cut into 4 slices
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 block pork belly, 2 to 2½ lb, rind removed</td><td class="rg-op">roll into a compact log, tie tightly with butcher twine every ⅓ inch</td><td rowspan="2" class="rg-op">sear all sides in cast iron over high heat until evenly golden, 10 to 15 minutes</td><td rowspan="8" class="rg-op">bring to a boil, skim; simmer on low under drop lid (otoshibuta) 2 hours, turning every 30 minutes; cool slightly</td><td rowspan="8" class="rg-op">marinate refrigerated in ½ cup strained braising liquid at least 8 hours or overnight (optional soft-boiled eggs in remaining liquid for ramen eggs)</td><td rowspan="8" class="rg-op">day 2, remove twine, slice into ¼-inch rounds; optional torch sear (aburi); strain remaining sauce and keep up to 1 month</td></tr>

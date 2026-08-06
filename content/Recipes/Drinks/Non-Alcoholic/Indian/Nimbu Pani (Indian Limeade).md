@@ -10,7 +10,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: stir well over ice; taste and adjust; serve immediately
   of:
@@ -24,7 +24,7 @@ steps:
         - "¼ tsp chaat masala"
         - pinch of black pepper powder
     - 1 cup cold water or chilled sparkling water
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">2 tbsp fresh lime juice</td><td rowspan="2" class="rg-op">stir until the sugar dissolves completely</td><td rowspan="5" class="rg-op">stir in the spices</td><td rowspan="6" class="rg-op">stir well over ice; taste and adjust; serve immediately</td></tr>

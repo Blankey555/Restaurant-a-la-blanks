@@ -17,7 +17,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 350°F
   - Lavishly butter a 9 x 5 x 3-inch loaf pan
@@ -46,7 +46,7 @@ steps:
                 - 1/3 cup milk
                 - 1 tsp lemon juice
         - 1/2 cup chopped walnuts or pecans
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 350°F</td></tr>

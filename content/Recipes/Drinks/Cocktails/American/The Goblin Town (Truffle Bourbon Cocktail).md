@@ -22,7 +22,7 @@ A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Rim a rocks glass with cocoa powder; place a large ice sphere inside
 steps:
@@ -35,7 +35,7 @@ steps:
     - 0.5 oz dry vermouth (Dolin recommended)
     - 0.5 oz shiso syrup (see Shiso Syrup recipe)
     - 0.25 tsp ume plum vinegar
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="3">Rim a rocks glass with cocoa powder; place a large ice sphere inside</td></tr>

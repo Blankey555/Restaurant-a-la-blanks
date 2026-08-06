@@ -15,7 +15,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "add reserved cooking sauce and cook 2 minutes, then toss in meat and eggs; top with remaining scallions and optional toppings, serve in tortillas or lettuce cups"
   of:
@@ -42,7 +42,7 @@ steps:
         - 1 (14-ounce) bag coleslaw
         - 8 ounces shiitake mushrooms, stemmed and thinly sliced
         - "4 scallions, thinly sliced, divided (half now, half for garnish)"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1/2 cup hoisin sauce</td><td rowspan="7" class="rg-op">whisk until combined</td><td rowspan="8" class="rg-op">toss meat in half the marinade, set aside 5 minutes; reserve other half as cooking sauce</td><td rowspan="8" class="rg-op">saute over high heat 3 to 4 minutes until cooked and tender</td><td rowspan="13" class="rg-op">add reserved cooking sauce and cook 2 minutes, then toss in meat and eggs; top with remaining scallions and optional toppings, serve in tortillas or lettuce cups</td></tr>

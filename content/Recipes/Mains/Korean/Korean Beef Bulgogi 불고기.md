@@ -14,7 +14,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: cook in batches over medium-high heat, 2 to 3 minutes per side until charred; garnish with green onions and sesame seeds
   of:
@@ -33,7 +33,7 @@ steps:
             - 1 tbsp fresh ginger, grated
             - 1 tbsp gochujang
     - 2 tbsp vegetable oil, divided
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1½ lb boneless ribeye steak</td><td class="rg-op">freeze 30 minutes, then slice across the grain into ¼ inch pieces</td><td rowspan="8" class="rg-op">marinate in a zip-lock bag at least 2 hours, up to overnight in the fridge</td><td rowspan="9" class="rg-op">cook in batches over medium-high heat, 2 to 3 minutes per side until charred; garnish with green onions and sesame seeds</td></tr>

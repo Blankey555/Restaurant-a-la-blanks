@@ -19,7 +19,7 @@ difficulty: medium
 *A deeply savory French onion soup built on long-caramelized onions, beef stock, and brandy. The longer it simmers, the better it gets. Finished with crusty bread and Gruyère.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Ladle into oven-safe bowls, float toast, cover with Gruyère; broil 2 to 4 min until bubbling and deeply golden; serve immediately
   of:
@@ -44,7 +44,7 @@ steps:
         - 4 thick slices crusty bread (sourdough or baguette)
         - unsalted butter, for toasting
     - 1 1/2 cups Gruyère, grated
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">4 tbsp unsalted butter</td><td rowspan="4" class="rg-op">Caramelize low and slow at least 1 hour until deeply golden, almost black at the edges</td><td rowspan="5" class="rg-op">Deglaze 2 min until the alcohol absorbs</td><td rowspan="10" class="rg-op">Simmer uncovered at least 1 to 2 hours, up to 12, thinning with stock or water as it concentrates; remove bay leaves and season</td><td rowspan="13" class="rg-op">Ladle into oven-safe bowls, float toast, cover with Gruyère; broil 2 to 4 min until bubbling and deeply golden; serve immediately</td></tr>

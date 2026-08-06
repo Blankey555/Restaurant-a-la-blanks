@@ -16,7 +16,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "remove twine, slice into ½-inch rounds; optional torch sear; serve over ramen or rice with warmed braising sauce"
   of:
@@ -39,7 +39,7 @@ steps:
                 - 2 tbsp sugar
             - 5 thin slices fresh ginger, peeled
             - 2 green onions, cut into 2-inch pieces
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">2 large boneless, skin-on chicken thighs (about 210g each)</td><td class="rg-op">trim, score across the fibers, pound flat; roll tightly skin side out, tie at ½-inch intervals</td><td rowspan="3" class="rg-op">sear seam side down 2 minutes, then brown all sides, about 10 minutes total; wipe excess fat, deglaze with the water</td><td rowspan="9" class="rg-op">boil; cover and simmer 7 to 8 minutes; flip, simmer under drop lid 6 to 7 minutes; baste on medium-high until glossy, about 5 minutes; discard aromatics</td><td rowspan="9" class="rg-op">cool completely, then marinate in all the braising liquid refrigerated at least 8 hours (optional soft-boiled eggs for ramen eggs)</td><td rowspan="9" class="rg-op">remove twine, slice into ½-inch rounds; optional torch sear; serve over ramen or rice with warmed braising sauce</td></tr>

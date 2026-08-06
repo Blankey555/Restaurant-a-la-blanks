@@ -22,7 +22,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 425°F for the tater tots, then 400°F for the final bake
 steps:
@@ -67,7 +67,7 @@ steps:
         - 3 tbsp unsalted butter (or browned butter)
         - 1 cup sharp cheddar, grated
         - 3 tbsp Greek yogurt
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 425°F for the tater tots, then 400°F for the final bake</td></tr>

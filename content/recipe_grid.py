@@ -106,6 +106,9 @@ def _validate(node, depth=0):
 
 FENCE_RE = re.compile(r"```recipe-grid\n(.*?)```", re.DOTALL)
 STORED_RE = re.compile(
+    r"%%recipe-grid-spec\n(.*?)%%\n*<table class=\"recipe-grid\">.*?</table>",
+    re.DOTALL)
+LEGACY_RE = re.compile(
     r"<!-- recipe-grid-spec\n(.*?)-->\n*<table class=\"recipe-grid\">.*?</table>",
     re.DOTALL)
 
@@ -116,13 +119,13 @@ def apply_to_file(path):
     m = FENCE_RE.search(text)
     stored = False
     if not m:
-        m = STORED_RE.search(text)
+        m = STORED_RE.search(text) or LEGACY_RE.search(text)
         stored = True
     if not m:
         sys.exit("No ```recipe-grid fenced block or stored grid found in file.")
     spec = yaml.safe_load(m.group(1))
     table = spec_to_html(spec)
-    replacement = "<!-- recipe-grid-spec\n" + m.group(1).rstrip() + "\n-->\n\n" + table
+    replacement = "%%recipe-grid-spec\n" + m.group(1).rstrip() + "\n%%\n\n" + table
     new = text[:m.start()] + replacement + text[m.end():]
     p.write_text(new, encoding="utf-8")
     print(f"{'Regenerated' if stored else 'Converted'} grid in {p}")

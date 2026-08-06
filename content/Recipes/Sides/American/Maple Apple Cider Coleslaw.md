@@ -11,7 +11,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: toss thoroughly until evenly coated; serve immediately or refrigerate to develop flavors
   of:
@@ -24,7 +24,7 @@ steps:
         - 1 teaspoon celery seed
         - Salt and pepper to taste
     - 16 oz shredded coleslaw mix
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1/2 cup mayonnaise</td><td rowspan="6" class="rg-op">whisk until completely smooth</td><td rowspan="7" class="rg-op">toss thoroughly until evenly coated; serve immediately or refrigerate to develop flavors</td></tr>

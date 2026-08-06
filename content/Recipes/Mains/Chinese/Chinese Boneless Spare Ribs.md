@@ -19,7 +19,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - "Preheat oven to 425°F; line sheet pan with heavy duty foil, set metal rack on top"
 steps:
@@ -49,7 +49,7 @@ steps:
     - op: "mix with 2 teaspoons hot water"
       of:
         - 2 tablespoons maltose (or honey)
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 425°F; line sheet pan with heavy duty foil, set metal rack on top</td></tr>

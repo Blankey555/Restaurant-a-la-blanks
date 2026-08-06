@@ -12,7 +12,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: shake vigorously with ice until frothy; strain into a glass; garnish with 3 coffee beans
   of:
@@ -22,7 +22,7 @@ steps:
     - 1.5 oz vodka
     - 1.5 oz coffee liqueur (e.g., Vita Vera)
     - pinch of ground cardamom
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">4 oz sugar-free Turkish coffee</td><td class="rg-op">brew on the stove, cool 10 minutes, strain through cheesecloth to remove grounds</td><td rowspan="4" class="rg-op">shake vigorously with ice until frothy; strain into a glass; garnish with 3 coffee beans</td></tr>

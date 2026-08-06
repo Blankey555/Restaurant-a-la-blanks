@@ -20,7 +20,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "bring to the boil; simmer covered 1 hour; cool in pan 1 hour; refrigerate; serve cold with parsley and lemon wedges"
   of:
@@ -45,7 +45,7 @@ steps:
                     - "1 tomato, peeled and finely chopped"
                     - 1 tbsp tomato paste
             - juice of half a lemon
--->
+%%
 
 <table class="recipe-grid">
   <tr><td colspan="4" class="rg-ing">1 jar grape leaves (12 oz), rinsed and squeezed dry</td><td rowspan="11" class="rg-op">roll a spoonful in each leaf, fold sides, roll bottom to tip; arrange seam side down in leaf-lined pan; top with leaves and inverted dish; pour in remaining water</td><td rowspan="11" class="rg-op">bring to the boil; simmer covered 1 hour; cool in pan 1 hour; refrigerate; serve cold with parsley and lemon wedges</td></tr>

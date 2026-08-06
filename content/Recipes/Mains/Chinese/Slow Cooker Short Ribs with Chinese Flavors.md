@@ -12,7 +12,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "serve hot over cooked white rice, garnished with chopped scallions or cilantro"
   of:
@@ -28,7 +28,7 @@ steps:
             - 1 3-inch piece cinnamon
             - 5 nickel-size slices of ginger
             - 1 teaspoon Sichuan peppercorns
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">8 short ribs, about 3 pounds</td><td rowspan="8" class="rg-op">cover and slow cook until meat is very tender and falling from bone, 5+ hours on high or 7+ hours on low</td><td rowspan="8" class="rg-op">optionally chill meat and strained liquid separately, skim fat, reheat together; salt to taste</td><td rowspan="8" class="rg-op">serve hot over cooked white rice, garnished with chopped scallions or cilantro</td></tr>

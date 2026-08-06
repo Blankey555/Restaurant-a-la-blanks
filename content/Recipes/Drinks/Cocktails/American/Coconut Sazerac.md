@@ -10,7 +10,7 @@ difficulty: easy
 A cognac-forward Sazerac with a toasted coconut garnish. The absinthe rinse and Peychaud's keep it classical while the coconut adds a subtle tropical note on the nose.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Chill a rocks glass in the freezer
 steps:
@@ -25,7 +25,7 @@ steps:
     - op: swirl to coat the chilled glass; discard excess
       of:
         - Pernod Absinthe, for rinsing
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="3">Chill a rocks glass in the freezer</td></tr>

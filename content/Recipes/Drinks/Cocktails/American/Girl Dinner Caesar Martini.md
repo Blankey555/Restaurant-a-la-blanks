@@ -16,7 +16,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Chill a coupe glass
 steps:
@@ -39,7 +39,7 @@ steps:
             - squeeze of fresh lemon juice
         - 2 oz high-proof vodka
     - "½ oz olive brine"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Chill a coupe glass</td></tr>

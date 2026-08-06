@@ -391,8 +391,8 @@ def try_generate_grid(content, md):
             if not isinstance(spec, dict):
                 raise ValueError("spec is not a mapping")
             table = recipe_grid.spec_to_html(spec)
-            block = ("## At a Glance\n\n<!-- recipe-grid-spec\n" + raw.strip()
-                     + "\n-->\n\n" + table + "\n\n")
+            block = ("## At a Glance\n\n%%recipe-grid-spec\n" + raw.strip()
+                     + "\n%%\n\n" + table + "\n\n")
             if "## Ingredients" in md:
                 return md.replace("## Ingredients", block + "## Ingredients", 1)
             return md + "\n" + block

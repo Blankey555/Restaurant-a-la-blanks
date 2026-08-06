@@ -22,7 +22,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "form patties the size of a lime; coat in flour; shallow fry both sides until golden brown"
   of:
@@ -34,7 +34,7 @@ steps:
         - "1 tbsp parsley + 1 tbsp mint (optional)"
         - "1 tbsp pine nuts + 1 tbsp chopped raisins"
         - "1 small clove garlic + pinch of nutmeg + salt"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">750 g sardines, cleaned and filleted</td><td rowspan="6" class="rg-op">mix well by hand, as if making meatballs</td><td rowspan="6" class="rg-op">form patties the size of a lime; coat in flour; shallow fry both sides until golden brown</td></tr>

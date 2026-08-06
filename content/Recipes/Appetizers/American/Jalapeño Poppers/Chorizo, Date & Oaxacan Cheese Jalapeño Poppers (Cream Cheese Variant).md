@@ -22,7 +22,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: fry at 375°F until golden and crispy, 4 to 5 min, or bake 425°F 20 to 25 min
   of:
@@ -43,7 +43,7 @@ steps:
         - All purpose flour
         - Mexican lager or beer
         - Masa harina
--->
+%%
 
 <table class="recipe-grid">
   <tr><td colspan="3" class="rg-ing">50 jalapeños, tops removed and hollowed</td><td rowspan="6" class="rg-op">fill and pack tightly; freeze solid on a sheet pan, then bag</td><td rowspan="9" class="rg-op">dredge frozen poppers in flour, dip in beer, coat in masa harina</td><td rowspan="9" class="rg-op">fry at 375°F until golden and crispy, 4 to 5 min, or bake 425°F 20 to 25 min</td></tr>

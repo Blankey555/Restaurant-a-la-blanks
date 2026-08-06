@@ -23,7 +23,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "pipe into whites; grate 20 g frozen truffle over; chives and flaky salt; serve within 2 hours"
   of:
@@ -39,7 +39,7 @@ steps:
         - "180 g mayonnaise"
         - "45 g Dijon mustard"
         - "1 tsp white pepper + 1 tsp fine sea salt"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">30 large eggs</td><td class="rg-op">aromatize sealed with the fresh truffle 2 to 3 days, refrigerated</td><td class="rg-op">boil, then rest covered off heat 11 min; ice bath 15 min; peel</td><td class="rg-op">halve lengthwise; whites to trays, yolks to bowl</td><td rowspan="5" class="rg-op">mash smooth with the yolks; season slightly strong</td><td rowspan="5" class="rg-op">pipe into whites; grate 20 g frozen truffle over; chives and flaky salt; serve within 2 hours</td></tr>

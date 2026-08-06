@@ -13,7 +13,7 @@ difficulty: hard
 *A composed plate of pan-seared salmon over crispy chickpea panisse, wilted castelfranco, mustard velouté, and bright tarragon pesto. Each component can be made ahead and brought together at service.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Pool velouté on warm plates, add panisse, nest castelfranco alongside, set salmon skin side up, spoon pesto over and around; finish with olive oil and flaky salt
   of:
@@ -75,7 +75,7 @@ steps:
             - 1 tbsp unsalted butter
             - 1 sprig thyme
             - 1 clove garlic, crushed
--->
+%%
 
 <table class="recipe-grid">
   <tr><td colspan="2" class="rg-ing">2 cups water</td><td rowspan="7" class="rg-op">Whisk chickpea flour into simmering water; cook 10 to 15 min, stirring constantly, until thick; stir in herbs</td><td rowspan="7" class="rg-op">Pour into an oiled dish and refrigerate at least 1 hour until firm</td><td rowspan="7" class="rg-op">Slice set panisse 1/2 inch thick; fry in olive oil 3 to 4 min per side until deeply golden; drain and season with flaky salt</td><td rowspan="30" class="rg-op">Pool velouté on warm plates, add panisse, nest castelfranco alongside, set salmon skin side up, spoon pesto over and around; finish with olive oil and flaky salt</td></tr>

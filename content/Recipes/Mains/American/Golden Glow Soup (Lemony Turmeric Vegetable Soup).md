@@ -13,7 +13,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Stir in until combined and heated through
   of:
@@ -39,7 +39,7 @@ steps:
         - 1 cup orzo
     - 1/4 cup tahini
     - 1 tsp turmeric
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 tbsp olive oil or vegetable broth</td><td rowspan="5" class="rg-op">Saute over medium heat until softened, about 5 min</td><td rowspan="11" class="rg-op">Bring to a boil, then simmer covered 10 min</td><td rowspan="14" class="rg-op">Stir in and cook 10 min uncovered, stirring, until orzo is tender</td><td rowspan="16" class="rg-op">Stir in until combined and heated through</td></tr>

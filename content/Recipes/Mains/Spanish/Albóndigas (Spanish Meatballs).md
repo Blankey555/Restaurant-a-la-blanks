@@ -13,7 +13,7 @@ difficulty: medium
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "nestle meatballs into the sauce in a single layer; sprinkle picada in; simmer 5 to 10 min"
   of:
@@ -36,7 +36,7 @@ steps:
     - op: "pulse to a picada"
       of:
         - "1/4 cup parsley + 1 tbsp roasted almonds + 12 to 15 saffron threads"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">3 slices white bread, crusts removed</td><td rowspan="2" class="rg-op">soak 5 min; mash to a paste</td><td rowspan="5" class="rg-op">mix by hand; roll golf-ball size; coat lightly in flour</td><td rowspan="5" class="rg-op">fry in 1/4 cup olive oil until browned all over, about 10 min per batch</td><td rowspan="9" class="rg-op">nestle meatballs into the sauce in a single layer; sprinkle picada in; simmer 5 to 10 min</td></tr>

@@ -16,7 +16,7 @@ difficulty: easy
 *Bold Korean BBQ chicken with a gochujang-based marinade. Broiled for caramelized edges and easy cleanup.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat broiler with rack 5 to 6 inches below heat; set a greased wire rack over a foil-lined sheet pan
 steps:
@@ -39,7 +39,7 @@ steps:
             - "optional: 1 tbsp sweet rice wine (mirim)"
             - 1 tbsp sesame oil
             - "½ tsp black pepper"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Preheat broiler with rack 5 to 6 inches below heat; set a greased wire rack over a foil-lined sheet pan</td></tr>

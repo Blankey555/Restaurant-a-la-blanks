@@ -17,7 +17,7 @@ difficulty: medium
 *A Cuban-adjacent slow-roasted pork butt marinated overnight in sofrito, citrus, and olive oil, studded with garlic, and roasted low and slow until falling apart. Serves a crowd.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Rest uncovered 20 to 30 min; pull into large chunks and spoon pan juices over
   of:
@@ -44,7 +44,7 @@ steps:
                 - 1 tbsp salt
                 - 1 tsp black pepper
                 - 1 tsp smoked paprika
--->
+%%
 
 <table class="recipe-grid">
   <tr><td colspan="2" class="rg-ing">1 bone-in pork butt (6 to 8 lb)</td><td rowspan="3" class="rg-op">Cut deep slits all over and push a seasoned garlic half into each</td><td rowspan="13" class="rg-op">Pour marinade over, massage into every surface and slit; refrigerate overnight (minimum 8 hours), turning once or twice</td><td rowspan="13" class="rg-op">Day 2, rest 1 hour at room temp, roast covered at 300°F for 5 hours, then uncovered at 375°F for 1 to 1.5 hours until caramelized and 195 to 205°F internal</td><td rowspan="13" class="rg-op">Rest uncovered 20 to 30 min; pull into large chunks and spoon pan juices over</td></tr>

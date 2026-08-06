@@ -267,6 +267,7 @@ plugins:
         - total_time
         - yield
         - difficulty
+        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

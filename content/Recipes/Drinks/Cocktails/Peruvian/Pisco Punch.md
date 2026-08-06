@@ -14,7 +14,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: pour over a large block of ice; garnish each serving with a fresh lemon or lime wheel
   of:
@@ -27,7 +27,7 @@ steps:
             - 3 oz fresh lemon juice
             - 2 oz simple syrup, or to taste
         - several lemon and lime wheels, for steeping
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">12 oz pisco (acholado or quebranta)</td><td rowspan="4" class="rg-op">stir well in a pitcher or punch bowl</td><td rowspan="5" class="rg-op">refrigerate at least 1 hour so the citrus oils infuse; taste and adjust</td><td rowspan="5" class="rg-op">pour over a large block of ice; garnish each serving with a fresh lemon or lime wheel</td></tr>

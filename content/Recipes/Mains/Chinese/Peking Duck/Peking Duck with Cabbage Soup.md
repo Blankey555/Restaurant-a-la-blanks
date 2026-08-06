@@ -12,7 +12,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "ladle into warm bowls, garnish with cilantro if desired"
   of:
@@ -30,7 +30,7 @@ steps:
         - 1 teaspoon salt, or to taste
         - 1/4 teaspoon white pepper
         - 1/2 teaspoon toasted sesame oil
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 roast Peking duck carcass, meat removed</td><td rowspan="4" class="rg-op">boil, then simmer uncovered on low 1 hour, skimming foam and fat; strain through fine-mesh sieve</td><td rowspan="5" class="rg-op">return strained broth to a simmer, cook cabbage 8 to 10 minutes until ribs are tender</td><td rowspan="8" class="rg-op">season, taste and adjust</td><td rowspan="8" class="rg-op">ladle into warm bowls, garnish with cilantro if desired</td></tr>

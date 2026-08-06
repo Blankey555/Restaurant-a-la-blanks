@@ -13,7 +13,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Refrigerate at least 8 hours to let the flavors develop
   of:
@@ -36,7 +36,7 @@ steps:
         - 1 tsp Worcestershire sauce
         - 5 drops Tabasco (or more to taste)
         - 1 (64 oz) bottle V-8 juice
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">4 tomatoes</td><td rowspan="5" class="rg-op">Hand chop to a uniform size (no food processor)</td><td rowspan="15" class="rg-op">Mix all ingredients well in a large container</td><td rowspan="15" class="rg-op">Refrigerate at least 8 hours to let the flavors develop</td></tr>

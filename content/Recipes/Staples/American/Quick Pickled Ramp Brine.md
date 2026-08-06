@@ -23,7 +23,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: seal and refrigerate; usable after a few hours, better after overnight
   of:
@@ -39,7 +39,7 @@ steps:
           of:
             - 8 ramp bulbs, trimmed and cleaned
             - "optional: a few black peppercorns or a smashed garlic clove"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1 cup water</td><td rowspan="4" class="rg-op">simmer, stirring about 2 min until salt and sugar dissolve</td><td rowspan="6" class="rg-op">pour hot brine over bulbs to submerge fully; cool to room temperature, about 30 min</td><td rowspan="6" class="rg-op">seal and refrigerate; usable after a few hours, better after overnight</td></tr>

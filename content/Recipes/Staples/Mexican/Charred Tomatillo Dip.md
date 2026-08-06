@@ -17,7 +17,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: pulse to preferred texture; adjust salt, lime, heat; refrigerate until serving
   of:
@@ -31,7 +31,7 @@ steps:
     - 1 lime, juiced
     - 1 tsp salt
     - ½ tsp cumin
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">450 g tomatillos, husked and rinsed</td><td rowspan="4" class="rg-op">char under broiler or in dry cast iron 8 to 10 min until blackened and soft; peel garlic, stem pepper</td><td rowspan="8" class="rg-op">pulse to preferred texture; adjust salt, lime, heat; refrigerate until serving</td></tr>

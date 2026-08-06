@@ -13,7 +13,7 @@ difficulty: hard
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: divide into 8, keep covered; roll and stretch each piece paper-thin on tapioca-dusted surface; trim, layer with parchment
   of:
@@ -34,7 +34,7 @@ steps:
             - 1 large egg (room temperature)
             - 1 tbsp apple cider vinegar
             - 2 tbsp vegetable oil
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">200g gluten-free flour blend (rice, potato, maize)</td><td rowspan="4" class="rg-op">combine in a large bowl</td><td rowspan="9" class="rg-op">mix in a well until a rough dough forms</td><td rowspan="9" class="rg-op">knead 5 min until smooth and pliable; wrap and rest at least 30 min at room temperature</td><td rowspan="9" class="rg-op">divide into 8, keep covered; roll and stretch each piece paper-thin on tapioca-dusted surface; trim, layer with parchment</td></tr>

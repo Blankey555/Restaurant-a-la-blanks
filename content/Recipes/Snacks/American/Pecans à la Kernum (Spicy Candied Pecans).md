@@ -17,7 +17,7 @@ difficulty: easy
 *Candied pecans with a stiff, crunchy candy shell. Heavy on cayenne if you like heat. Wing the measurements or follow the guide below.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 300°F
 steps:
@@ -38,7 +38,7 @@ steps:
               of:
                 - Egg whites
         - Pecans
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 300°F</td></tr>

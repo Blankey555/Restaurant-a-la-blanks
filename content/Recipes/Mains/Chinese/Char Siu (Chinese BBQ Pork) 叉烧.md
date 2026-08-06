@@ -17,7 +17,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - "Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below"
 steps:
@@ -50,7 +50,7 @@ steps:
             - 2 tbsp reserved marinade
             - 2 tbsp maltose or honey
             - 1 tbsp hot water
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below</td></tr>

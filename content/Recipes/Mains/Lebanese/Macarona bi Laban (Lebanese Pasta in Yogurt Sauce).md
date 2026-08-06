@@ -15,7 +15,7 @@ difficulty: easy
 *A classic Lebanese comfort dish of pasta in a warm, garlicky yogurt sauce, typically served with browned butter and toasted pine nuts.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: Spoon the mint pine nut butter over the sauced pasta; serve immediately
   of:
@@ -35,7 +35,7 @@ steps:
         - 2 tbsp unsalted butter
         - 1/4 cup pine nuts
         - 1 tsp dried mint (or 1 tbsp fresh mint, chopped)
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">400g short pasta (penne, rigatoni, or elbow)</td><td class="rg-op">Boil in well-salted water until al dente; reserve 1/2 cup pasta water and drain</td><td rowspan="5" class="rg-op">Stir pasta gently into the sauce; loosen with reserved pasta water if too thick</td><td rowspan="8" class="rg-op">Spoon the mint pine nut butter over the sauced pasta; serve immediately</td></tr>

@@ -19,7 +19,7 @@ difficulty: easy
 *Superfirm tofu shredded, baked dry, then marinated in a Korean bulgogi sauce and seared until crispy and caramelized. Works on a cast iron skillet, griddle, or grill.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 400°F; line a baking sheet with parchment paper
 steps:
@@ -43,7 +43,7 @@ steps:
             - 3 cloves garlic, minced
             - 1 tbsp fresh ginger, grated
             - 1 tbsp gochujang
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 400°F; line a baking sheet with parchment paper</td></tr>

@@ -13,7 +13,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "knead or mix thoroughly; adjust seasoning; shape and garnish with parsley, chopped bell peppers, and scallions"
   of:
@@ -36,7 +36,7 @@ steps:
             - "1 1/2 cups olive oil (or less)"
             - 2 cups coarsely chopped onion
         - 2 teaspoons cayenne red pepper (1 tsp for less hot)
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">2 1/2 cups red lentils, picked over and rinsed</td><td rowspan="2" class="rg-op">bring to a boil; simmer 5 min, skimming foam</td><td rowspan="3" class="rg-op">add salt; simmer covered 40 to 50 min, stirring, until a thick yellow mass with water absorbed</td><td rowspan="4" class="rg-op">spoon cooked lentils over the cracked wheat; mix to blend</td><td rowspan="4" class="rg-op">rest covered 10 minutes</td><td rowspan="7" class="rg-op">knead or mix thoroughly; adjust seasoning; shape and garnish with parsley, chopped bell peppers, and scallions</td></tr>

@@ -12,7 +12,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 steps:
   op: "cool, then refrigerate; use chilled in place of the walnut filling"
   of:
@@ -26,7 +26,7 @@ steps:
           of:
             - 1 cup heavy cream
             - remaining 3/4 cup milk
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">1/4 cup cornstarch + 2 tbsp sugar</td><td rowspan="2" class="rg-op">blend until smooth</td><td rowspan="4" class="rg-op">stir slowly into the boiling cream, stirring constantly until thickened; simmer gently 1 min on low; shut flame</td><td rowspan="4" class="rg-op">cool, then refrigerate; use chilled in place of the walnut filling</td></tr>

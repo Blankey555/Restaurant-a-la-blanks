@@ -16,7 +16,7 @@ difficulty: easy
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Preheat oven to 375°F (190°C); line a baking sheet with parchment
 steps:
@@ -38,7 +38,7 @@ steps:
                 - 2 tbsp lemon juice, freshly squeezed
                 - 1 tbsp honey
         - 1/3 cup raw pistachios, coarsely chopped (stirred into the remaining glaze)
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 375°F (190°C); line a baking sheet with parchment</td></tr>

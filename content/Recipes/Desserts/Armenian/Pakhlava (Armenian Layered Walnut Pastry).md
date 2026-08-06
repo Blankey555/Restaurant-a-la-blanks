@@ -16,7 +16,7 @@ difficulty: medium
 ---
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Make the syrup first so it is fully cold at bake time
   - Butter a 9x12-inch baking pan
@@ -39,7 +39,7 @@ steps:
       of:
         - "2 cups sugar + 1.5 cups water"
         - 1 tsp lemon juice
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Make the syrup first so it is fully cold at bake time</td></tr>

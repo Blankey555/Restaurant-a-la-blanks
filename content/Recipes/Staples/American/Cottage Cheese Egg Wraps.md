@@ -21,7 +21,7 @@ difficulty: easy
 *A high-protein, low-carb wrap made from blended eggs and cottage cheese. Use in place of a tortilla or flatbread.*
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Heat a non-stick pan over medium heat, lightly greased
 steps:
@@ -33,7 +33,7 @@ steps:
         - 1 cup cottage cheese
         - 1 tsp salt
         - ½ tsp dried oregano
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="3">Heat a non-stick pan over medium heat, lightly greased</td></tr>

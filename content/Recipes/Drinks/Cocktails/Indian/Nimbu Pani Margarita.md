@@ -19,7 +19,7 @@ difficulty: easy
 
 ## At a Glance
 
-<!-- recipe-grid-spec
+%%recipe-grid-spec
 setup:
   - Rim a rocks glass with black salt and chaat masala mix; fill with ice
 steps:
@@ -36,7 +36,7 @@ steps:
         - pinch of black pepper powder
     - 2 oz blanco tequila
     - "½ oz triple sec"
--->
+%%
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="4">Rim a rocks glass with black salt and chaat masala mix; fill with ice</td></tr>
