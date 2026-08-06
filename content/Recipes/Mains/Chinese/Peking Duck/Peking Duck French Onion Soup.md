@@ -14,6 +14,7 @@ tags:
   - gf-adaptable
   - make-ahead
   - homebrew
+  - mastered
 prep_time: 30 mins
 cook_time: 3 to 12 hours
 total_time: 3.5 to 12.5 hours

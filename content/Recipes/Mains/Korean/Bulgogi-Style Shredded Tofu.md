@@ -1,5 +1,14 @@
 ---
-tags: [korean, east-asian, bbq, baked, tofu, vegan, vegetarian, side]
+tags:
+  - korean
+  - east-asian
+  - bbq
+  - baked
+  - tofu
+  - vegan
+  - vegetarian
+  - side
+  - refined
 prep_time: 20 mins
 cook_time: 45 mins
 total_time: 1 hour 5 mins plus 2 hours to overnight marinating

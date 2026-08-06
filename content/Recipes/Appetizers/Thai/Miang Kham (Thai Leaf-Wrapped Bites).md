@@ -8,6 +8,7 @@ tags:
   - no-cook
   - seafood
   - spicy
+  - tested
 prep_time: 45 min
 difficulty: medium
 ---

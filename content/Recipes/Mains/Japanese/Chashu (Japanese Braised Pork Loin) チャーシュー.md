@@ -1,5 +1,13 @@
 ---
-tags: [japanese, east-asian, braised, pork, project, make-ahead, freezer-friendly]
+tags:
+  - japanese
+  - east-asian
+  - braised
+  - pork
+  - project
+  - make-ahead
+  - freezer-friendly
+  - tested
 prep_time: 20 minutes
 cook_time: 1 hour 15 minutes
 yield: 6 to 8 servings

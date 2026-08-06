@@ -1,5 +1,17 @@
 ---
-tags: [armenian, middle-eastern, boereg, appetizer, cheese, egg, vegetarian, baked, party, freezer-friendly, homebrew]
+tags:
+  - armenian
+  - middle-eastern
+  - boereg
+  - appetizer
+  - cheese
+  - egg
+  - vegetarian
+  - baked
+  - party
+  - freezer-friendly
+  - homebrew
+  - mastered
 cook_time: 20 to 25 mins
 yield: about 30 triangles
 difficulty: medium

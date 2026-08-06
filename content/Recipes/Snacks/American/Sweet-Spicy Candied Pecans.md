@@ -1,5 +1,15 @@
 ---
-tags: [american, southern-us, north-american, candied-nuts, baked, spicy, vegetarian, gluten-free, make-ahead]
+tags:
+  - american
+  - southern-us
+  - north-american
+  - candied-nuts
+  - baked
+  - spicy
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - tested
 cook_time: 30 to 40 minutes
 yield: 2 cups
 difficulty: easy

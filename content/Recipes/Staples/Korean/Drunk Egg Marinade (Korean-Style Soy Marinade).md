@@ -1,5 +1,12 @@
 ---
-tags: [korean, east-asian, marinade, ingredient, egg, make-ahead]
+tags:
+  - korean
+  - east-asian
+  - marinade
+  - ingredient
+  - egg
+  - make-ahead
+  - tested
 yield: enough for 6 to 8 eggs
 difficulty: easy
 ---

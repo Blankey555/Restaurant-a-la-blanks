@@ -1,5 +1,14 @@
 ---
-tags: [indian, mexican, fusion, south-asian, latin-american, margarita, cocktail-hour, make-ahead]
+tags:
+  - indian
+  - mexican
+  - fusion
+  - south-asian
+  - latin-american
+  - margarita
+  - cocktail-hour
+  - make-ahead
+  - tested
 total_time: 5 minutes
 yield: 1 serving
 difficulty: easy

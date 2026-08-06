@@ -1,5 +1,15 @@
 ---
-tags: [armenian, middle-eastern, dolma, appetizer, vegan, vegetarian, gluten-free, party, make-ahead]
+tags:
+  - armenian
+  - middle-eastern
+  - dolma
+  - appetizer
+  - vegan
+  - vegetarian
+  - gluten-free
+  - party
+  - make-ahead
+  - mastered
 cook_time: 1 hour plus 1 hour cooling
 yield: about 40 stuffed cabbage leaves
 difficulty: medium

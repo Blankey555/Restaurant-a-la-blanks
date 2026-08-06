@@ -1,5 +1,20 @@
 ---
-tags: [american, italian, fusion, north-american, european, mediterranean, pizza, baked, chicken, cheese, gluten-free, meal-prep, freezer-friendly, fitness-food]
+tags:
+  - american
+  - italian
+  - fusion
+  - north-american
+  - european
+  - mediterranean
+  - pizza
+  - baked
+  - chicken
+  - cheese
+  - gluten-free
+  - meal-prep
+  - freezer-friendly
+  - fitness-food
+  - untested
 cook_time: 25 to 30 mins
 yield: 1 (9-inch) pizza crust
 difficulty: easy

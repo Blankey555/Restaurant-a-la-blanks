@@ -1,5 +1,12 @@
 ---
-tags: [american, north-american, roast, baked, holiday, project]
+tags:
+  - american
+  - north-american
+  - roast
+  - baked
+  - holiday
+  - project
+  - mastered
 prep_time: 3 days
 difficulty: hard
 ---

@@ -1,5 +1,11 @@
 ---
-tags: [american, north-american, salad, no-cook, vegetarian]
+tags:
+  - american
+  - north-american
+  - salad
+  - no-cook
+  - vegetarian
+  - untested
 prep_time: 10 min
 difficulty: easy
 ---

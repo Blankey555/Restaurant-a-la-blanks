@@ -1,5 +1,11 @@
 ---
-tags: [american, north-american, dessert, baked, comfort-food]
+tags:
+  - american
+  - north-american
+  - dessert
+  - baked
+  - comfort-food
+  - mastered
 cook_time: 45 to 50 mins
 yield: 1 loaf
 difficulty: easy

@@ -1,5 +1,13 @@
 ---
-tags: [korean, east-asian, bbq, broiled, chicken, spicy, weeknight]
+tags:
+  - korean
+  - east-asian
+  - bbq
+  - broiled
+  - chicken
+  - spicy
+  - weeknight
+  - refined
 prep_time: 10 minutes plus 10 to 30 minutes marinating
 cook_time: 10 minutes
 yield: 3 servings

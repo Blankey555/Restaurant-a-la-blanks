@@ -15,6 +15,7 @@ tags:
   - make-ahead
   - freezer-friendly
   - homebrew
+  - tested
 cook_time: 4 to 5 mins (fried) or 20 to 25 mins (baked)
 yield: 50 poppers
 difficulty: medium

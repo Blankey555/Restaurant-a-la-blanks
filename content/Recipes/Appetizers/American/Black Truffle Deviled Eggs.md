@@ -1,5 +1,15 @@
 ---
-tags: [american, north-american, appetizer, party, egg, vegetarian, gluten-free, make-ahead, project]
+tags:
+  - american
+  - north-american
+  - appetizer
+  - party
+  - egg
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - project
+  - untested
 prep_time: 45 mins
 cook_time: 11 mins
 total_time: 2 to 3 days (aromatizing) plus 1.5 hours

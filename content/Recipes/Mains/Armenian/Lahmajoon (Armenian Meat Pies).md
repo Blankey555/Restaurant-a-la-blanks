@@ -1,5 +1,16 @@
 ---
-tags: [armenian, middle-eastern, flatbread, lamb, beef, baked, party, project, freezer-friendly, homebrew]
+tags:
+  - armenian
+  - middle-eastern
+  - flatbread
+  - lamb
+  - beef
+  - baked
+  - party
+  - project
+  - freezer-friendly
+  - homebrew
+  - mastered
 cook_time: 12 mins per batch
 total_time: about 4 hours including rise
 yield: 14 meat pies

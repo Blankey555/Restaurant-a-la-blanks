@@ -1,5 +1,10 @@
 ---
-tags: [american, louisiana, north-american, cocktail-hour]
+tags:
+  - american
+  - louisiana
+  - north-american
+  - cocktail-hour
+  - untested
 difficulty: easy
 ---
 

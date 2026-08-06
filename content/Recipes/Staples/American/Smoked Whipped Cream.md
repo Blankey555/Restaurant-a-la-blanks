@@ -1,5 +1,14 @@
 ---
-tags: [american, north-american, smoked, garnish, dessert, vegetarian, gluten-free, make-ahead]
+tags:
+  - american
+  - north-american
+  - smoked
+  - garnish
+  - dessert
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - tested
 prep_time: 10 mins
 cook_time: 45 mins to 1.5 hours
 total_time: 1 to 2 hours plus optional overnight rest

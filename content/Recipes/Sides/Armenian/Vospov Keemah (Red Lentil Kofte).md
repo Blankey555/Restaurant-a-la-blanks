@@ -7,6 +7,7 @@ tags:
   - vegetarian
   - spicy
   - homebrew
+  - mastered
 cook_time: 1 hr
 difficulty: easy
 ---

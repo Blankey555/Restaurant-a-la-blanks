@@ -1,5 +1,12 @@
 ---
-tags: [turkish, middle-eastern, mediterranean, martini, digestif, dessertif]
+tags:
+  - turkish
+  - middle-eastern
+  - mediterranean
+  - martini
+  - digestif
+  - dessertif
+  - mastered
 prep_time: 15 min
 difficulty: easy
 ---

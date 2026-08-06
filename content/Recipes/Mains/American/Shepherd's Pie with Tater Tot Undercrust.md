@@ -13,6 +13,7 @@ tags:
   - cheat-day
   - make-ahead
   - homebrew
+  - mastered
 total_time: 2 hours
 yield: 6 to 8 servings
 difficulty: medium

@@ -1,5 +1,15 @@
 ---
-tags: [mexican, latin-american, sauce, condiment, no-cook, vegetarian, gluten-free, party, make-ahead]
+tags:
+  - mexican
+  - latin-american
+  - sauce
+  - condiment
+  - no-cook
+  - vegetarian
+  - gluten-free
+  - party
+  - make-ahead
+  - refined
 prep_time: 5 mins
 cook_time: 0 mins
 total_time: 5 mins plus overnight rest recommended

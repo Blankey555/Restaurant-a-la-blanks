@@ -1,5 +1,14 @@
 ---
-tags: [japanese, east-asian, braised, chicken, project, make-ahead, freezer-friendly, gf-adaptable]
+tags:
+  - japanese
+  - east-asian
+  - braised
+  - chicken
+  - project
+  - make-ahead
+  - freezer-friendly
+  - gf-adaptable
+  - tested
 prep_time: 20 minutes
 cook_time: 40 minutes
 yield: 4 servings

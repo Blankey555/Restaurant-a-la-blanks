@@ -1,5 +1,13 @@
 ---
-tags: [spanish, european, mediterranean, soup, vegetarian, no-cook, make-ahead]
+tags:
+  - spanish
+  - european
+  - mediterranean
+  - soup
+  - vegetarian
+  - no-cook
+  - make-ahead
+  - untested
 total_time: 8 hours (includes chilling)
 difficulty: easy
 ---

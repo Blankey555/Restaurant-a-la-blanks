@@ -1,5 +1,12 @@
 ---
-tags: [american, north-american, soup, vegan, vegetarian, weeknight]
+tags:
+  - american
+  - north-american
+  - soup
+  - vegan
+  - vegetarian
+  - weeknight
+  - untested
 total_time: 20 mins
 yield: 4 to 6 servings
 difficulty: easy

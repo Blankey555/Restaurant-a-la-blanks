@@ -1,5 +1,9 @@
 ---
-tags: [indian, south-asian, make-ahead]
+tags:
+  - indian
+  - south-asian
+  - make-ahead
+  - untested
 total_time: 5 minutes
 yield: 1 serving
 difficulty: easy

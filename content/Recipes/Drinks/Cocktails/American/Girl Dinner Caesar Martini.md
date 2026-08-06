@@ -1,5 +1,13 @@
 ---
-tags: [american, north-american, martini, cocktail-hour, aperitif, cheese, project]
+tags:
+  - american
+  - north-american
+  - martini
+  - cocktail-hour
+  - aperitif
+  - cheese
+  - project
+  - tested
 prep_time: 15 mins
 cook_time: 0 mins
 total_time: 2 to 3 days (components) plus 5 mins per cocktail

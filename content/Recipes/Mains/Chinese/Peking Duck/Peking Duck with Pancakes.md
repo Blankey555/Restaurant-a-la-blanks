@@ -8,6 +8,7 @@ tags:
   - project
   - holiday
   - homebrew
+  - mastered
 prep_time: 24 hrs
 cook_time: 1 hr
 difficulty: hard

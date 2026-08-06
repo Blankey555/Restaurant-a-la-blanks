@@ -1,5 +1,12 @@
 ---
-tags: [seafood, fishcakes, appetizer, experimental]
+tags:
+  - new-american
+  - north-american
+  - seafood
+  - fishcakes
+  - appetizer
+  - experimental
+  - mastered
 difficulty: easy
 ---
 

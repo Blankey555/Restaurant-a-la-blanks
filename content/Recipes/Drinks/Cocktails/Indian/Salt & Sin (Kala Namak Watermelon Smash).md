@@ -1,5 +1,12 @@
 ---
-tags: [indian, south-asian, smash, cocktail-hour, session, make-ahead]
+tags:
+  - indian
+  - south-asian
+  - smash
+  - cocktail-hour
+  - session
+  - make-ahead
+  - tested
 total_time: 10 minutes
 yield: 1 serving
 difficulty: easy

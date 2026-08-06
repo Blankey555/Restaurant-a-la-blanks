@@ -7,6 +7,7 @@ tags:
   - marinade
   - make-ahead
   - homebrew
+  - refined
 prep_time: 15 mins
 cook_time: 7 mins
 total_time: 25 mins plus 4 hours to overnight marinating

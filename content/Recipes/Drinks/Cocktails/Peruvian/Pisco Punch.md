@@ -1,5 +1,13 @@
 ---
-tags: [peruvian, latin-american, punch, cocktail-hour, party, session, make-ahead]
+tags:
+  - peruvian
+  - latin-american
+  - punch
+  - cocktail-hour
+  - party
+  - session
+  - make-ahead
+  - tested
 total_time: 15 minutes plus 1 hour chilling
 yield: 8 to 10 servings
 difficulty: easy

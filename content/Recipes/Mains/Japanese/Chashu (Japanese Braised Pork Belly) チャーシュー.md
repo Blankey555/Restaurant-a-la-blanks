@@ -1,5 +1,13 @@
 ---
-tags: [japanese, east-asian, braised, pork, project, make-ahead, freezer-friendly]
+tags:
+  - japanese
+  - east-asian
+  - braised
+  - pork
+  - project
+  - make-ahead
+  - freezer-friendly
+  - untested
 prep_time: 20 minutes
 cook_time: 1 hour 20 minutes (block) to 2 hours 20 minutes (rolled)
 yield: 8 to 10 servings (rolled) or 3 to 4 (block)

@@ -1,5 +1,13 @@
 ---
-tags: [thai, northern-thai, southeast-asian, sauce, condiment, gluten-free, make-ahead]
+tags:
+  - thai
+  - northern-thai
+  - southeast-asian
+  - sauce
+  - condiment
+  - gluten-free
+  - make-ahead
+  - untested
 prep_time: 10 mins
 cook_time: 20 mins
 total_time: 30 mins

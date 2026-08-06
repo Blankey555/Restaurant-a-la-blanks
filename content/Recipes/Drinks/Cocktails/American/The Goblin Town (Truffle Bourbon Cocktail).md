@@ -1,5 +1,13 @@
 ---
-tags: [american, japanese, fusion, north-american, east-asian, cocktail-hour, project]
+tags:
+  - american
+  - japanese
+  - fusion
+  - north-american
+  - east-asian
+  - cocktail-hour
+  - project
+  - mastered
 prep_time: 10 mins
 cook_time: 0 mins
 total_time: 14 days (infusion) plus 10 mins per cocktail

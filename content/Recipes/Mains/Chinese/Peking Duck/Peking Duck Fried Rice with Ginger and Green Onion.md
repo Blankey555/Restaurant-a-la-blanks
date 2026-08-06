@@ -1,5 +1,11 @@
 ---
-tags: [chinese, east-asian, stir-fry, duck, weeknight]
+tags:
+  - chinese
+  - east-asian
+  - stir-fry
+  - duck
+  - weeknight
+  - untested
 prep_time: 15 mins
 cook_time: 10 mins
 yield: 2 to 4 servings

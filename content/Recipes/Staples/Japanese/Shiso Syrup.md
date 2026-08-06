@@ -1,5 +1,13 @@
 ---
-tags: [japanese, east-asian, syrup, cocktail, vegan, gluten-free, weeknight]
+tags:
+  - japanese
+  - east-asian
+  - syrup
+  - cocktail
+  - vegan
+  - gluten-free
+  - weeknight
+  - refined
 prep_time: 5 mins
 cook_time: 10 mins
 total_time: 45 mins to 1 hour

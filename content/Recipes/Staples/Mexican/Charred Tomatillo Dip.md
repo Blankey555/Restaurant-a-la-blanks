@@ -1,5 +1,14 @@
 ---
-tags: [mexican, latin-american, sauce, broiled, vegan, gluten-free, party, make-ahead]
+tags:
+  - mexican
+  - latin-american
+  - sauce
+  - broiled
+  - vegan
+  - gluten-free
+  - party
+  - make-ahead
+  - refined
 prep_time: 10 mins
 cook_time: 10 mins
 total_time: 20 mins

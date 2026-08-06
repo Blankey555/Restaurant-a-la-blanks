@@ -8,6 +8,7 @@ tags:
   - party
   - make-ahead
   - meal-prep
+  - tested
 prep_time: 30 mins
 cook_time: 35 mins
 total_time: 65 mins

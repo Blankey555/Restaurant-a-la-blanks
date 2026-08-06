@@ -1,5 +1,16 @@
 ---
-tags: [armenian, middle-eastern, boereg, appetizer, lamb, beef, baked, party, freezer-friendly, homebrew]
+tags:
+  - armenian
+  - middle-eastern
+  - boereg
+  - appetizer
+  - lamb
+  - beef
+  - baked
+  - party
+  - freezer-friendly
+  - homebrew
+  - mastered
 cook_time: 20 mins
 yield: about 30 triangles
 difficulty: medium
