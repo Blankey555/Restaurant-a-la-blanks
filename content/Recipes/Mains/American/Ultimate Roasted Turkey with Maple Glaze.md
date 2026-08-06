@@ -7,11 +7,14 @@ tags:
   - holiday
   - project
   - mastered
+  - homebrew
 prep_time: 3 days
 difficulty: hard
 ---
 
 *A multi-day process involving a dry brine, herb compound butter, and a maple-balsamic glaze for deep flavor and crispy skin.*
+
+Source: Modified from some guy's substack that I lost access to
 
 ## At a Glance
 
