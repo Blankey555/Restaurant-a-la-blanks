@@ -1,7 +1,8 @@
 ---
 tags:
-  - mexican
   - american
+  - tex-mex
+  - mexican
   - fusion
   - latin-american
   - north-american
