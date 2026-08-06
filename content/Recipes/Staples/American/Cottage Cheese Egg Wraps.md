@@ -1,10 +1,23 @@
 ---
-tags: [ingredient, wrap, egg, cheese, breakfast, vegetarian, gluten-free, fried, meal-prep, weeknight, fitness-food]
+tags:
+  - american
+  - north-american
+  - ingredient
+  - wrap
+  - egg
+  - cheese
+  - breakfast
+  - vegetarian
+  - gluten-free
+  - fried
+  - meal-prep
+  - weeknight
+  - fitness-food
+  - untested
 total_time: 15 minutes
 yield: 2 wraps
 difficulty: easy
 ---
-
 *A high-protein, low-carb wrap made from blended eggs and cottage cheese. Use in place of a tortilla or flatbread.*
 
 **Makes:** 2 wraps

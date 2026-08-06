@@ -1,7 +1,8 @@
 ---
 tags:
-  - new-american
-  - north-american
+  - italian
+  - european
+  - mediterranean
   - seafood
   - fishcakes
   - appetizer
