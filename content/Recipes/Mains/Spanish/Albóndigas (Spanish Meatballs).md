@@ -89,4 +89,5 @@ steps:
 
 - Improves as it sits. Can be made 1 to 2 days ahead.
 - Keeps in the fridge for 3 to 4 days.
-
+- Running an immersion blender through the sauce before adding the meatballs makes the texture more velvety
+- As with most sauces and soups, you can keep boiling it down and adding new non-water liquids like stock or tomato juice to create a deeper flavor profile
