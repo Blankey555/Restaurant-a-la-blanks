@@ -10,7 +10,6 @@ tags:
 prep_time: 15 min
 difficulty: easy
 ---
-
 ## At a Glance
 
 <!-- recipe-grid-spec

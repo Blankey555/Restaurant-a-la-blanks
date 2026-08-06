@@ -20,7 +20,6 @@ yield: 1 (9-inch) pizza crust
 difficulty: easy
 calories: 321 per half pizza
 ---
-
 ## At a Glance
 
 <!-- recipe-grid-spec

@@ -13,14 +13,6 @@ cook_time: 1 hour 20 minutes (block) to 2 hours 20 minutes (rolled)
 yield: 8 to 10 servings (rolled) or 3 to 4 (block)
 difficulty: medium
 ---
-
-**Prep:** 20 minutes
-**Cook:** 2 hours 20 minutes (rolled) / 1 hour 20 minutes (block)
-**Rest:** 8 hours or overnight
-**Servings:** 8 to 10 (rolled) / 3 to 4 (block)
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

@@ -15,7 +15,6 @@ difficulty: medium
 calories: 645 per burrito
 macros: 43g Carbs | 21g Fat | 63g Protein
 ---
-
 *This recipe yields 6 burritos designed for a high-protein meal prep. Each burrito contains 645 calories, 43g of carbohydrates, 21g of fat, and 63g of protein.*
 
 ## At a Glance

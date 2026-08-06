@@ -22,7 +22,7 @@ from pathlib import Path
 import requests
 import yaml
 
-VAULT = Path("/Users/alexblankenberg/Documents/Alex's Restaurant")
+VAULT = Path("/Users/alexblankenberg/Documents/Blanks' Restaurant")
 RECIPES = VAULT / "Recipes"
 TAXONOMY_CSV = VAULT / "recipe_vault_taxonomy.csv"
 OLLAMA_URL = "http://localhost:11434"

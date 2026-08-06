@@ -11,11 +11,6 @@ cook_time: 50 to 60 mins
 yield: 15 or more servings
 difficulty: medium
 ---
-
-# Tel Khadayeef (Shredded Pastry with Walnut Filling)
-
-**Source:** Family Armenian cookbook (Ungooyzov Tel Anoosh), p. 124
-
 ## At a Glance
 
 <!-- recipe-grid-spec

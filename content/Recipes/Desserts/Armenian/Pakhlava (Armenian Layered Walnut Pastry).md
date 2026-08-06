@@ -14,11 +14,6 @@ cook_time: 1 hour 15 mins
 yield: 20 to 25 servings
 difficulty: medium
 ---
-
-# Pakhlava (Armenian Layered Walnut Pastry)
-
-**Source:** Family Armenian cookbook (Tertanoosh), p. 120
-
 ## At a Glance
 
 <!-- recipe-grid-spec

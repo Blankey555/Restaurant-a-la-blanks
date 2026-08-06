@@ -10,7 +10,6 @@ cook_time: 1 hr 15 mins
 yield: 4 to 6 servings
 difficulty: easy
 ---
-
 ## At a Glance
 
 <!-- recipe-grid-spec

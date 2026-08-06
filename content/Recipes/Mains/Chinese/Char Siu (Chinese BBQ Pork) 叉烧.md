@@ -15,14 +15,6 @@ cook_time: 50 minutes
 yield: 8 servings
 difficulty: medium
 ---
-
-**Prep:** 10 minutes (plus 8 hours to overnight marinating)
-**Cook:** 50 minutes
-**Rest:** 10 minutes
-**Servings:** 8
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

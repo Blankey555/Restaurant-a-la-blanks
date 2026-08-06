@@ -14,15 +14,7 @@ total_time: overnight marinade plus 6 to 7 hours
 yield: 8 to 10 servings
 difficulty: medium
 ---
-
 *A Cuban-adjacent slow-roasted pork butt marinated overnight in sofrito, citrus, and olive oil, studded with garlic, and roasted low and slow until falling apart. Serves a crowd.*
-
-**Serves:** 8 to 10
-**Active Time:** 30 minutes
-**Total Time:** Overnight marinade plus 6 to 7 hours roasting
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

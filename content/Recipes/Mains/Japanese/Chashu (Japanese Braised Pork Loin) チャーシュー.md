@@ -13,16 +13,6 @@ cook_time: 1 hour 15 minutes
 yield: 6 to 8 servings
 difficulty: medium
 ---
-
-*A leaner adaptation of braised pork belly chashu using pork loin. Less rich than the belly version but still tender and deeply flavored when handled carefully.*
-
-**Prep:** 20 minutes
-**Cook:** 1 hour 15 minutes
-**Rest:** 8 hours or overnight
-**Servings:** 6 to 8
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

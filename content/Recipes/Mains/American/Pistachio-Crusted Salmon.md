@@ -14,14 +14,6 @@ total_time: 25 mins
 yield: 2 servings
 difficulty: easy
 ---
-
-**Prep:** 10 minutes
-**Cook:** 15 minutes
-**Rest:** 5 minutes
-**Servings:** 2
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

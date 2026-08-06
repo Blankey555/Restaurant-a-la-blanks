@@ -21,15 +21,7 @@ total_time: 3.5 to 12.5 hours
 yield: 4 servings
 difficulty: medium
 ---
-
 *A Chinese-inflected French onion soup built on rendered duck fat, homemade duck stock, and Shaoxing wine. Five spice runs through the entire cook. Finished with crusty bread and Gruyère.*
-
-**Serves:** 4
-**Active Time:** 1 hour
-**Total Time:** 3 to 12 hours depending on how long you let it go
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

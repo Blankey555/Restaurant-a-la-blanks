@@ -8,12 +8,6 @@ total_time: 5 minutes
 yield: 1 serving
 difficulty: easy
 ---
-
-**Serves:** 1
-**Time:** 5 minutes
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

@@ -14,9 +14,6 @@ total_time: 14 days (infusion) plus 10 mins per cocktail
 yield: 1 cocktail (infusion yields approximately 20 cocktails)
 difficulty: medium
 ---
-
-# Goblin Town
-
 *Get carried away by murky memory to the dank warrens of your youth.*
 
 A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark, earthy, and savory with a bright herbal lift.

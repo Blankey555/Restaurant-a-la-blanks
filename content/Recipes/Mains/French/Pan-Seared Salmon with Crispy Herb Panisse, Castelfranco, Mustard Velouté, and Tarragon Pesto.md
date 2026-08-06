@@ -10,15 +10,7 @@ total_time: 2 hours
 yield: 2 servings
 difficulty: hard
 ---
-
 *A composed plate of pan-seared salmon over crispy chickpea panisse, wilted castelfranco, mustard velouté, and bright tarragon pesto. Each component can be made ahead and brought together at service.*
-
-**Serves:** 2
-**Active Time:** 1 hour
-**Total Time:** 2 hours (includes panisse setting time)
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

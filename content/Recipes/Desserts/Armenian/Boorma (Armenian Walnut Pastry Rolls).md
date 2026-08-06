@@ -12,11 +12,6 @@ cook_time: 20 mins
 yield: about 30 long pastries
 difficulty: medium
 ---
-
-# Boorma (Armenian Walnut Pastry Rolls)
-
-**Source:** Family Armenian cookbook (Tertanoosh), pp. 122-123
-
 ## At a Glance
 
 <!-- recipe-grid-spec

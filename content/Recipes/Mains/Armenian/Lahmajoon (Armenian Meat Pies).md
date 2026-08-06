@@ -16,11 +16,6 @@ total_time: about 4 hours including rise
 yield: 14 meat pies
 difficulty: medium
 ---
-
-# Lahmajoon (Armenian Meat Pies)
-
-**Source:** Family Armenian cookbook, pp. 30-31
-
 ## At a Glance
 
 <!-- recipe-grid-spec

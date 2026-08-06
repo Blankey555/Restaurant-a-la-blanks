@@ -16,15 +16,7 @@ total_time: 2.5 to 12.5 hours
 yield: 4 servings
 difficulty: medium
 ---
-
 *A deeply savory French onion soup built on long-caramelized onions, beef stock, and brandy. The longer it simmers, the better it gets. Finished with crusty bread and Gruyère.*
-
-**Serves:** 4
-**Active Time:** 1 hour
-**Total Time:** 2 to 12 hours depending on how long you let it go
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

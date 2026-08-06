@@ -12,12 +12,6 @@ total_time: 15 minutes plus 1 hour chilling
 yield: 8 to 10 servings
 difficulty: easy
 ---
-
-**Serves:** 8 to 10
-**Time:** 15 minutes plus 1 hour chilling
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

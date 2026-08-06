@@ -14,14 +14,6 @@ total_time: 2 to 3 days (components) plus 5 mins per cocktail
 yield: 1 cocktail (components yield approximately 8 to 10 cocktails)
 difficulty: medium
 ---
-
-# Girl Dinner Caesar Martini
-
-**Serves:** 1
-**Total Time:** 2 to 3 days for components plus 5 minutes per cocktail
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

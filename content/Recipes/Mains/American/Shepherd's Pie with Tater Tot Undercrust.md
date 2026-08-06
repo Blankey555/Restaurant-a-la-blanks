@@ -18,13 +18,7 @@ total_time: 2 hours
 yield: 6 to 8 servings
 difficulty: medium
 ---
-
 *A deeply savory shepherd's pie built on a Guinness-braised meat filling, a smashed tater tot undercrust, and a rich cheddar-mash top crust. The meat is cooked like boereg filling (onions, butter, low and slow) before braising.*
-
-**Serves:** 6 to 8
-**Time:** 2 hours
-
----
 
 ## At a Glance
 

@@ -14,14 +14,6 @@ cook_time: 40 minutes
 yield: 4 servings
 difficulty: medium
 ---
-
-**Prep:** 20 minutes
-**Cook:** 40 minutes
-**Rest:** 8 hours or overnight
-**Servings:** 4
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

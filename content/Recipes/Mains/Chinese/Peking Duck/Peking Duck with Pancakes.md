@@ -13,9 +13,6 @@ prep_time: 24 hrs
 cook_time: 1 hr
 difficulty: hard
 ---
-
-# Peking Duck with Handmade Pancakes (Custom Method)
-
 *A refined version of the classic roast, utilizing a beer can spit for even airflow and a double-scald technique for maximum skin crispness.*
 
 ## At a Glance
