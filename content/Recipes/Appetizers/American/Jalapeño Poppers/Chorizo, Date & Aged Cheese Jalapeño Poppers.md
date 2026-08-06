@@ -98,6 +98,8 @@ steps:
 ---
 
 ## Notes
+
+- The peppers can instead be cut in half lengthwise to make boats. Boats are easier to bake but harder to fry.
 - Comté and Manchego are both aged and assertive. Together they replace the richness and binding that cream cheese provided, leaning the filling in a more savory, complex direction.
 - Oaxacan cheese remains the dominant melt component. Keep its ratio higher than the aged cheeses.
 - The dates provide the sweetness and moisture that cream cheese previously contributed. Do not reduce them.

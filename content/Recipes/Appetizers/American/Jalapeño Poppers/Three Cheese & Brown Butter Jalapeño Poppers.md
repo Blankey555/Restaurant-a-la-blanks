@@ -88,3 +88,7 @@ steps:
 3. Dredge frozen poppers in flour, dip in beer, coat in masa harina.
 4. Place on a wire rack over a sheet pan. Spray lightly with cooking oil.
 5. Bake 20 to 25 minutes until golden, flipping halfway through.
+
+## Notes
+
+- The peppers can instead be cut in half lengthwise to make boats. Boats are easier to bake but harder to fry.
