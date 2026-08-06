@@ -15,14 +15,6 @@ total_time: 20 mins
 yield: 8 servings
 difficulty: easy
 ---
-
-# Charred Tomatillo Dip
-
-**Serves:** 8
-**Total Time:** 20 minutes
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

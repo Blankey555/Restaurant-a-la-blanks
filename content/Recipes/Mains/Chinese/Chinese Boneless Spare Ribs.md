@@ -15,6 +15,8 @@ total_time: 65 mins
 yield: 8 servings
 difficulty: medium
 ---
+**Source:** https://thewoksoflife.com/chinese-boneless-spare-ribs/
+
 ## At a Glance
 
 <!-- recipe-grid-spec

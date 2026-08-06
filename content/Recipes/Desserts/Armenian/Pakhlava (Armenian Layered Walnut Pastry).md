@@ -72,8 +72,6 @@ steps:
 6. Bake in preheated 350 degree oven fifteen minutes. Reheat leftover butter. Pull pan half-way out of oven, spoon some hot butter over each diamond, lower temperature to 300 degrees and bake additional hour, or until a light gold in color.
 7. Remove from oven and pour the cold syrup over each hot diamond. Repeat until most of syrup is used. Reserve leftover syrup to serve with pakhlava.
 
-**Yield:** Twenty to twenty-five servings.
-
 ## Notes
 
 - If pakhlava browns too quickly, lower oven temperature slightly and place a sheet of aluminum foil over pan.

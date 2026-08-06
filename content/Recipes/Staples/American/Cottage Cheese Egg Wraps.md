@@ -19,12 +19,6 @@ yield: 2 wraps
 difficulty: easy
 ---
 *A high-protein, low-carb wrap made from blended eggs and cottage cheese. Use in place of a tortilla or flatbread.*
-
-**Makes:** 2 wraps
-**Time:** 15 minutes
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

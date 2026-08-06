@@ -15,7 +15,6 @@ yield: about 40 stuffed cabbage leaves
 difficulty: medium
 ---
 
-# Stuffed Cabbage Leaves (Yalanchi)
 
 **Source:** Family Armenian cookbook (Gaghampi Patooyt Tsetov)
 
@@ -50,8 +49,6 @@ steps:
 2. Cut the large leaves in half and remove the center vein. Place leaf on a flat surface, put a spoonful of filling at the bottom and roll the leaf up. It will resemble a sausage. Continue with remaining leaves.
 3. Line the bottom of a large six-quart saucepan with the cabbage scraps and the dill and parsley stems. Arrange over them the stuffed cabbage leaves seam side down in alternate rows. Place a large cabbage leaf on top then invert a small dish and place it over the leaf.
 4. Add the water, bring to the boil, reduce heat and simmer, covered, for one hour. Let cabbage rolls cool in saucepan at least one hour then refrigerate. Serve cold. Garnish platter with parsley sprigs and lemon wedges.
-
-**Yield:** About forty stuffed cabbage leaves.
 
 ## Notes
 

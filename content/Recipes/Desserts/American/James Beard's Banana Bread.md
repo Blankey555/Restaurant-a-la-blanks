@@ -11,8 +11,6 @@ yield: 1 loaf
 difficulty: easy
 ---
 
-# James Beard's Banana Bread
-
 *Classic American banana bread with a hint of lemon and walnuts.*
 
 **Source:** https://www.jamesbeard.org/recipes/banana-bread
@@ -89,4 +87,3 @@ steps:
 7. Slowly and alternately fold in the flour mixture and milk mixture, beginning and ending with the dry ingredients. Blend well after each addition.
 8. Stir in the nuts.
 9. Pour batter into the pan and bake for 45-50 minutes, or until the bread springs back when lightly touched in the center.
-

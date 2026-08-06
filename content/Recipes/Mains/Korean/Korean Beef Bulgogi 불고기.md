@@ -12,13 +12,6 @@ cook_time: 15 minutes
 yield: 6 servings
 difficulty: easy
 ---
-
-**Prep:** 15 minutes (plus 2 hours to overnight marinating)
-**Cook:** 15 minutes
-**Servings:** 6
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

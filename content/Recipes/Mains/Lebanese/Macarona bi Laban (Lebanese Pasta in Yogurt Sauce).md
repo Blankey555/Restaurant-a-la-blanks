@@ -12,14 +12,7 @@ total_time: 30 mins
 yield: 4 servings
 difficulty: easy
 ---
-
 *A classic Lebanese comfort dish of pasta in a warm, garlicky yogurt sauce, typically served with browned butter and toasted pine nuts.*
-
-**Serves:** 4
-**Time:** 30 minutes
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

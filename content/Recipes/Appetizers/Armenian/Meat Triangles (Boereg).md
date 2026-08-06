@@ -16,7 +16,6 @@ yield: about 30 triangles
 difficulty: medium
 ---
 
-# Meat Triangles (Boereg)
 
 **Source:** Family Armenian cookbook (Meesov Pahtuvadz Khumoreghen), p. 7
 
@@ -87,8 +86,6 @@ steps:
 4. Place one sheet down flat, brush surface with melted butter and fold over in half lengthwise. Place a spoonful of the filling at the bottom center of the strip and bring both sides over to cover the filling.
 5. Fold from the bottom up to the top in a triangular fold. Place on buttered baking pan, seam side down and brush top with melted butter. Sprinkle with sesame seeds if desired.
 6. Bake in preheated 375 degree oven for twenty minutes or until a light golden brown. Serve hot.
-
-**Yield:** About 30 triangles.
 
 ## Notes
 

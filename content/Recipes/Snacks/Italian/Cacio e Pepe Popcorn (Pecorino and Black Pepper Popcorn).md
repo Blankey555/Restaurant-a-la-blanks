@@ -15,12 +15,6 @@ difficulty: easy
 ---
 
 *All the flavors of the Roman pasta (sharp pecorino, aggressive black pepper, and a little butter) on stovetop popcorn.*
-
-**Serves:** 2 to 4
-**Time:** 15 minutes
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

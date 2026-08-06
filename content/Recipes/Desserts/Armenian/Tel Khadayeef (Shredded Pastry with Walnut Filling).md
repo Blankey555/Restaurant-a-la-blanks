@@ -68,8 +68,6 @@ steps:
 6. Bake in preheated 400 degree oven for fifty to sixty minutes or until pastry is lightly toasted on top. Remove from oven. Carefully invert contents into an identical size pan and pour cooled syrup on top. Place a sheet of aluminum foil over pan, tucking sides in, for thirty minutes to soften pastry.
 7. Cut into squares and serve warm or at room temperature.
 
-**Yield:** Fifteen or more servings.
-
 ## Notes
 
 - Variation: omit the walnut filling and substitute a cheese filling. Combine together 1/2 pound ricotta cheese, 1 pound pot-style cottage cheese, 1 teaspoon ground cinnamon and 1 beaten egg. Reduce butter to a half cup.

@@ -16,12 +16,8 @@ yield: 1 jar (approximately 12 cocktails)
 difficulty: easy
 ---
 
-# Quick Pickled Ramp Brine
 
 *A fast brine for ramp martinis. The bulbs become the garnish, the liquid becomes the dirty element.*
-
-**Yield:** 1 jar
-**Total Time:** 10 minutes plus 4 hours to overnight rest
 
 ---
 

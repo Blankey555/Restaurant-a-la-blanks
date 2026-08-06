@@ -14,13 +14,6 @@ total_time: 5 minutes
 yield: 4 servings
 difficulty: easy
 ---
-
-**Prep:** 5 minutes
-**Total:** 5 minutes
-**Servings:** 4
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

@@ -54,6 +54,7 @@ tag,oceanian,region,"Oceania: Australian, New Zealand, Pacific Islander",No repr
 tag,sub-regional,meta,Sub-regional specificity rule,"Where a recipe is identifiably sub-regional, apply a specific sub-region tag alongside the parent cuisine and region tags. Sub-region tags always stack with parent cuisine and region. Examples: sai ua receives thai + northern-thai + southeast-asian. Char siu receives chinese + cantonese + east-asian."
 tag,cantonese,sub-region,Cantonese (Chinese),Stacks with chinese + east-asian
 tag,sichuan,sub-region,Sichuan (Chinese),Stacks with chinese + east-asian
+tag,sicilian,sub-region,Sicilian (Italian),Stacks with italian + european + mediterranean
 tag,northern-thai,sub-region,Northern Thai,Stacks with thai + southeast-asian
 tag,southern-us,sub-region,Southern US,Stacks with american + north-american
 tag,louisiana,sub-region,Louisiana / New Orleans,Stacks with american + north-american
@@ -163,5 +164,5 @@ tag,tested,mastery,Cooked at least once,DO NOT APPLY. Manual curation only by va
 tag,refined,mastery,Cooked and adjusted based on results,DO NOT APPLY. Manual curation only by vault owner.
 tag,mastered,mastery,Consistent and reliable,DO NOT APPLY. Manual curation only by vault owner.
 format,naming,rule,Recipe naming convention,"Filenames and H1 titles are title case with spaces. Names are grammatically complete. Proper-named and foreign-named dishes carry a parenthetical descriptor, for example Miang Kham (Thai Leaf-Wrapped Bites) or Gochujang Sauce (Korean Chili Sauce)."
-format,structure,rule,Recipe body structure,"After frontmatter: H1 title, one italic description line, then sections: Ingredients, Instructions (numbered steps), Notes. Include a Source line with the URL when the recipe was imported from a URL. Bold body metadata lines such as Yield and Total Time are permitted after the description."
+format,structure,rule,Recipe body structure,"The filename carries the title; no H1 in the body. After frontmatter: one italic description line, a Source line with the URL when imported from a URL, then sections: At a Glance (process grid), Ingredients, Instructions (numbered steps), Notes. Never repeat frontmatter values (times, yield, servings) as bold body lines."
 format,punctuation,rule,Punctuation rules,"No em dashes anywhere in any file. Use commas, colons, periods, or parentheses instead."

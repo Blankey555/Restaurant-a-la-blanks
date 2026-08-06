@@ -15,7 +15,6 @@ yield: about 75 stuffed leaves
 difficulty: medium
 ---
 
-# Stuffed Grape Leaves (Yalanchi)
 
 **Source:** Family Armenian cookbook (Derevi Patooyt Tsetov), p. 8
 
@@ -92,8 +91,6 @@ steps:
 3. Spread grape leaf shiny side down with stem end at bottom. Place a spoonful of stuffing in center, fold over both sides and roll from bottom to the tip of the leaf. It will resemble a small sausage when rolled up. Continue with remaining leaves.
 4. Line bottom of a wide six quart saucepan with extra grape leaves and dill and parsley stems. Arrange the wrapped leaves, seam side down, in alternating rows. Place a few grape leaves on top and a small inverted dish. Pour in the remaining water.
 5. Bring to the boil, then simmer, covered, for one hour. Let cool in saucepan before removing plate or leaves, at least one hour. Then refrigerate. Serve the stuffed leaves cold or at room temperature. Garnish platter with sprigs of parsley and lemon wedges.
-
-**Yield:** Seventy five stuffed leaves.
 
 ## Notes
 

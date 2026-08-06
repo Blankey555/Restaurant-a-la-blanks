@@ -15,9 +15,6 @@ difficulty: easy
 ---
 
 *Candied pecans with a stiff, crunchy candy shell. Heavy on cayenne if you like heat. Wing the measurements or follow the guide below.*
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

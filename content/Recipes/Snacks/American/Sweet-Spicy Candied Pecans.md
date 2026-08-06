@@ -16,9 +16,6 @@ difficulty: easy
 ---
 
 *A crunchy, candy-shelled pecan with heat from cayenne and warmth from cinnamon. Measurements are flexible. Adjust to taste.*
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

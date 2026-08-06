@@ -8,9 +8,6 @@ tags:
 difficulty: easy
 ---
 A cognac-forward Sazerac with a toasted coconut garnish. The absinthe rinse and Peychaud's keep it classical while the coconut adds a subtle tropical note on the nose.*
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

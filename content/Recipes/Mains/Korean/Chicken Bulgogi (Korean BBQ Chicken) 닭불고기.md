@@ -13,16 +13,7 @@ cook_time: 10 minutes
 yield: 3 servings
 difficulty: easy
 ---
-# Chicken Bulgogi (Korean BBQ Chicken) 닭불고기
-
 *Bold Korean BBQ chicken with a gochujang-based marinade. Broiled for caramelized edges and easy cleanup.*
-
-**Prep:** 10 minutes (plus 10 to 30 minutes marinating)
-**Cook:** 10 minutes
-**Servings:** 3
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

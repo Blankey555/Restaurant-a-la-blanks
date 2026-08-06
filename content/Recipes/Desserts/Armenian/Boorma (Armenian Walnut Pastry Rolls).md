@@ -69,8 +69,6 @@ steps:
 6. Bake in preheated 350 degree oven twenty minutes until they are a golden color, top and bottom.
 7. Dip warm rolls in the cooled syrup. If smaller pastries are desired, cut rolls in half before syruping.
 
-**Yield:** About 30 long pastries.
-
 ## Notes
 
 - Boorma may be baked in advance but do not syrup. On the day they are to be served, heat rolls in a 350 degree oven for ten minutes, then dip them in the cooled syrup.

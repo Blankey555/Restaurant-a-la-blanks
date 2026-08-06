@@ -17,13 +17,6 @@ difficulty: easy
 ---
 
 *Superfirm tofu shredded, baked dry, then marinated in a Korean bulgogi sauce and seared until crispy and caramelized. Works on a cast iron skillet, griddle, or grill.*
-
-**Serves:** 4
-**Active Time:** 20 minutes
-**Total Time:** 1 hour plus 2 hours to overnight marinating
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

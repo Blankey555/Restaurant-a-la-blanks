@@ -22,8 +22,6 @@ difficulty: medium
 ---
 *A savory-sweet jalapeño popper filled with rendered chorizo, medjool dates, and a blend of Manchego and Comté.*
 
-**Makes:** 50 poppers
-
 ---
 
 ## At a Glance

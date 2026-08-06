@@ -18,9 +18,6 @@ difficulty: medium
 
 A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark, earthy, and savory with a bright herbal lift.
 
-**Serves:** 1
-**Total Time:** 14 day infusion plus 10 minutes per cocktail
-
 ---
 
 ## At a Glance

@@ -327,6 +327,34 @@ def title_from_md(md):
     return m.group(1).strip() if m else None
 
 
+BOLD_META_RE = re.compile(
+    r"^\*\*(Serves|Time|Prep|Cook|Rest|Total Time|Active Time|Yield|Makes|Servings|Bake Time)\s*:",
+    re.IGNORECASE)
+EXAMPLE_BLEED = {
+    "- Improves as it sits. Can be made 1 to 2 days ahead.",
+    "- Keeps in the fridge for 3 to 4 days.",
+}
+
+
+def strip_duplicated_header(md):
+    """Remove the body H1 (the filename carries the title) and any bold
+    metadata lines duplicating frontmatter; drop notes copied verbatim
+    from the few-shot example."""
+    out = []
+    for l in md.splitlines():
+        s = l.strip()
+        if s.startswith("# ") and not s.startswith("## "):
+            continue
+        if BOLD_META_RE.match(s) and not s.startswith("**Source:"):
+            continue
+        if s in EXAMPLE_BLEED:
+            continue
+        out.append(l)
+    md = "\n".join(out)
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    return md.strip() + "\n"
+
+
 # ---------------------------------------------------------------- pipeline
 
 GRID_PROMPT = """Derive a process-grid spec for the recipe below. Output ONLY YAML, no commentary, no code fences.
@@ -409,6 +437,7 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes, want_grid=False):
         md = try_generate_grid(content, md)
 
     title = title_from_md(md) or "Untitled Recipe"
+    md = strip_duplicated_header(md)
     filename = f"{title}.md"
     dest_dir = choose_destination(fm)
     dest = dest_dir / filename

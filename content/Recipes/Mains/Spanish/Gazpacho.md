@@ -11,7 +11,6 @@ tags:
 total_time: 8 hours (includes chilling)
 difficulty: easy
 ---
-
 ## At a Glance
 
 <!-- recipe-grid-spec

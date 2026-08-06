@@ -11,7 +11,6 @@ tags:
 cook_time: 1 hr
 difficulty: easy
 ---
-
 ## At a Glance
 
 <!-- recipe-grid-spec

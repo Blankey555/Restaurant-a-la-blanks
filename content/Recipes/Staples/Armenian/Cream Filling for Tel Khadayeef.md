@@ -10,11 +10,6 @@ tags:
 cook_time: 10 mins
 difficulty: easy
 ---
-
-# Cream Filling for Tel Khadayeef
-
-**Source:** Family Armenian cookbook, p. 125
-
 ## At a Glance
 
 <!-- recipe-grid-spec

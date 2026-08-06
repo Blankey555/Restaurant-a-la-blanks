@@ -15,12 +15,7 @@ yield: approximately 1.5 cups
 difficulty: easy
 ---
 
-# Shiso Syrup
-
 *A 1:1 simple syrup steeped with dried shiso. Purple shiso produces a deep magenta syrup; green shiso produces a paler, more herbal one. Built for Goblin Town and other cocktails.*
-
-**Yield:** Approximately 1.5 cups
-**Total Time:** 45 minutes to 1 hour
 
 ---
 

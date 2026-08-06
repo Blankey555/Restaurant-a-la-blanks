@@ -98,8 +98,6 @@ steps:
 6. Roll each ball into a circle about six inches in diameter, sprinkling a little flour on surface and rolling pin as needed. Place circles on greased cookie tray (or line tray with baking parchment, ungreased). Spread two or three tablespoonfuls of meat mixture over the entire surface of circle.
 7. Bake in preheated 450 degree oven. Place tray on lower rack for six minutes then on upper rack for six minutes. Lahmajoons should be slightly brown on the bottom and meat mixture sizzling and light brown when done. Serve hot with lemon wedges. Squeeze lemon over just before eating.
 
-**Yield:** Fourteen meat pies.
-
 ## Notes
 
 - Meat pies may be baked and frozen. Freeze with meat sides faced together and pack in a plastic bag, secured tightly with a twister seal. To reheat, place pies in pairs on cookie sheet in hot oven for five minutes, turning once.

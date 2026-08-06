@@ -17,7 +17,6 @@ yield: about 3 dozen mussels
 difficulty: medium
 ---
 
-# Stuffed Mussels (Midia Dolma)
 
 **Source:** Family Armenian cookbook (Tsgnaganchi Leetsk), p. 13
 
@@ -86,8 +85,6 @@ steps:
 3. Mix thoroughly, then taste for additional seasoning before stuffing mussels.
 4. Place a tablespoonful of filling in each mussel, then close carefully. Twist each mussel closed before stuffing the next. Arrange stuffed mussels in alternating rows in a roasting pan. Add the water slowly. Cut the lemon in half and squeeze one half over the mussels. Place an inverted dish on top to prevent shells from opening while baking.
 5. Bake covered in a 350 degree oven for one to one and a half hours. Allow to cool completely before removing mussels from pan. Serve cold, garnished with lemon slices cut from the remaining half lemon.
-
-**Yield:** About three dozen mussels.
 
 ## Notes
 

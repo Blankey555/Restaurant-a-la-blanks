@@ -17,7 +17,6 @@ yield: about 30 triangles
 difficulty: medium
 ---
 
-# Cheese Triangles (Boereg)
 
 **Source:** Family Armenian cookbook (Baneerov Pahtuvadz Khumoreghen), p. 6
 
@@ -74,8 +73,6 @@ steps:
 3. Place one sheet down flat, brush surface with melted butter and fold over in half lengthwise. Place a spoonful of the filling at the bottom center of the strip and bring both sides over to cover the filling.
 4. Fold from the bottom up to the top in triangular folds. Place on buttered baking pan, seam side down and brush top with melted butter.
 5. Bake in preheated 375 degree oven for twenty to twenty-five minutes or until a golden brown. Serve hot.
-
-**Yield:** About 30 triangles.
 
 ## Notes
 

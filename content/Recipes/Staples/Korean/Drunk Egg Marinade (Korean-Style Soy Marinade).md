@@ -12,9 +12,6 @@ difficulty: easy
 ---
 
 *A bold, savory-sweet marinade for soft-boiled eggs. Makes enough for 6 to 8 eggs.*
-
----
-
 ## At a Glance
 
 <!-- recipe-grid-spec

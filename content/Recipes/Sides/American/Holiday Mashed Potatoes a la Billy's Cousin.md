@@ -17,13 +17,7 @@ yield: 8 servings
 difficulty: easy
 ---
 
-# Holiday Mashed Potatoes
-
 *Unapologetically rich mashed potatoes built on herb-simmered cream and butter. Optional Greek yogurt for tang, optional cheese for indulgence.*
-
-**Serves:** 8
-**Active Time:** 20 minutes
-**Total Time:** 1 hour
 
 ---
 

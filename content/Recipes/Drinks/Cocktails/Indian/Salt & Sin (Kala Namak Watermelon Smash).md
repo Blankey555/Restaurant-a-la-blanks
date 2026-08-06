@@ -13,9 +13,6 @@ difficulty: easy
 ---
 *A savory-sweet watermelon cocktail built on fresh juice and black salt. Four ways: vodka, tequila, prosecco spritz, or rosé spritz. Spiced variants throughout.*
 
-**Serves:** 1
-**Time:** 10 minutes
-
 ---
 
 ## At a Glance
