@@ -262,11 +262,13 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
-        - aliases
+        - prep_time
+        - cook_time
+        - total_time
+        - yield
+        - difficulty
       excludedProperties: []
-      hidePropertiesView: true
+      hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5

@@ -2,6 +2,35 @@
 
 // put your custom CSS here!
 
+// Recipe brief: show frontmatter facts as a clean compact table with no
+// collapsible "Properties" chrome.
+details.note-properties {
+  border: none;
+  margin: 0.4rem 0 0.8rem 0;
+
+  & > .note-properties-header {
+    display: none; // no dropdown header; table always visible
+  }
+
+  .note-properties-table {
+    margin: 0;
+    width: auto;
+    border-collapse: collapse;
+
+    td {
+      border: none;
+      padding: 0.1rem 1.2rem 0.1rem 0;
+      line-height: 1.45;
+    }
+
+    .note-properties-key {
+      opacity: 0.65;
+      font-size: 0.9em;
+      white-space: nowrap;
+    }
+  }
+}
+
 // Fix squished tag pills in the Properties panel: let the row wrap and
 // keep each tag at its natural width instead of flex-shrinking mid-word.
 .note-properties-tags {
