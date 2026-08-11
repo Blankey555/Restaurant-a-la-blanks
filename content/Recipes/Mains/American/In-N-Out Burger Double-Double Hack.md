@@ -98,3 +98,5 @@ steps:
 10. When the patties are done, use a spatula to stack the top patty (with the bun) onto the onion on the second patty. Use your spatula to move this whole stack off the pan and onto the bottom of the sandwich. Wrap the burger with wax paper or sandwich paper, if you like, and serve.
 
 ## Notes
+
+- The spread is also filed on its own as [[In-N-Out Spread (Burger Sauce)]] for use beyond burgers.
