@@ -37,6 +37,7 @@ tag,spanish,cuisine,Spanish cuisine,Apply based on dish origin or dominant techn
 tag,peruvian,cuisine,Peruvian cuisine,Apply based on dish origin or dominant technique
 tag,greek,cuisine,Greek cuisine,Apply based on dish origin or dominant technique
 tag,vietnamese,cuisine,Vietnamese cuisine,Apply based on dish origin or dominant technique
+tag,filipino,cuisine,Filipino cuisine,Apply based on dish origin or dominant technique. Derives southeast-asian region.
 tag,american,cuisine,American cuisine,Apply based on dish origin or dominant technique
 tag,new-american,cuisine,New American cuisine,Contemporary American cooking with chef-driven technique
 tag,fusion,cuisine,Cross-cuisine dishes,Always stack with parent cuisine tags. Example: Peking duck French onion soup receives french + chinese + fusion.
@@ -70,6 +71,7 @@ tag,pizza,classification,Dish format: pizza,Apply to pizzas and crusts
 tag,wrap,classification,Dish format: wrap or leaf-wrapped bite,Apply to wraps and wrapped bites
 tag,burrito,classification,Dish format: burrito,Apply to burritos
 tag,sandwich,classification,Dish format: sandwich,Apply to sandwiches
+tag,burger,classification,Dish format: burger,Apply to burgers
 tag,stir-fry,classification,Dish format: stir-fry,Apply to stir-fried dishes
 tag,roast,classification,Dish format: roast,Apply to roasted centerpiece dishes
 tag,bbq,classification,Dish format: barbecue style,Apply to BBQ-style dishes such as bulgogi and char siu
@@ -164,5 +166,5 @@ tag,tested,mastery,Cooked at least once,DO NOT APPLY. Manual curation only by va
 tag,refined,mastery,Cooked and adjusted based on results,DO NOT APPLY. Manual curation only by vault owner.
 tag,mastered,mastery,Consistent and reliable,DO NOT APPLY. Manual curation only by vault owner.
 format,naming,rule,Recipe naming convention,"Filenames and H1 titles are title case with spaces. Names are grammatically complete. Proper-named and foreign-named dishes carry a parenthetical descriptor, for example Miang Kham (Thai Leaf-Wrapped Bites) or Gochujang Sauce (Korean Chili Sauce)."
-format,structure,rule,Recipe body structure,"The filename carries the title; no H1 in the body. After frontmatter: one italic description line, a Source line with the URL when imported from a URL, then sections: At a Glance (process grid), Ingredients, Instructions (numbered steps), Notes. Never repeat frontmatter values (times, yield, servings) as bold body lines."
+format,structure,rule,Recipe body structure,"The filename carries the title; no H1 in the body. After frontmatter: one italic description line, a Source line with the URL when imported from a URL, then sections: Ingredients, Instructions (numbered steps), Notes. The At a Glance process grid is inserted by tooling; never write an At a Glance section or summary table yourself. Never repeat frontmatter values (times, yield, servings) as bold body lines."
 format,punctuation,rule,Punctuation rules,"No em dashes anywhere in any file. Use commas, colons, periods, or parentheses instead."

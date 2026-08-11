@@ -213,6 +213,7 @@ def _ollama_request(system, user):
     out = r.json()["message"]["content"].strip()
     out = re.sub(r"\A```(?:markdown|md|yaml)?\s*\n", "", out)
     out = re.sub(r"\n```\s*\Z", "", out)
+    out = re.sub(r"\s*—\s*", ", ", out)  # auto-repair em dashes rather than failing
     return out.strip() + "\n"
 
 
@@ -302,6 +303,8 @@ def choose_destination(fm):
         cat = RECIPES / ("Drinks/Non-Alcoholic" if "non-alcoholic" in tags else "Drinks/Cocktails")
     elif "non-alcoholic" in tags:
         cat = RECIPES / "Drinks/Non-Alcoholic"
+    elif "main" in tags:
+        cat = RECIPES / "Mains"
     elif "dessert" in tags:
         cat = RECIPES / "Desserts"
     elif "appetizer" in tags and "soup" not in tags:
@@ -497,8 +500,17 @@ def main():
     if args.input:
         inputs.append(args.input)
     if args.batch:
-        inputs += [l.strip() for l in Path(args.batch).read_text().splitlines()
-                   if l.strip() and not l.startswith("#")]
+        raw = Path(args.batch).read_text(encoding="utf-8", errors="replace")
+        # Extract URLs by pattern so plain lists, RTF, and HTML exports all work.
+        urls = re.findall(r"https?://[^\s\"'<>{}\\]+", raw)
+        seen = set()
+        for u in urls:
+            u = u.rstrip(".,;)")
+            if u not in seen:
+                seen.add(u)
+                inputs.append(u)
+        if not inputs:
+            sys.exit(f"No URLs found in {args.batch}")
 
     results = [process_one(i, system_prompt, allowed_tags, args.yes, args.grid) for i in inputs]
     print(f"\nDone: {sum(results)}/{len(results)} written.")
