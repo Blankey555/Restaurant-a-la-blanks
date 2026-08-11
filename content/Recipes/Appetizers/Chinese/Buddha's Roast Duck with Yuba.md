@@ -77,3 +77,5 @@ OR 3 large rectangular sheets dried yuba (beancurd skin)
 
 - Leftovers can be chopped and used in stuffings or rice or noodle dishes.
 - To make MOCK PEKING DUCK, serve thinly sliced Buddha's Roast Duck with Mandarin pancakes or flour tortillas, and finely-shredded green onion.
+- The yuba sheets can be made from scratch: [[Homemade Yuba]].
+- For the other mock-duck approach (king oyster mushroom and rice paper), see [[Crispy Vegan Peking Duck]].

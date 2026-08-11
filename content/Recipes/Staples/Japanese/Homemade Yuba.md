@@ -50,3 +50,4 @@ steps:
 
 - The double-boiler set-up is not necessary, but it makes the process even more hands-off.
 - Yuba doesn't have a long shelf life; consume within a few days.
+- Fresh sheets made this way are the starting point for [[Buddha's Roast Duck with Yuba]].

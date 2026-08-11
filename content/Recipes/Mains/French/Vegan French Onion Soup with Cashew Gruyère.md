@@ -6,7 +6,6 @@ total_time: 120 mins
 yield: 4 servings
 difficulty: medium
 ---
-
 **Source:** https://shutterandmint.com/vegan-french-onion-soup-with-gruyere-cheese/
 
 ## At a Glance

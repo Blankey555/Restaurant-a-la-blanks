@@ -75,3 +75,5 @@ steps:
 10. Serve over noodles with bok choy.
 
 ## Notes
+- For the yuba-based approach to mock duck, see [[Buddha's Roast Duck with Yuba]].
+- Serve with the pancakes from [[Peking Duck with Pancakes]] for the full experience.
