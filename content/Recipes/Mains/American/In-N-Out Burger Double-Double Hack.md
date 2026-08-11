@@ -6,9 +6,6 @@ total_time: 20 mins
 yield: 4 servings
 difficulty: easy
 ---
-
-*This legendary hamburger is a construct of simple ingredients, but until now no one has succeeded in creating a perfect clone recipe, most likely because they miss the subtleties that make this 70-year-old recipe so great.*
-
 **Source:** https://topsecretrecipes.com/foodhackerblog/in-n-out-burger-double-double/
 
 ## At a Glance

@@ -7,8 +7,6 @@ yield: 12 servings
 difficulty: easy
 ---
 
-*Delicious and easy party appetizer or light supper.*
-
 **Source:** https://www.smalltownwoman.com/quick-creamy-crab-stuffed-mushrooms/
 
 ## At a Glance

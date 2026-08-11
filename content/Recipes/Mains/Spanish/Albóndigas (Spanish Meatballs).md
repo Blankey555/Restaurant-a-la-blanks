@@ -7,8 +7,6 @@ yield: 6 servings
 difficulty: medium
 ---
 
-*Juicy Spanish meatballs seared to perfection and finished in an aromatic white wine and saffron broth.*
-
 **Source:** https://www.themediterraneandish.com/albondigas-spanish-meatballs/
 
 ## At a Glance

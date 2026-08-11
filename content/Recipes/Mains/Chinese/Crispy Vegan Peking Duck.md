@@ -7,8 +7,6 @@ yield: 2 servings
 difficulty: medium
 ---
 
-*Plant-based twist on the Chinese classic, perfect for date nights, dinner parties, or indulgent solo meals.*
-
 **Source:** https://veggieanh.com/vegan-peking-duck/
 
 ## At a Glance

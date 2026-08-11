@@ -47,8 +47,6 @@ difficulty: easy
 
 # Charred Tomatillo Dip
 
-*Smoky, bright, and slightly spicy. Built on broiler-charred vegetables.*
-
 **Source:** https://example.com/tomatillo-dip
 
 ## Ingredients
@@ -127,7 +125,7 @@ def build_system_prompt(rows, tags):
         "- Frontmatter fields appear in this exact order: tags, prep_time, cook_time, total_time, yield, difficulty.",
         "- Time values must match times stated in the recipe content, including ranges. Never invent times; omit a field the content does not state.",
         "- The H1 title is title case and follows the naming convention.",
-        "- Body structure: H1, one italic description line, a Source line when a URL is given, then Ingredients, Instructions (numbered), Notes.",
+        "- Body structure: H1, a Source line when a URL is given, then Ingredients, Instructions (numbered), Notes. Do NOT write a description or introduction line; the vault owner writes those by hand.",
         "- No em dashes (the character —) anywhere in the output.",
         "",
         "## EXAMPLE OUTPUT (format anchor)",
@@ -351,6 +349,8 @@ def strip_duplicated_header(md):
         if BOLD_META_RE.match(s) and not s.startswith("**Source:"):
             continue
         if s in EXAMPLE_BLEED:
+            continue
+        if re.match(r"\*[^*].*\*$", s):  # model-written blurb; owner writes these
             continue
         out.append(l)
     md = "\n".join(out)

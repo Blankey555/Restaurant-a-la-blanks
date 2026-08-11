@@ -7,8 +7,6 @@ yield: 1 serving
 difficulty: easy
 ---
 
-*This bagoong's gone rogue, in the best way. It’s a salty-sweet, umami-packed flavor bomb built from mushrooms, miso, and seaweed.*
-
 **Source:** https://cinnamonsnail.com/vegan-shrimp-paste-bagoong-recipe/
 
 ## At a Glance

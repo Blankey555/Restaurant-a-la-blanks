@@ -7,8 +7,6 @@ yield: 4 servings
 difficulty: medium
 ---
 
-*Delicious, herb-infused, entirely plant-based French Onion Soup with a blended cashew Gruyère.*
-
 **Source:** https://shutterandmint.com/vegan-french-onion-soup-with-gruyere-cheese/
 
 ## At a Glance

@@ -7,8 +7,6 @@ yield: 4 servings
 difficulty: medium
 ---
 
-*Seared skirt steak topped with a buttery green olive, gin, and vermouth sauce, served with crispy golden French fries.*
-
 **Source:** https://www.delish.com/cooking/recipe-ideas/a46457508/dirty-martini-steak-frites-recipe/
 
 ## At a Glance

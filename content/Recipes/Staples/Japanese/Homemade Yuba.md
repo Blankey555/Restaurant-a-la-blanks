@@ -7,8 +7,6 @@ yield: 8 servings
 difficulty: medium
 ---
 
-*Delicate, nutty yuba sheets made from scratch in a home kitchen.*
-
 **Source:** https://www.bonappetit.com/people/out-of-the-kitchen/article/yuba-at-home
 
 ## At a Glance

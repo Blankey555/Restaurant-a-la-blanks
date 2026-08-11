@@ -7,8 +7,6 @@ yield: 4 servings
 difficulty: medium
 ---
 
-*Traditional Chinese Buddhist vegetarian dish made with yuba (beancurd skin) and served as an appetizer.*
-
 **Source:** https://veganfeastkitchen.blogspot.com/2006/07/buddhas-roast-duck-with-yuba.html?m=1
 
 ## At a Glance

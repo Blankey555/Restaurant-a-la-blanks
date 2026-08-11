@@ -11,8 +11,6 @@ yield: 1 loaf
 difficulty: easy
 ---
 
-*Classic American banana bread with a hint of lemon and walnuts.*
-
 **Source:** https://www.jamesbeard.org/recipes/banana-bread
 
 ## At a Glance

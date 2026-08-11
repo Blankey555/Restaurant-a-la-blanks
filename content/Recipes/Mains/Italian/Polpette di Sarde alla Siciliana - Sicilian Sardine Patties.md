@@ -16,7 +16,6 @@ total_time: 40 mins
 yield: 4 servings
 difficulty: medium
 ---
-*Typical Sicilian seafood dish. Can stand on its own, in sauce, or alongside rice or pasta. Makes for a very intriguing meatball sub*
 
 **Source:** https://www.manusmenu.com/polpette-di-sarde-alla-siciliana-sicilian-sardine-patties
 
