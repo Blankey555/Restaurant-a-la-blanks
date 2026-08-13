@@ -26,7 +26,7 @@ VAULT = Path("/Users/alexblankenberg/Documents/Blanks' Restaurant")
 RECIPES = VAULT / "Recipes"
 TAXONOMY_CSV = VAULT / "recipe_vault_taxonomy.csv"
 OLLAMA_URL = "http://localhost:11434"
-MODEL = "llama3.1:latest"
+MODEL = "gpt-oss:20b"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
 REQUIRED_FIELDS = ["tags", "difficulty"]  # always required
