@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, dessert, cheesecake, baked, party]
+tags: [american, north-american, dessert, cheesecake, baked, party, make-ahead, homebrew]
 cook_time: 30 mins plus 10 to 15 mins cooling
 yield: 1 cake (10-inch springform)
 difficulty: medium
@@ -14,7 +14,7 @@ setup:
   - Preheat oven to 350°F
   - Butter a 10-inch springform pan
 steps:
-  op: "top the cake with Mixture 2"
+  op: "top the cake with Mixture 2; set in the refrigerator overnight"
   of:
     - op: "cool 10 to 15 minutes"
       of:
@@ -42,7 +42,7 @@ steps:
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 350°F</td></tr>
   <tr><td class="rg-setup" colspan="6">Butter a 10-inch springform pan</td></tr>
-  <tr><td class="rg-ing">1 cup graham cracker crumbs</td><td rowspan="2" class="rg-op">combine for the crust</td><td rowspan="2" class="rg-op">line the buttered pan</td><td rowspan="6" class="rg-op">pour into pan; bake 30 minutes, until firm</td><td rowspan="6" class="rg-op">cool 10 to 15 minutes</td><td rowspan="9" class="rg-op">top the cake with Mixture 2</td></tr>
+  <tr><td class="rg-ing">1 cup graham cracker crumbs</td><td rowspan="2" class="rg-op">combine for the crust</td><td rowspan="2" class="rg-op">line the buttered pan</td><td rowspan="6" class="rg-op">pour into pan; bake 30 minutes, until firm</td><td rowspan="6" class="rg-op">cool 10 to 15 minutes</td><td rowspan="9" class="rg-op">top the cake with Mixture 2; set in the refrigerator overnight</td></tr>
   <tr><td class="rg-ing">3 to 4 tbs butter</td></tr>
   <tr><td colspan="2" class="rg-ing">1 1/2 lbs cream cheese</td><td rowspan="4" class="rg-op">Mixture 1: mix at high speed for 15 minutes</td></tr>
   <tr><td colspan="2" class="rg-ing">4 eggs</td></tr>
@@ -79,10 +79,11 @@ steps:
 5. Cool for 10 to 15 minutes.
 6. Mix Mixture 2 until smooth.
 7. Top the cake with Mixture 2.
+8. Let the cake set in the refrigerator overnight.
 
 **Makes:** 1 cake.
 
 ## Notes
 
-- Transcribed from the handwritten card exactly. The card ends at topping with Mixture 2; many sour cream-topped cheesecakes return to the oven briefly after topping, but the card does not say to.
+- Transcribed from the handwritten card; the overnight refrigerator set is family knowledge not written on the card.
 - The fifteen minutes of high-speed mixing is as written on the card.
