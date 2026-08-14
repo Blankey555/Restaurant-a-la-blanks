@@ -87,7 +87,7 @@ steps:
 
 A great base to play around with; this cheesecake can adopt the properties of a wide variety of desserts including cakes, pies, and pastries.
 
-- Phyllo dough crust (see [[Gluten-Free Phyllo Dough]])
+- Phyllo dough crust (usually storebought; there is an experimental gluten-free variety at [[Gluten-Free Phyllo Dough]])
 - Phyllo dough crust with an individual baklava layer underneath (the filling from [[Pakhlava (Armenian Layered Walnut Pastry)]])
 - Optional (recommended): add key lime juice to taste to Mixture 1 for rounder flavor and tang
 - Optional: add any fruit compote when serving
