@@ -4,7 +4,6 @@ total_time: 20 mins
 yield: 4 servings
 difficulty: easy
 ---
-
 **Source:** https://cooking.nytimes.com/recipes/785873526-heirloom-tomatoes-with-fish-sauce-vinaigrette?unlocked_article_code=1.41A.uoQn.PtCp8r3Ej334
 
 ## At a Glance
