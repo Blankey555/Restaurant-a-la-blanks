@@ -82,3 +82,4 @@ Whisk together and rest overnight as above. Start conservatively with the Worces
 - Keeps sealed in the fridge for about a week.
 - Cultured crema (Salvadoreña style) adds a tang that complements tamarind rather than fighting it.
 - Other tamarind substitutes in order of preference: pomegranate molasses, lime juice with brown sugar, amchur (dried mango powder).
+- The crema base can be homemade: [[Crema Mexicana (Mexican Table Cream)]].
