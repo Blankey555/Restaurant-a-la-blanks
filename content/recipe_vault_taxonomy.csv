@@ -125,6 +125,7 @@ tag,vegan,dietary,Contains no animal products,Apply only when the recipe qualifi
 tag,vegetarian,dietary,Contains no meat or seafood,Apply only when the recipe qualifies as written
 tag,gluten-free,dietary,Contains no gluten as written,Apply only when the recipe qualifies as written
 tag,gf-adaptable,dietary,Has written gluten-free substitutions,Apply when the recipe includes an explicit gluten-free substitution section or note
+tag,vegan-adaptable,dietary,Has written vegan substitutions,Apply when the recipe includes an explicit vegan substitution section or note
 tag,grilled,method,Grilled,Apply based on primary cooking method
 tag,baked,method,Baked or roasted,Apply based on primary cooking method
 tag,fried,method,Deep or pan fried,Apply based on primary cooking method
