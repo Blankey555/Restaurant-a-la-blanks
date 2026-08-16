@@ -26,6 +26,7 @@ tag,chinese,cuisine,Chinese cuisine,Apply based on dish origin or dominant techn
 tag,korean,cuisine,Korean cuisine,Apply based on dish origin or dominant technique
 tag,japanese,cuisine,Japanese cuisine,Apply based on dish origin or dominant technique
 tag,lebanese,cuisine,Lebanese cuisine,Apply based on dish origin or dominant technique
+tag,palestinian,cuisine,Palestinian cuisine,Apply based on dish origin or dominant technique. Derives middle-eastern region.
 tag,armenian,cuisine,Armenian cuisine,Apply based on dish origin or dominant technique
 tag,turkish,cuisine,Turkish cuisine,Apply based on dish origin or dominant technique
 tag,thai,cuisine,Thai cuisine,Apply based on dish origin or dominant technique
@@ -67,6 +68,7 @@ tag,oaxacan,sub-region,Oaxacan (Mexican),Stacks with mexican + latin-american
 tag,soup,classification,Dish format: soup,Apply to soups regardless of category
 tag,salad,classification,Dish format: salad,Apply to salads and slaws
 tag,pasta,classification,Dish format: pasta or noodles,Apply to pasta and noodle dishes
+tag,rice,classification,Dish format: rice dish,"Apply to rice-centered dishes: maqluba, fried rice, pilafs"
 tag,pizza,classification,Dish format: pizza,Apply to pizzas and crusts
 tag,wrap,classification,Dish format: wrap or leaf-wrapped bite,Apply to wraps and wrapped bites
 tag,burrito,classification,Dish format: burrito,Apply to burritos

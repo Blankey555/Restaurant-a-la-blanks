@@ -6,7 +6,6 @@ total_time: 35 mins
 yield: 12 servings
 difficulty: easy
 ---
-
 **Source:** https://www.smalltownwoman.com/quick-creamy-crab-stuffed-mushrooms/
 
 ## At a Glance
