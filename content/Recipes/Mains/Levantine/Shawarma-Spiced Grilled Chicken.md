@@ -76,3 +76,4 @@ steps:
 
 - The chicken can be marinated up to 24 hours ahead.
 - Leftover chicken packs well into a wrap with cucumbers, tomatoes, lettuce, and extra tahini-yogurt sauce.
+- The vegetable counterpart: [[Cauliflower Shawarma With Spicy Tahini]].
