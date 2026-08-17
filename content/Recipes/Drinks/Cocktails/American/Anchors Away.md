@@ -9,6 +9,31 @@ difficulty: easy
 
 **Source:** https://www.foodandwine.com/anchors-away-cocktail-8637069
 
+## At a Glance
+
+%%recipe-grid-spec
+steps:
+  op: "strain into an ice-filled highball; top with 1/3 cup club soda; garnish with cucumber ribbons"
+  of:
+    - op: "shake vigorously with ice until well chilled"
+      of:
+        - op: "muddle in the shaker"
+          of:
+            - "3 Persian cucumber slices, 1/4 inch thick"
+        - "1.5 oz vodka + 1 tbsp fresh lime juice"
+        - op: "steep tea in 170°F water 3 min; strain; dissolve sugar 1 min; cool 20 min (use 2.5 tbsp, keep the rest)"
+          of:
+            - "1/3 cup water + 1/4 cup loose-leaf jasmine tea"
+            - 1/4 cup granulated sugar
+%%
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">3 Persian cucumber slices, 1/4 inch thick</td><td class="rg-op">muddle in the shaker</td><td rowspan="4" class="rg-op">shake vigorously with ice until well chilled</td><td rowspan="4" class="rg-op">strain into an ice-filled highball; top with 1/3 cup club soda; garnish with cucumber ribbons</td></tr>
+  <tr><td colspan="2" class="rg-ing">1.5 oz vodka + 1 tbsp fresh lime juice</td></tr>
+  <tr><td class="rg-ing">1/3 cup water + 1/4 cup loose-leaf jasmine tea</td><td rowspan="2" class="rg-op">steep tea in 170°F water 3 min; strain; dissolve sugar 1 min; cool 20 min (use 2.5 tbsp, keep the rest)</td></tr>
+  <tr><td class="rg-ing">1/4 cup granulated sugar</td></tr>
+</table>
+
 ## Ingredients
 
 - 1/3 cup water

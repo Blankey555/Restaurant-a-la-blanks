@@ -215,6 +215,79 @@ def _ollama_request(system, user):
     return out.strip() + "\n"
 
 
+# ---------------------------------------------------------------- lint
+# Deterministic fixes for the local model's recurring mistakes. Runs on the
+# generated markdown before validation; prints what it changed.
+
+REGION_MAP = {
+    "french": ["european"], "british": ["european"],
+    "italian": ["european", "mediterranean"], "spanish": ["european", "mediterranean"],
+    "greek": ["european", "mediterranean"],
+    "chinese": ["east-asian"], "korean": ["east-asian"], "japanese": ["east-asian"],
+    "thai": ["southeast-asian"], "vietnamese": ["southeast-asian"], "filipino": ["southeast-asian"],
+    "indian": ["south-asian"],
+    "lebanese": ["middle-eastern", "mediterranean"], "turkish": ["middle-eastern", "mediterranean"],
+    "armenian": ["middle-eastern"], "palestinian": ["middle-eastern"], "levantine": ["middle-eastern"],
+    "mexican": ["latin-american"], "cuban": ["latin-american"], "peruvian": ["latin-american"],
+    "american": ["north-american"], "new-american": ["north-american"],
+}
+
+MEAT_RE = re.compile(r"\b(chicken|beef|pork|lamb|turkey|duck|bacon|sausage|chorizo|prosciutto|"
+                     r"anchov\w*|fish sauce|shrimp|crab|sardine|salmon|gelatin|worcestershire)\b", re.I)
+ANIMAL_RE = re.compile(MEAT_RE.pattern + r"|\b(milk|cream|butter|cheese|yogurt|egg|honey|mayonnaise|mayo|crema)\b", re.I)
+GLUTEN_RE = re.compile(r"\b(flour|pasta|macaroni|noodle|vermicelli|orzo|bread|panko|breadcrumb\w*|"
+                       r"phyllo|filo|pita|baguette|bun|cracker|barley|wheat|soy sauce|hoisin|beer|lager)\b", re.I)
+BOOZE_RE = re.compile(r"\b(bourbon|whiskey|whisky|vodka|gin|rum|tequila|mezcal|aperol|amaro|campari|"
+                      r"vermouth|liqueur|wine|beer|lager|brandy|cognac|pisco|sherry|sake|absinthe|"
+                      r"prosecco|champagne|aquavit|triple sec)\b", re.I)
+
+TAG_ALIASES = {"gluten-free-adaptable": "gf-adaptable", "main-course": "main", "side-dish": "side"}
+TAG_DROPS = {"easy", "medium", "hard", "quick", "delicious"}
+
+
+def lint_md(md):
+    """Auto-repair tags against the ingredient text; return (md, messages)."""
+    msgs = []
+    m = re.search(r"^tags: \[([^\]]*)\]$", md, re.MULTILINE)
+    if not m:
+        return md, msgs
+    tags = [t.strip() for t in m.group(1).split(",") if t.strip()]
+    body = md[m.end():]
+
+    fixed = []
+    for t in tags:
+        if t in TAG_ALIASES:
+            msgs.append(f"lint: renamed tag {t} -> {TAG_ALIASES[t]}")
+            t = TAG_ALIASES[t]
+        if t in TAG_DROPS:
+            msgs.append(f"lint: dropped junk tag {t}")
+            continue
+        fixed.append(t)
+    tags = fixed
+
+    def strip_if(tag, pattern, why):
+        if tag in tags and pattern.search(body):
+            tags.remove(tag)
+            hit = pattern.search(body).group(0)
+            msgs.append(f"lint: removed {tag} (ingredients mention {hit!r}; {why})")
+
+    strip_if("vegan", ANIMAL_RE, "animal product present")
+    strip_if("vegetarian", MEAT_RE, "meat or fish present")
+    strip_if("gluten-free", GLUTEN_RE, "gluten source present")
+    strip_if("non-alcoholic", BOOZE_RE, "spirit present")
+
+    for cuisine, regions in REGION_MAP.items():
+        if cuisine in tags:
+            for r in regions:
+                if r not in tags:
+                    tags.insert(tags.index(cuisine) + 1, r)
+                    msgs.append(f"lint: added derived region {r} for {cuisine}")
+
+    new_line = "tags: [" + ", ".join(dict.fromkeys(tags)) + "]"
+    md = md[:m.start()] + new_line + md[m.end():]
+    return md, msgs
+
+
 # ---------------------------------------------------------------- validation
 
 def split_frontmatter(md):
@@ -417,6 +490,9 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes, want_grid=False):
     user += "\n--- RECIPE CONTENT ---\n" + content[:12000]
 
     md = ollama_chat(system_prompt, user)
+    md, lint_msgs = lint_md(md)
+    for msg in lint_msgs:
+        print(f"  {msg}")
     errors, fm = validate(md, allowed_tags, source_url)
     if errors:
         print("  validation failed, retrying once with errors appended:")
@@ -427,6 +503,9 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes, want_grid=False):
                       + "\n".join(f"- {e}" for e in errors)
                       + "\nRegenerate the complete corrected file.")
         md = ollama_chat(system_prompt, retry_user)
+        md, lint_msgs = lint_md(md)
+        for msg in lint_msgs:
+            print(f"  {msg}")
         errors, fm = validate(md, allowed_tags, source_url)
         if errors:
             print("\nVALIDATION FAILED AFTER RETRY. Raw output below; nothing written.\n")
