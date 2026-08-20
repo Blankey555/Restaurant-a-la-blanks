@@ -13,7 +13,7 @@ prep_time: 24 hrs
 cook_time: 1 hr
 difficulty: hard
 ---
-*A refined version of the classic roast, utilizing a beer can spit for even airflow and a double-scald technique for maximum skin crispness.*
+*A refined version of the classic roast, utilizing a vertical can spit for even airflow and a double-scald technique for maximum skin crispness.*
 
 ## At a Glance
 
@@ -37,7 +37,7 @@ steps:
                     - 1 tbsp Shaoxing wine
                     - "2 tsp five spice powder, divided (1 tsp in glaze, 1 tsp into spit)"
                     - "2 tsp salt, divided (1 tsp in glaze, 1 tsp into spit)"
-            - 1 half-full can of beer (or water) in a stainless steel vertical spit
+            - 1 can, half-filled, in a stainless steel vertical spit (the can is for form; fill with the scalding mixture and spices rather than beer)
     - op: "toast in a dry pan over medium heat 30 to 45 seconds per side; peel pairs apart while warm, keep covered"
       of:
         - op: "roll into a log, cut into 20 discs; oil, stack in pairs, roll into thin 6-inch circles"
@@ -62,7 +62,7 @@ steps:
   <tr><td class="rg-ing">1 tbsp Shaoxing wine</td></tr>
   <tr><td class="rg-ing">2 tsp five spice powder, divided (1 tsp in glaze, 1 tsp into spit)</td></tr>
   <tr><td class="rg-ing">2 tsp salt, divided (1 tsp in glaze, 1 tsp into spit)</td></tr>
-  <tr><td colspan="3" class="rg-ing">1 half-full can of beer (or water) in a stainless steel vertical spit</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 can, half-filled, in a stainless steel vertical spit (the can is for form; fill with the scalding mixture and spices rather than beer)</td></tr>
   <tr><td class="rg-ing">2 cups all-purpose flour</td><td rowspan="4" class="rg-op">stir until a dough forms</td><td rowspan="4" class="rg-op">knead 5 minutes, cover and rest 30 minutes</td><td rowspan="4" class="rg-op">roll into a log, cut into 20 discs; oil, stack in pairs, roll into thin 6-inch circles</td><td rowspan="4" class="rg-op">toast in a dry pan over medium heat 30 to 45 seconds per side; peel pairs apart while warm, keep covered</td></tr>
   <tr><td class="rg-ing">1 pinch salt</td></tr>
   <tr><td class="rg-ing">3/4 cup boiling water</td></tr>
@@ -100,7 +100,7 @@ steps:
 1. **Pump Inflation:** Slip pump into cavity by neck and inflate like balloon. Continue slipping and inflating until skin is loose all around. 
 2. **Initial Scald:** Remove excess fat from the cavity. Pour a kettle of boiling water over the entire bird to tighten the skin. Pat completely dry. Let rest mounted or hanging for 30 minutes. 
 3. **Glaze Scald:** Combine honey, vinegar, wine, 1 tsp five spice, and 1 tsp salt in a pan. Bring to a boil. Pour this boiling glaze over the duck to scald it a second time.
-4. **Set the Spit:** Place 1 tsp five spice and 1 tsp salt directly into the center of the beer can spit. Mount the duck onto the stainless steel spit.
+4. **Set the Spit:** The can provides the vertical form; it does not need to hold beer. Half-fill it with the scalding mixture, then add 1 tsp five spice and 1 tsp salt directly into the can. Mount the duck onto the stainless steel spit.
 5. **Air Dry:** Place the mounted duck in the refrigerator, uncovered, for at least 24 hours. The vertical position and air circulation are critical for drying the skin. 
 6. **Ready:** Skin should be tacky and completely dry to touch.
 
