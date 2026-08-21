@@ -52,3 +52,51 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  stubs:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout root-domain redirect repo
+        uses: actions/checkout@v4
+        with:
+          repository: Blankey555/blankey555.github.io
+          ssh-key: ${{ secrets.ROOT_SITE_DEPLOY_KEY }}
+
+      - name: Regenerate redirect stubs from the live site index
+        run: |
+          sleep 90  # let the Pages CDN pick up the fresh deploy
+          python3 - <<'PYEOF'
+          import json, urllib.request, pathlib, html, shutil
+          BASE = "/Restaurant-a-la-blanks"
+          idx = json.load(urllib.request.urlopen(
+              "https://blankey555.github.io/Restaurant-a-la-blanks/static/contentIndex.json"))
+          for d in pathlib.Path(".").iterdir():
+              if d.is_dir() and d.name != ".git":
+                  shutil.rmtree(d)
+          for slug in idx:
+              if slug == "index":
+                  continue
+              if slug.endswith("/index"):
+                  clean = slug[: -len("/index")]
+                  target, out = f"{BASE}/{clean}/", pathlib.Path(clean) / "index.html"
+              else:
+                  target, out = f"{BASE}/{slug}", pathlib.Path(slug) / "index.html"
+              out.parent.mkdir(parents=True, exist_ok=True)
+              t = html.escape(target, quote=True)
+              out.write_text(
+                  f'<!DOCTYPE html><html><head><meta charset="utf-8">'
+                  f'<meta http-equiv="refresh" content="0;url={t}">'
+                  f'<link rel="canonical" href="https://blankey555.github.io{t}">'
+                  f'<title>Redirecting</title></head>'
+                  f'<body><a href="{t}">Continue to Blanks\' Restaurant</a></body></html>',
+                  encoding="utf-8")
+          print("stubs written:", len(idx))
+          PYEOF
+
+      - name: Push if changed
+        run: |
+          git config user.name "stub-regen"
+          git config user.email "blankey555@gmail.com"
+          git add -A
+          git diff --cached --quiet && echo "no changes" || (git commit -m "Regenerate redirect stubs" && git push)
