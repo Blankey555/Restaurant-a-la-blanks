@@ -6,7 +6,6 @@ total_time: 30 mins
 yield: 4 servings
 difficulty: medium
 ---
-
 **Source:** https://veganfeastkitchen.blogspot.com/2006/07/buddhas-roast-duck-with-yuba.html?m=1
 
 ## At a Glance
