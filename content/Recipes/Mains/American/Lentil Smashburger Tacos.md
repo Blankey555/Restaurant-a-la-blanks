@@ -2,7 +2,6 @@
 tags: [american, north-american, burger, vegan, vegetarian, make-ahead]
 difficulty: easy
 ---
-
 **Source:** tappedinwellness (Instagram)
 
 ## At a Glance
@@ -40,7 +39,7 @@ steps:
 %%
 
 <table class="recipe-grid">
-  <tr><td colspan="3" class="rg-ing">1 can lentils, drained and rinsed</td><td rowspan="7" class="rg-op">mash together to form a patty mix that holds shape</td><td rowspan="8" class="rg-op">cook patty-side down on the tortilla 3 to 5 min, optionally weighted; flip, add cheese, and steam to melt</td><td rowspan="14" class="rg-op">assemble in a tortilla with the burger sauce and toppings of choice</td></tr>
+  <tr><td colspan="3" class="rg-ing">1 can lentils, drained and rinsed</td><td rowspan="7" class="rg-op">mash together to form a patty mix that holds shape</td><td rowspan="8" class="rg-op">cook patty-side down on the tortilla 3 to 5 min, optionally weighted; flip, add cheese if desired, and steam to melt</td><td rowspan="14" class="rg-op">assemble in a tortilla with the burger sauce and toppings of choice</td></tr>
   <tr><td class="rg-ing">1/2 onion</td><td rowspan="3" class="rg-op">pulse in a food processor until roughly chopped and evenly sized</td><td rowspan="3" class="rg-op">saute until most moisture cooks out (salt optional to draw out more water)</td></tr>
   <tr><td class="rg-ing">1/4 red bell pepper</td></tr>
   <tr><td class="rg-ing">4 to 5 white mushrooms</td></tr>
@@ -92,5 +91,4 @@ steps:
 ## Notes
 
 - Cheese is called for when flipping the patty but isn't listed with a quantity or type in the original recipe; use whatever melts well for you, or omit to keep it vegan.
-- The oats are specified gluten-free; use gluten-free tortillas as well if that matters to you, since tortillas aren't addressed in the original.
-- As written (without cheese), this is vegan.
+- The oats are specified gluten-free; use gluten-free tortillas as well if that matters to you, since tortillas aren't addressed in the original recipe

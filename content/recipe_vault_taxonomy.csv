@@ -65,11 +65,13 @@ tag,cajun-creole,sub-region,Cajun and Creole,Stacks with american + north-americ
 tag,tex-mex,sub-region,Tex-Mex,Stacks with american + north-american
 tag,roman,sub-region,Roman (Italian),Stacks with italian + european + mediterranean
 tag,provencal,sub-region,Provençal (French),Stacks with french + european
+tag,birria,sub-region,Birria style (Mexican),Stacks with mexican + latin-american
 tag,oaxacan,sub-region,Oaxacan (Mexican),Stacks with mexican + latin-american
 tag,soup,classification,Dish format: soup,Apply to soups regardless of category
 tag,salad,classification,Dish format: salad,Apply to salads and slaws
 tag,pasta,classification,Dish format: pasta or noodles,Apply to pasta and noodle dishes
 tag,curry,classification,Dish format: curry,Apply to curries and gravied dishes such as butter chicken
+tag,dumpling,classification,Dish format: dumpling,Apply to dumplings and filled wrapped bites
 tag,rice,classification,Dish format: rice dish,"Apply to rice-centered dishes: maqluba, fried rice, pilafs"
 tag,pizza,classification,Dish format: pizza,Apply to pizzas and crusts
 tag,wrap,classification,Dish format: wrap or leaf-wrapped bite,Apply to wraps and wrapped bites
