@@ -1,9 +1,6 @@
 ---
-tags: [italian, fusion, european, bread, cheese, beef, fried, party, make-ahead, freezer-friendly]
-prep_time: 20 mins
-cook_time: 15 mins
-total_time: 2 hours 15 mins
-yield: 8 servings
+tags: [italian, fusion, european, cheese, beef, fried, party, untested]
+yield: 8 croquettes
 difficulty: medium
 ---
 
@@ -68,5 +65,5 @@ steps:
 
 ## Notes
 
-- Can be made 1 to 2 days ahead and stored in the fridge.
-- Freezes well, wrapped tightly, for up to 2 months.
+- The source gives no times. Budget about 1 hour 40 minutes of resting (1 hour rise, 10 minutes after dividing, 30 minutes after filling) on top of the active work.
+- Not really Italian beyond the parmesan; it is a German-style yeast dough (type 550 flour, emmentaler) with a panko crust. Filed here as the closest existing folder.

@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, fusion, chicken, sausage, stir-fry, party, comfort-food]
+tags: [american, north-american, fusion, chicken, sausage, stir-fry, comfort-food, untested]
 prep_time: 20 mins
 cook_time: 35 mins
 total_time: 55 mins
@@ -21,20 +21,16 @@ steps:
       of:
         - "1 lb ground hot Italian sausage"
         - "1 tbsp neutral oil, as needed"
-    - op: "cook the chicken until done, about 7 min total; remove"
+    - op: "sear the chicken 4 min, flip, 3 min more; push aside, add the butter and garlic, toss through until fragrant and the chicken reaches 165°F; remove"
       of:
-        - "1 lb boneless skinless chicken, diced"
-        - "1 tbsp neutral oil, as needed"
-    - op: "caramelize the onions about 5 min"
-      of:
-        - "1 large yellow onion, thinly sliced"
-        - "1 tbsp butter"
-    - op: "cook the garlic until fragrant, about 1 min"
-      of:
-        - "2 garlic cloves, minced"
-        - "1 tbsp butter"
+        - "1 lb boneless skinless chicken, diced, marinated"
+        - "1 tbsp butter + 2 garlic cloves, minced"
     - op: "cook the cabbage until tender with caramelized edges, 10 to 12 min"
       of:
+        - op: "brown the onions about 5 min; add the butter and garlic, cook until fragrant"
+          of:
+            - "1 large yellow onion, thinly sliced + pinch of salt + a little neutral oil"
+            - "1 tbsp butter + 2 garlic cloves, minced"
         - "1 large head green cabbage, chopped"
     - op: "warm to make the chili oil sauce"
       of:
@@ -44,19 +40,17 @@ steps:
 %%
 
 <table class="recipe-grid">
-  <tr><td class="rg-setup" colspan="3">marinate the chicken in 3 tbsp ponzu, 1 tbsp soy sauce, 1 tbsp sesame oil for 15 to 20 minutes</td></tr>
-  <tr><td class="rg-ing">1 lb ground hot Italian sausage</td><td rowspan="2" class="rg-op">brown the sausage; transfer to a paper towel-lined plate</td><td rowspan="12" class="rg-op">combine the chicken and sausage with the caramelized cabbage and onions; toss with the chili oil sauce; taste and adjust; serve topped with cilantro, green onions, peanuts, and more chili crunch</td></tr>
-  <tr><td class="rg-ing">1 tbsp neutral oil, as needed</td></tr>
-  <tr><td class="rg-ing">1 lb boneless skinless chicken, diced</td><td rowspan="2" class="rg-op">cook the chicken until done, about 7 min total; remove</td></tr>
-  <tr><td class="rg-ing">1 tbsp neutral oil, as needed</td></tr>
-  <tr><td class="rg-ing">1 large yellow onion, thinly sliced</td><td rowspan="2" class="rg-op">caramelize the onions about 5 min</td></tr>
-  <tr><td class="rg-ing">1 tbsp butter</td></tr>
-  <tr><td class="rg-ing">2 garlic cloves, minced</td><td rowspan="2" class="rg-op">cook the garlic until fragrant, about 1 min</td></tr>
-  <tr><td class="rg-ing">1 tbsp butter</td></tr>
-  <tr><td class="rg-ing">1 large head green cabbage, chopped</td><td class="rg-op">cook the cabbage until tender with caramelized edges, 10 to 12 min</td></tr>
-  <tr><td class="rg-ing">1/4 cup ponzu sauce + 2 tbsp soy sauce</td><td rowspan="3" class="rg-op">warm to make the chili oil sauce</td></tr>
-  <tr><td class="rg-ing">2 to 3 tbsp chili crunch or chili oil</td></tr>
-  <tr><td class="rg-ing">2 tsp toasted sesame oil + 1 tbsp brown sugar</td></tr>
+  <tr><td class="rg-setup" colspan="4">marinate the chicken in 3 tbsp ponzu, 1 tbsp soy sauce, 1 tbsp sesame oil for 15 to 20 minutes</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 lb ground hot Italian sausage</td><td rowspan="2" class="rg-op">brown the sausage; transfer to a paper towel-lined plate</td><td rowspan="10" class="rg-op">combine the chicken and sausage with the caramelized cabbage and onions; toss with the chili oil sauce; taste and adjust; serve topped with cilantro, green onions, peanuts, and more chili crunch</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp neutral oil, as needed</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 lb boneless skinless chicken, diced, marinated</td><td rowspan="2" class="rg-op">sear the chicken 4 min, flip, 3 min more; push aside, add the butter and garlic, toss through until fragrant and the chicken reaches 165°F; remove</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 tbsp butter + 2 garlic cloves, minced</td></tr>
+  <tr><td class="rg-ing">1 large yellow onion, thinly sliced + pinch of salt + a little neutral oil</td><td rowspan="2" class="rg-op">brown the onions about 5 min; add the butter and garlic, cook until fragrant</td><td rowspan="3" class="rg-op">cook the cabbage until tender with caramelized edges, 10 to 12 min</td></tr>
+  <tr><td class="rg-ing">1 tbsp butter + 2 garlic cloves, minced</td></tr>
+  <tr><td colspan="2" class="rg-ing">1 large head green cabbage, chopped</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/4 cup ponzu sauce + 2 tbsp soy sauce</td><td rowspan="3" class="rg-op">warm to make the chili oil sauce</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 to 3 tbsp chili crunch or chili oil</td></tr>
+  <tr><td colspan="2" class="rg-ing">2 tsp toasted sesame oil + 1 tbsp brown sugar</td></tr>
 </table>
 
 ## Ingredients
@@ -73,6 +67,7 @@ steps:
 - 2 tablespoons butter, divided
 - 4 garlic cloves, minced or pressed
 - 6 oz wonton wraps, like Dynasty or Nasoya brand (optional, for noodles)
+- Squeeze of fresh lime juice (optional, for the noodles)
 - 1/4 cup ponzu sauce
 - 2 tablespoons low-sodium soy sauce, plus more to taste
 - 2 to 3 tablespoons chili crunch or chili oil, plus more for serving
@@ -97,3 +92,4 @@ steps:
 ## Notes
 
 - Optional wonton noodles turn this into more of a noodle bowl; leave them out for a lower-carb skillet dish.
+- Keeps 3 to 4 days refrigerated in an airtight container.

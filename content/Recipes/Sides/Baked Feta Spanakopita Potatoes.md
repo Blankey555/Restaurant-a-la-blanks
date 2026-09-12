@@ -1,9 +1,6 @@
 ---
-tags: [greek, mediterranean, european, side, vegetarian, gluten-free, make-ahead, freezer-friendly]
-prep_time: 20 mins
-cook_time: 40 mins
-total_time: 1 hour 20 mins
-yield: 8 servings
+tags: [greek, mediterranean, european, side, vegetarian, gluten-free, baked, untested]
+yield: 4 servings
 difficulty: easy
 ---
 
@@ -65,5 +62,5 @@ steps:
 
 ## Notes
 
-- Can be made 1 to 2 days ahead.
-- Keeps well in the freezer for up to 3 months.
+- Spanakopita flavors without the phyllo, so it is naturally gluten-free.
+- The source gives no times; the potatoes bake 40 minutes and the spinach cooks alongside.

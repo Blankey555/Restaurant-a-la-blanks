@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, side, gluten-free, make-ahead]
+tags: [american, north-american, side, gluten-free, make-ahead, untested]
 prep_time: 10 mins
 cook_time: 20 mins
 total_time: 30 mins
@@ -66,4 +66,5 @@ steps:
 
 ## Notes
 
+- Make ahead a day in advance and reheat gently on the stove or in the microwave, loosening with a splash of milk or broth if it thickens. For a potluck, reheat in a slow cooker on warm.
 - Instant Pot version: cook the potatoes and cauliflower with 2 cups broth on high pressure for 10 minutes, then natural-release 5 minutes followed by a quick release, while roasting the garlic under the broiler as above. Lift the vegetables out with a slotted spoon rather than draining, so you can use the broth in place of milk or butter for a dairy-free version.
