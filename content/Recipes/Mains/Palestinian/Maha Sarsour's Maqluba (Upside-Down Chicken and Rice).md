@@ -1,6 +1,7 @@
 ---
-tags: [palestinian, middle-eastern, rice, chicken, braised, fried, party]
-yield: 8 servings
+tags: [palestinian, middle-eastern, rice, chicken, braised, fried, party, untested]
+total_time: 1 hour 45 mins
+yield: 6 to 8 servings
 difficulty: medium
 ---
 

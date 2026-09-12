@@ -1,12 +1,5 @@
 ---
-tags:
-  - experimental
-  - armenian
-  - middle-eastern
-  - bread
-  - gluten-free
-  - vegetarian
-  - untested
+tags: [experimental, armenian, middle-eastern, bread, gluten-free, vegetarian, untested]
 prep_time: 45 min
 difficulty: hard
 ---

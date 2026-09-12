@@ -1,14 +1,5 @@
 ---
-tags:
-  - korean
-  - east-asian
-  - sauce
-  - condiment
-  - spicy
-  - vegan
-  - vegetarian
-  - make-ahead
-  - refined
+tags: [korean, east-asian, sauce, condiment, spicy, vegan, vegetarian, make-ahead, refined]
 prep_time: 5 minutes
 total_time: 5 minutes
 yield: 4 servings

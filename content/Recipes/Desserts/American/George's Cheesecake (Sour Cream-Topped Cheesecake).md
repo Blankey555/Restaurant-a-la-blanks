@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, dessert, cheesecake, baked, party, make-ahead, homebrew]
+tags: [american, north-american, cheesecake, baked, party, make-ahead, homebrew, untested]
 cook_time: 30 mins plus 10 to 15 mins cooling
 yield: 1 cake (10-inch springform)
 difficulty: medium

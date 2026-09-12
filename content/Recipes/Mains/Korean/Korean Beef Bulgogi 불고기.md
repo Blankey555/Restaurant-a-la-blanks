@@ -1,12 +1,5 @@
 ---
-tags:
-  - korean
-  - east-asian
-  - bbq
-  - beef
-  - make-ahead
-  - freezer-friendly
-  - refined
+tags: [korean, east-asian, bbq, beef, make-ahead, freezer-friendly, refined]
 prep_time: 15 minutes plus 2 hours to overnight marinating
 cook_time: 15 minutes
 yield: 6 servings

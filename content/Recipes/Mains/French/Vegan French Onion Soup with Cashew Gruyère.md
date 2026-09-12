@@ -1,5 +1,5 @@
 ---
-tags: [french, american, fusion, european, north-american, soup, vegan, vegetarian, main, comfort-food, make-ahead]
+tags: [french, american, fusion, european, north-american, soup, vegan, vegetarian, comfort-food, make-ahead, untested]
 prep_time: 15 mins
 cook_time: 105 mins
 total_time: 120 mins
@@ -28,7 +28,7 @@ steps:
                 - 2 tbsp flour
             - 1 cup dry red wine
         - 6 cups vegetable broth
-        - 3 tbsp pure maple syrup
+        - 1 tbsp pure maple syrup
         - 1 tbsp soy sauce
         - 1 sprig rosemary
         - 1 bay leaf
@@ -50,7 +50,7 @@ steps:
   <tr><td colspan="2" class="rg-ing">2 tbsp flour</td></tr>
   <tr><td colspan="3" class="rg-ing">1 cup dry red wine</td></tr>
   <tr><td colspan="4" class="rg-ing">6 cups vegetable broth</td></tr>
-  <tr><td colspan="4" class="rg-ing">3 tbsp pure maple syrup</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 tbsp pure maple syrup</td></tr>
   <tr><td colspan="4" class="rg-ing">1 tbsp soy sauce</td></tr>
   <tr><td colspan="4" class="rg-ing">1 sprig rosemary</td></tr>
   <tr><td colspan="4" class="rg-ing">1 bay leaf</td></tr>
@@ -72,7 +72,7 @@ steps:
 - 2 tbsp flour
 - 6 cups vegetable broth
 - 1 cup dry red wine
-- 3 tbsp pure maple syrup
+- 1 tbsp pure maple syrup
 - 1 tbsp soy sauce
 - 1 sprig rosemary
 - 1 bay leaf
@@ -98,5 +98,4 @@ steps:
 
 ## Notes
 
-- Improves as it sits. Can be made 1 to 2 days ahead.
-- Keeps in the fridge for 3 to 4 days.
+- Keeps in the fridge for up to five days.

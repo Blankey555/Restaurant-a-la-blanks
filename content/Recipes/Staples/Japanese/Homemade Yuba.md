@@ -1,9 +1,5 @@
 ---
-tags: [japanese, east-asian, ingredient, vegan, gluten-free]
-prep_time: 25 mins
-cook_time: 25 mins
-total_time: 50 mins
-yield: 8 servings
+tags: [japanese, east-asian, ingredient, vegan, vegetarian, gluten-free, untested]
 difficulty: medium
 ---
 
@@ -48,6 +44,7 @@ steps:
 
 ## Notes
 
+- Budget about 25 minutes per sheet; the source gives no total time or yield, and warns that hours of work produce only a sandwich bag's worth.
 - The double-boiler set-up is not necessary, but it makes the process even more hands-off.
 - Yuba doesn't have a long shelf life; consume within a few days.
 - Fresh sheets made this way are the starting point for [[Buddha's Roast Duck with Yuba]].

@@ -1,13 +1,5 @@
 ---
-tags:
-  - thai
-  - southeast-asian
-  - egg
-  - appetizer
-  - marinade
-  - make-ahead
-  - homebrew
-  - refined
+tags: [thai, southeast-asian, egg, make-ahead, homebrew, refined]
 prep_time: 15 mins
 cook_time: 7 mins
 total_time: 25 mins plus 4 hours to overnight marinating

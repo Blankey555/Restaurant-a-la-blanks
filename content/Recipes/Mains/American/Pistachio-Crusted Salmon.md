@@ -1,13 +1,5 @@
 ---
-tags:
-  - new-american
-  - north-american
-  - salmon
-  - baked
-  - air-fryer
-  - gluten-free
-  - weeknight
-  - untested
+tags: [new-american, north-american, salmon, baked, air-fryer, gluten-free, weeknight, untested]
 prep_time: 10 mins
 cook_time: 15 mins
 total_time: 25 mins

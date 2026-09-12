@@ -1,19 +1,5 @@
 ---
-tags:
-  - american
-  - north-american
-  - ingredient
-  - wrap
-  - egg
-  - cheese
-  - breakfast
-  - vegetarian
-  - gluten-free
-  - fried
-  - meal-prep
-  - weeknight
-  - fitness-food
-  - untested
+tags: [american, north-american, ingredient, wrap, egg, cheese, breakfast, vegetarian, gluten-free, fried, meal-prep, weeknight, fitness-food, untested]
 total_time: 15 minutes
 yield: 2 wraps
 difficulty: easy

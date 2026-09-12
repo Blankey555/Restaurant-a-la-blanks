@@ -1,13 +1,5 @@
 ---
-tags:
-  - spanish
-  - european
-  - mediterranean
-  - soup
-  - vegetarian
-  - no-cook
-  - make-ahead
-  - untested
+tags: [spanish, european, mediterranean, soup, no-cook, make-ahead, untested]
 total_time: 8 hours (includes chilling)
 difficulty: easy
 ---
@@ -79,3 +71,4 @@ steps:
 3. Let stand in the refrigerator for at least 8 hours to allow the flavors to develop.
 
 > **Recipe Note:** The original recipe calls for 1 small jar of green olives, but they are excluded here as they can overpower the flavor of the fresh vegetables.
+- Worcestershire sauce usually contains anchovies, so this is not vegetarian as written; use a vegan Worcestershire to make it so.

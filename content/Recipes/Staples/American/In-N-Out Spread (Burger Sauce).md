@@ -1,7 +1,5 @@
 ---
-tags: [american, north-american, sauce, condiment, no-cook, make-ahead]
-prep_time: 5 mins
-yield: about 3/4 cup, enough for 8 burgers
+tags: [american, north-american, sauce, condiment, no-cook, untested]
 difficulty: easy
 ---
 
@@ -52,5 +50,5 @@ steps:
 
 ## Notes
 
-- Use about 1 1/2 tablespoons per burger; the batch dresses about 8.
+- Use about 1 1/2 tablespoons per burger; the source dresses 4 burgers with it.
 - The home of this spread is the [[In-N-Out Burger Double-Double Hack]].

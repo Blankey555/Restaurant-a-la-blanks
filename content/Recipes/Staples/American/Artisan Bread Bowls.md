@@ -1,13 +1,5 @@
 ---
-tags:
-  - american
-  - north-american
-  - bread
-  - side
-  - baked
-  - project
-  - make-ahead
-  - refined
+tags: [american, north-american, bread, side, baked, project, make-ahead, refined]
 prep_time: 20 mins
 cook_time: 22 to 28 mins
 total_time: 7 hrs 30 mins

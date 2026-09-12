@@ -1,15 +1,5 @@
 ---
-tags:
-  - armenian
-  - middle-eastern
-  - dessert
-  - pastry
-  - baked
-  - party
-  - make-ahead
-  - project
-  - homebrew
-  - mastered
+tags: [armenian, middle-eastern, pastry, baked, party, make-ahead, project, homebrew, mastered]
 cook_time: 1 hour 15 mins
 yield: 20 to 25 servings
 difficulty: medium

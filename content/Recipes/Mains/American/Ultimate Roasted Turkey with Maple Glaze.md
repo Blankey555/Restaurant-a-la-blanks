@@ -1,13 +1,5 @@
 ---
-tags:
-  - american
-  - north-american
-  - roast
-  - baked
-  - holiday
-  - project
-  - mastered
-  - homebrew
+tags: [american, north-american, roast, baked, holiday, project, mastered, homebrew]
 prep_time: 3 days
 difficulty: hard
 ---

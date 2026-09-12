@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, fusion, chicken, sausage, stir-fry, comfort-food, untested]
+tags: [american, north-american, fusion, chicken, sausage, stir-fry, comfort-food, untested, spicy]
 prep_time: 20 mins
 cook_time: 35 mins
 total_time: 55 mins

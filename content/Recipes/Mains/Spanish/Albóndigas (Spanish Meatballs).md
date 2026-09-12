@@ -1,9 +1,9 @@
 ---
-tags: [spanish, european, mediterranean, main, meatballs, braise, party, make-ahead]
+tags: [spanish, european, mediterranean, meatballs, braise, party, make-ahead, untested]
 prep_time: 20 mins
 cook_time: 45 mins
 total_time: 65 mins
-yield: 6 servings
+yield: 6 as a tapa, 4 as a main
 difficulty: medium
 ---
 
@@ -85,7 +85,5 @@ steps:
 
 ## Notes
 
-- Improves as it sits. Can be made 1 to 2 days ahead.
-- Keeps in the fridge for 3 to 4 days.
 - Running an immersion blender through the sauce before adding the meatballs makes the texture more velvety
 - As with most sauces and soups, you can keep boiling it down and adding new non-water liquids like stock or tomato juice to create a deeper flavor profile

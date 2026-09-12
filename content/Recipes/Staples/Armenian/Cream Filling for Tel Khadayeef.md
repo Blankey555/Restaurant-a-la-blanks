@@ -1,12 +1,5 @@
 ---
-tags:
-  - armenian
-  - middle-eastern
-  - ingredient
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - tested
+tags: [armenian, middle-eastern, ingredient, vegetarian, gluten-free, make-ahead, tested]
 cook_time: 10 mins
 difficulty: easy
 ---

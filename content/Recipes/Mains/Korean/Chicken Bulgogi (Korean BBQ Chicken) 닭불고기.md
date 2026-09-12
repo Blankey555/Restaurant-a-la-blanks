@@ -1,13 +1,5 @@
 ---
-tags:
-  - korean
-  - east-asian
-  - bbq
-  - broiled
-  - chicken
-  - spicy
-  - weeknight
-  - refined
+tags: [korean, east-asian, bbq, broiled, chicken, spicy, weeknight, refined]
 prep_time: 10 minutes plus 10 to 30 minutes marinating
 cook_time: 10 minutes
 yield: 3 servings
@@ -65,7 +57,7 @@ steps:
 - 1 to 2 tbsp light brown sugar
 - 1 tbsp garlic, minced
 - 1 tsp ginger paste (or freshly grated ginger)
-- 1 tbsp Korean corn syrup (mulyeot) — see notes for substitutes
+- 1 tbsp Korean corn syrup (mulyeot), see notes for substitutes
 - 1 tbsp sweet rice wine (mirim), optional
 - 1 tbsp sesame oil
 - ½ tsp black pepper

@@ -1,13 +1,5 @@
 ---
-tags:
-  - cuban
-  - latin-american
-  - roast
-  - slow-roast
-  - pork
-  - project
-  - party
-  - untested
+tags: [cuban, latin-american, roast, slow-roast, pork, project, party, untested]
 prep_time: 30 mins
 cook_time: 6 to 7 hours
 total_time: overnight marinade plus 6 to 7 hours

@@ -1,15 +1,5 @@
 ---
-tags:
-  - american
-  - north-american
-  - potato
-  - vegetarian
-  - gluten-free
-  - holiday
-  - comfort-food
-  - make-ahead
-  - homebrew
-  - refined
+tags: [american, north-american, potato, vegetarian, gluten-free, holiday, comfort-food, make-ahead, homebrew, refined]
 prep_time: 20 mins
 cook_time: 40 mins
 total_time: 60 mins

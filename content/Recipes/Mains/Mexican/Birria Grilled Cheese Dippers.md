@@ -1,5 +1,5 @@
 ---
-tags: [mexican, birria, american, fusion, latin-american, north-american, sandwich, beef, cheese]
+tags: [mexican, birria, american, fusion, latin-american, north-american, sandwich, beef, cheese, untested]
 cook_time: about 1 hour 20 mins to 1 hour 35 mins
 yield: 2 sandwiches (4 dippers)
 difficulty: medium

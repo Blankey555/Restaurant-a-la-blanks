@@ -1,7 +1,6 @@
 ---
-tags: [french, european, american, north-american, main, party, comfort-food, make-ahead]
+tags: [french, european, american, north-american, party, comfort-food, untested]
 prep_time: 15 mins
-cook_time: 30 mins
 total_time: 45 mins
 yield: 4 servings
 difficulty: medium
@@ -102,5 +101,3 @@ steps:
 
 ## Notes
 
-- Fries can be made ahead and reheated.
-- Sauce improves as it sits; refrigerate for up to 1 day before serving.

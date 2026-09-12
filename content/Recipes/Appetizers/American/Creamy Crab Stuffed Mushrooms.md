@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, appetizer, main, seafood, party, comfort-food, homebrew]
+tags: [american, north-american, main, seafood, party, comfort-food, homebrew, untested]
 prep_time: 15 mins
 cook_time: 20 mins
 total_time: 35 mins

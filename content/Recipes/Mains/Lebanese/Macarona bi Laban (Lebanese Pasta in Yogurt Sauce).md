@@ -1,13 +1,5 @@
 ---
-tags:
-  - lebanese
-  - middle-eastern
-  - mediterranean
-  - pasta
-  - vegetarian
-  - comfort-food
-  - weeknight
-  - untested
+tags: [lebanese, middle-eastern, mediterranean, pasta, vegetarian, comfort-food, weeknight, untested]
 total_time: 30 mins
 yield: 4 servings
 difficulty: easy

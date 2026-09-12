@@ -1,5 +1,5 @@
 ---
-tags: [greek, mediterranean, european, side, vegetarian, gluten-free, baked, untested]
+tags: [greek, mediterranean, european, vegetarian, gluten-free, baked, untested]
 yield: 4 servings
 difficulty: easy
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [chinese, sichuan, east-asian, vegan, vegetarian, baked]
+tags: [chinese, sichuan, east-asian, vegan, vegetarian, baked, spicy, untested]
 total_time: about 1 hour 10 mins
 yield: 3 to 4 servings
 difficulty: medium

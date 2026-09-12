@@ -1,5 +1,7 @@
 ---
-tags: [thai, vietnamese, fusion, southeast-asian, salad, appetizer, gluten-free, no-cook, weeknight]
+tags: [thai, vietnamese, fusion, southeast-asian, salad, gluten-free, no-cook, weeknight, untested]
+prep_time: 15 mins
+cook_time: 5 mins
 total_time: 20 mins
 yield: 4 servings
 difficulty: easy

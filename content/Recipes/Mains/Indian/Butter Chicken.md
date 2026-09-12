@@ -1,8 +1,6 @@
 ---
-tags: [indian, south-asian, curry, braised, chicken, gluten-free]
-prep_time: 30 mins plus up to 1 day marinating
-cook_time: 1 hour 45 mins
-total_time: 2 hours 15 mins
+tags: [indian, south-asian, curry, braised, chicken, gluten-free, untested]
+total_time: 1 hour 15 mins plus marinating
 yield: 6 servings
 difficulty: medium
 ---

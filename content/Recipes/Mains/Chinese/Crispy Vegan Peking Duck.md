@@ -1,9 +1,9 @@
 ---
-tags: [chinese, east-asian, fusion, vegan, gluten-free, party, make-ahead]
+tags: [chinese, east-asian, fusion, vegan, vegetarian, party, untested]
 prep_time: 15 mins
-cook_time: 10 to 12 mins
+cook_time: 10 mins
 total_time: 30 mins
-yield: 2 servings
+yield: 2 to 3 servings
 difficulty: medium
 ---
 

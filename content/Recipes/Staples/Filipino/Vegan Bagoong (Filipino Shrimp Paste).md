@@ -1,9 +1,9 @@
 ---
-tags: [filipino, southeast-asian, condiment, sauce, vegan, gluten-free, make-ahead]
+tags: [filipino, southeast-asian, condiment, sauce, vegan, vegetarian, make-ahead, untested]
 prep_time: 5 mins
 cook_time: 16 mins
 total_time: 21 mins
-yield: 1 serving
+yield: 1 cup
 difficulty: easy
 ---
 
@@ -74,4 +74,5 @@ steps:
 
 ## Notes
 
-- Improves with age. Can be stored in the fridge for up to 6 weeks as long as the jar has been sterilized, and you always take some out using a clean, dry metal spoon.
+- Not reliably gluten-free: Shaoxing wine usually contains wheat, and the tamari can be swapped for regular soy sauce.
+- Can be stored in the fridge for up to 6 weeks as long as the jar has been sterilized, and you always take some out using a clean, dry metal spoon.

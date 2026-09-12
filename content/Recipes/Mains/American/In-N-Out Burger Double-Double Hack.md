@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, burger, main, party, comfort-food, make-ahead]
+tags: [american, north-american, burger, party, comfort-food, untested]
 prep_time: 18 mins
 cook_time: 2 mins
 total_time: 20 mins

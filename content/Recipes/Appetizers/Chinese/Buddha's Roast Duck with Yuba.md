@@ -1,8 +1,5 @@
 ---
-tags: [chinese, east-asian, appetizer, vegan, vegetarian, party, make-ahead]
-prep_time: 10 mins
-cook_time: 20 mins
-total_time: 30 mins
+tags: [chinese, east-asian, vegan, vegetarian, party, untested]
 yield: 4 servings
 difficulty: medium
 ---

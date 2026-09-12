@@ -1,13 +1,5 @@
 ---
-tags:
-  - italian
-  - european
-  - mediterranean
-  - seafood
-  - fishcakes
-  - appetizer
-  - experimental
-  - mastered
+tags: [italian, european, mediterranean, seafood, fishcakes, appetizer, experimental, mastered]
 difficulty: easy
 ---
 

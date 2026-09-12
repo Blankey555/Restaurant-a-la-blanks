@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, sour, cocktail-hour]
+tags: [american, north-american, sour, cocktail-hour, untested]
 prep_time: 3 mins
 total_time: 3 mins
 yield: 1 serving
@@ -43,5 +43,5 @@ steps:
 
 ## Notes
 
-- The Paper Plane is a simple variation on the classic Last Word.
-- It may be the best bourbon drink you may not have tried yet.
+- Sam Ross's 2008 equal-parts variation on the Last Word, built for The Violet Hour in Chicago.
+- Ross uses a slightly higher-proof bourbon (43 to 46% ABV) for body, and warns not to overshake: cold, not watery.

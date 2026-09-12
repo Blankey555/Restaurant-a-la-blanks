@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, side, gluten-free, make-ahead, untested]
+tags: [american, north-american, gluten-free, make-ahead, untested]
 prep_time: 10 mins
 cook_time: 20 mins
 total_time: 30 mins

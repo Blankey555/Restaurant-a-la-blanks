@@ -1,5 +1,5 @@
 ---
-tags: [levantine, middle-eastern, grilled, chicken, gluten-free, make-ahead]
+tags: [levantine, middle-eastern, grilled, chicken, gluten-free, make-ahead, untested]
 prep_time: 15 mins plus 3 to 24 hours marinating
 cook_time: 12 to 16 mins
 yield: 6 servings

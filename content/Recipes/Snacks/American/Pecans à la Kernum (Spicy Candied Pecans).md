@@ -1,15 +1,5 @@
 ---
-tags:
-  - american
-  - southern-us
-  - north-american
-  - candied-nuts
-  - baked
-  - spicy
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - untested
+tags: [american, southern-us, north-american, candied-nuts, baked, spicy, vegetarian, gluten-free, make-ahead, untested]
 cook_time: 30 to 40 minutes
 difficulty: easy
 ---

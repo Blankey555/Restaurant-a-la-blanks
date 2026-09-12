@@ -1,10 +1,5 @@
 ---
-tags:
-  - american
-  - louisiana
-  - north-american
-  - cocktail-hour
-  - untested
+tags: [american, louisiana, north-american, cocktail-hour, untested]
 difficulty: easy
 ---
 A cognac-forward Sazerac with a toasted coconut garnish. The absinthe rinse and Peychaud's keep it classical while the coconut adds a subtle tropical note on the nose.*

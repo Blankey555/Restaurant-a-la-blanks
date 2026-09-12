@@ -1,8 +1,6 @@
 ---
-tags: [levantine, middle-eastern, baked, vegan, vegetarian]
-prep_time: 15 mins
-cook_time: 30 to 40 mins
-total_time: 45 to 55 mins
+tags: [levantine, middle-eastern, baked, vegan, vegetarian, untested]
+total_time: 45 mins
 yield: 2 servings
 difficulty: easy
 ---

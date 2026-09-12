@@ -1,12 +1,5 @@
 ---
-tags:
-  - chinese
-  - east-asian
-  - stir-fry
-  - pork
-  - chicken
-  - weeknight
-  - tested
+tags: [chinese, east-asian, stir-fry, pork, chicken, weeknight, tested]
 prep_time: 5 mins
 cook_time: 15 mins
 total_time: 20 mins

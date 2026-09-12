@@ -1,13 +1,5 @@
 ---
-tags:
-  - armenian
-  - middle-eastern
-  - dessert
-  - pastry
-  - baked
-  - party
-  - make-ahead
-  - mastered
+tags: [armenian, middle-eastern, pastry, baked, party, make-ahead, mastered]
 cook_time: 20 mins
 yield: about 30 long pastries
 difficulty: medium

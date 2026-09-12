@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, ingredient, gluten-free]
+tags: [american, north-american, ingredient, gluten-free, untested]
 total_time: 5 mins
 yield: 1 cup
 difficulty: easy

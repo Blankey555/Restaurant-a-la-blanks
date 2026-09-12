@@ -1,10 +1,5 @@
 ---
-tags:
-  - french
-  - european
-  - salmon
-  - cheat-day
-  - untested
+tags: [french, european, salmon, cheat-day, untested]
 prep_time: 1 hour
 total_time: 2 hours
 yield: 2 servings

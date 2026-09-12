@@ -1,15 +1,5 @@
 ---
-tags:
-  - american
-  - tex-mex
-  - north-american
-  - burrito
-  - fried
-  - beef
-  - cheese
-  - meal-prep
-  - fitness-food
-  - refined
+tags: [american, tex-mex, north-american, burrito, fried, beef, cheese, meal-prep, fitness-food, refined]
 yield: 6 burritos
 difficulty: medium
 calories: 645 per burrito

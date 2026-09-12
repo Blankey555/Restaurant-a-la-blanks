@@ -1,5 +1,5 @@
 ---
-tags: [mexican, latin-american, ingredient, condiment, vegetarian, gluten-free, make-ahead]
+tags: [mexican, latin-american, ingredient, condiment, vegetarian, gluten-free, make-ahead, untested]
 prep_time: 5 mins
 total_time: 4 to 6 hours, mostly resting
 yield: 2 servings

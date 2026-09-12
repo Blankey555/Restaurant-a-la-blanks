@@ -1,15 +1,5 @@
 ---
-tags:
-  - italian
-  - sicilian
-  - european
-  - mediterranean
-  - seafood
-  - main
-  - comfort-food
-  - make-ahead
-  - mastered
-  - homebrew
+tags: [italian, sicilian, european, mediterranean, seafood, comfort-food, make-ahead, mastered, homebrew]
 prep_time: 30 mins
 cook_time: 10 mins
 total_time: 40 mins

@@ -1,11 +1,5 @@
 ---
-tags:
-  - chinese
-  - east-asian
-  - braised
-  - beef
-  - make-ahead
-  - mastered
+tags: [chinese, east-asian, braised, beef, make-ahead, mastered]
 cook_time: 5 to 7 hours
 yield: 4 servings
 difficulty: easy

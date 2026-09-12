@@ -1,15 +1,5 @@
 ---
-tags:
-  - chinese
-  - cantonese
-  - east-asian
-  - roast
-  - baked
-  - pork
-  - cheat-day
-  - make-ahead
-  - freezer-friendly
-  - tested
+tags: [chinese, cantonese, east-asian, roast, baked, pork, cheat-day, make-ahead, freezer-friendly, tested]
 prep_time: 10 minutes plus 8 hours to overnight marinating
 cook_time: 50 minutes
 yield: 8 servings

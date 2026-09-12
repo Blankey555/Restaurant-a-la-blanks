@@ -1,17 +1,8 @@
 ---
-tags:
-  - chinese
-  - east-asian
-  - main
-  - roast
-  - bbq
-  - party
-  - make-ahead
-  - meal-prep
-  - tested
+tags: [chinese, east-asian, roast, bbq, party, make-ahead, meal-prep, tested]
 prep_time: 30 mins
 cook_time: 35 mins
-total_time: 65 mins
+total_time: 65 mins plus 8 hours marinating
 yield: 8 servings
 difficulty: medium
 ---
@@ -103,6 +94,5 @@ steps:
 
 ## Notes
 
-- Improves as it sits. Can be made ahead.
 - Rest at room temperature for at least 5-10 minutes before cutting.
 - Serve thinly sliced alongside your favorite fried rice.

@@ -1,5 +1,5 @@
 ---
-tags: [american, north-american, sour, cocktail-hour]
+tags: [american, north-american, sour, cocktail-hour, untested]
 prep_time: 5 mins
 cook_time: 20 mins
 total_time: 25 mins
@@ -20,7 +20,7 @@ steps:
         - op: "muddle in the shaker"
           of:
             - "3 Persian cucumber slices, 1/4 inch thick"
-        - "1.5 oz vodka + 1 tbsp fresh lime juice"
+        - "1.5 oz vodka + 1/2 oz fresh lime juice"
         - op: "steep tea in 170°F water 3 min; strain; dissolve sugar 1 min; cool 20 min (use 2.5 tbsp, keep the rest)"
           of:
             - "1/3 cup water + 1/4 cup loose-leaf jasmine tea"
@@ -29,7 +29,7 @@ steps:
 
 <table class="recipe-grid">
   <tr><td class="rg-ing">3 Persian cucumber slices, 1/4 inch thick</td><td class="rg-op">muddle in the shaker</td><td rowspan="4" class="rg-op">shake vigorously with ice until well chilled</td><td rowspan="4" class="rg-op">strain into an ice-filled highball; top with 1/3 cup club soda; garnish with cucumber ribbons</td></tr>
-  <tr><td colspan="2" class="rg-ing">1.5 oz vodka + 1 tbsp fresh lime juice</td></tr>
+  <tr><td colspan="2" class="rg-ing">1.5 oz vodka + 1/2 oz fresh lime juice</td></tr>
   <tr><td class="rg-ing">1/3 cup water + 1/4 cup loose-leaf jasmine tea</td><td rowspan="2" class="rg-op">steep tea in 170°F water 3 min; strain; dissolve sugar 1 min; cool 20 min (use 2.5 tbsp, keep the rest)</td></tr>
   <tr><td class="rg-ing">1/4 cup granulated sugar</td></tr>
 </table>
@@ -41,8 +41,8 @@ steps:
 - 1/4 cup granulated sugar
 - 3 Persian cucumber slices (about 1/4 inch thick), plus cucumber ribbons for garnish
 - 1/2 ounce Jasmine Tea Syrup
-- (1 1/2 ounces) vodka (such as Absolut)
-- 1 tablespoon fresh lime juice
+- 1 1/2 ounces vodka (such as Absolut)
+- 1/2 ounce fresh lime juice
 - 1/3 cup club soda
 
 ## Instructions
@@ -64,4 +64,5 @@ steps:
 
 ## Notes
 
-- The tea syrup can be made ahead of time and stored in the refrigerator for up to 1 week.
+- The syrup batch makes far more than one drink; Food & Wine suggests the leftover over vanilla ice cream or pound cake, or in other cocktails.
+- The source is internally inconsistent: the ingredient list says 1/2 ounce syrup, the method says 2 1/2 tablespoons (1 1/4 ounces). Start at 1/2 ounce and adjust to taste.

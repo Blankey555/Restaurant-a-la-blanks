@@ -1,14 +1,5 @@
 ---
-tags:
-  - american
-  - north-american
-  - brine
-  - cocktail
-  - garnish
-  - vegan
-  - gluten-free
-  - weeknight
-  - refined
+tags: [american, north-american, brine, cocktail, garnish, vegan, vegetarian, gluten-free, weeknight, refined]
 prep_time: 5 mins
 cook_time: 5 mins
 total_time: 10 mins plus 4 hours to overnight

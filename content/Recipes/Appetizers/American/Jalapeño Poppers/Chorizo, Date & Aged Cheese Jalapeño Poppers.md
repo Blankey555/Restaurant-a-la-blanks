@@ -1,22 +1,5 @@
 ---
-tags:
-  - american
-  - tex-mex
-  - mexican
-  - fusion
-  - latin-american
-  - north-american
-  - poppers
-  - fried
-  - pork
-  - cheese
-  - appetizer
-  - party
-  - cheat-day
-  - make-ahead
-  - freezer-friendly
-  - homebrew
-  - tested
+tags: [american, tex-mex, mexican, fusion, latin-american, north-american, poppers, fried, pork, cheese, party, cheat-day, make-ahead, freezer-friendly, homebrew, tested]
 cook_time: 4 to 5 mins (fried) or 20 to 25 mins (baked)
 yield: 50 poppers
 difficulty: medium

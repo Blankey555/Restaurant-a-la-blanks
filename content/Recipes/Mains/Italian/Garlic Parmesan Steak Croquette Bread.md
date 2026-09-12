@@ -1,5 +1,5 @@
 ---
-tags: [italian, fusion, european, cheese, beef, fried, party, untested]
+tags: [italian, mediterranean, fusion, european, cheese, beef, fried, party, untested]
 yield: 8 croquettes
 difficulty: medium
 ---

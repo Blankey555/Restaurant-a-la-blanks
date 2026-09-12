@@ -1,7 +1,6 @@
 ---
-tags: [levantine, middle-eastern, sauce, condiment, no-cook, vegetarian, gluten-free, make-ahead]
-prep_time: 5 mins plus 30 mins chilling
-yield: about 1 1/4 cups
+tags: [levantine, middle-eastern, sauce, condiment, no-cook, vegetarian, gluten-free, make-ahead, untested]
+total_time: 30 mins chilling
 difficulty: easy
 ---
 

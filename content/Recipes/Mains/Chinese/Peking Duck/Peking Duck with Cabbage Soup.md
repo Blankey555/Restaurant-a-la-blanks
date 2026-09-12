@@ -1,10 +1,5 @@
 ---
-tags:
-  - chinese
-  - east-asian
-  - soup
-  - duck
-  - untested
+tags: [chinese, east-asian, soup, duck, untested]
 prep_time: 10 mins
 cook_time: 1 hr 15 mins
 yield: 4 to 6 servings

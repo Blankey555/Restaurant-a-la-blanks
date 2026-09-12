@@ -1,13 +1,29 @@
 ---
-tags: [american, north-american, mediterranean, salad, no-cook, weeknight]
+tags: [american, north-american, salad, vegetarian, gluten-free, no-cook, weeknight, untested]
 prep_time: 5 mins
-cook_time: 
 total_time: 5 mins
 yield: 4 servings
 difficulty: easy
 ---
 
 **Source:** https://www.corriecooks.com/cucumber-salad/
+
+## At a Glance
+
+%%recipe-grid-spec
+steps:
+  op: "combine in a bowl and stir; serve as a side or light meal"
+  of:
+    - "2 cucumbers, thinly sliced + 1/2 red onion, thinly sliced + 2 tbsp green onion, diced"
+    - "1 tsp sea salt + 1 tsp black pepper + 1 tsp dried garlic"
+    - "juice of 1/2 lime + 1/4 cup white vinegar + 1 tbsp honey"
+%%
+
+<table class="recipe-grid">
+  <tr><td class="rg-ing">2 cucumbers, thinly sliced + 1/2 red onion, thinly sliced + 2 tbsp green onion, diced</td><td rowspan="3" class="rg-op">combine in a bowl and stir; serve as a side or light meal</td></tr>
+  <tr><td class="rg-ing">1 tsp sea salt + 1 tsp black pepper + 1 tsp dried garlic</td></tr>
+  <tr><td class="rg-ing">juice of 1/2 lime + 1/4 cup white vinegar + 1 tbsp honey</td></tr>
+</table>
 
 ## Ingredients
 
@@ -30,3 +46,4 @@ difficulty: easy
 ## Notes
 
 - This salad is perfect for when you're short on time but still want something crisp and clean.
+- Keeps 1 to 2 days refrigerated.

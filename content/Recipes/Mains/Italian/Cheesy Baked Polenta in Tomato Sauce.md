@@ -1,8 +1,6 @@
 ---
-tags: [italian, european, mediterranean, casserole, main, baked, vegetarian, gluten-free, vegan-adaptable, comfort-food, make-ahead]
-prep_time: 15 mins
-cook_time: 30 mins
-total_time: 45 mins plus 1 hour chilling
+tags: [italian, european, mediterranean, casserole, baked, vegetarian, gluten-free, vegan-adaptable, comfort-food, make-ahead, untested]
+total_time: 1 hour 30 mins
 yield: 4 servings
 difficulty: medium
 ---
