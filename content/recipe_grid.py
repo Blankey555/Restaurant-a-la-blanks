@@ -113,6 +113,25 @@ LEGACY_RE = re.compile(
     re.DOTALL)
 
 
+class _StrictLoader(yaml.SafeLoader):
+    """safe_load silently keeps the last of duplicate mapping keys, so a spec
+    with two top-level `op:` entries under `steps` loses every step but one.
+    Refuse instead, so the model retries and hand-written specs fail loudly."""
+
+    def construct_mapping(self, node, deep=False):
+        keys = [self.construct_object(k, deep=deep) for k, _ in node.value]
+        dupes = sorted({k for k in keys if keys.count(k) > 1})
+        if dupes:
+            raise yaml.YAMLError(
+                f"duplicate mapping keys {dupes} at line {node.start_mark.line + 1}; "
+                "nest ops under a single 'op'/'of' tree instead of repeating keys")
+        return super().construct_mapping(node, deep=deep)
+
+
+def load_spec(text):
+    return yaml.load(text, Loader=_StrictLoader)
+
+
 def apply_to_file(path):
     p = Path(path)
     text = p.read_text(encoding="utf-8")
@@ -123,7 +142,7 @@ def apply_to_file(path):
         stored = True
     if not m:
         sys.exit("No ```recipe-grid fenced block or stored grid found in file.")
-    spec = yaml.safe_load(m.group(1))
+    spec = load_spec(m.group(1))
     table = spec_to_html(spec)
     replacement = "%%recipe-grid-spec\n" + m.group(1).rstrip() + "\n%%\n\n" + table
     new = text[:m.start()] + replacement + text[m.end():]
@@ -137,7 +156,7 @@ def main():
     ap.add_argument("--apply", help="markdown file containing a ```recipe-grid block or stored grid")
     args = ap.parse_args()
     if args.input:
-        print(spec_to_html(yaml.safe_load(Path(args.input).read_text(encoding="utf-8"))))
+        print(spec_to_html(load_spec(Path(args.input).read_text(encoding="utf-8"))))
     elif args.apply:
         apply_to_file(args.apply)
     else:

@@ -244,6 +244,18 @@ BOOZE_RE = re.compile(r"\b(bourbon|whiskey|whisky|vodka|gin|rum|tequila|mezcal|a
 TAG_ALIASES = {"gluten-free-adaptable": "gf-adaptable", "main-course": "main", "side-dish": "side"}
 TAG_DROPS = {"easy", "medium", "hard", "quick", "delicious"}
 
+# Storage claims the model copies from its few-shot example rather than the source.
+NOTE_BLEED_RE = re.compile(
+    r"improves as it sits|can be made (?:\d+ to )?\d+ days? ahead|"
+    r"keeps (?:in the fridge )?for \d+ to \d+ days|up to \d+ months|example\.com", re.I)
+# Occasion/dietary tags that need supporting text in the body.
+TAG_NEEDS_TEXT = [
+    ("make-ahead", r"ahead|advance|store|keeps|refrigerat|fridge|overnight", "no storage text"),
+    ("freezer-friendly", r"freez", "no freezer text"),
+    ("gf-adaptable", r"gluten", "no gluten-free substitution text"),
+    ("vegan-adaptable", r"vegan|plant-based|dairy-free", "no vegan substitution text"),
+]
+
 
 def lint_md(md):
     """Auto-repair tags against the ingredient text; return (md, messages)."""
@@ -276,6 +288,18 @@ def lint_md(md):
     strip_if("gluten-free", GLUTEN_RE, "gluten source present")
     strip_if("non-alcoholic", BOOZE_RE, "spirit present")
 
+    kept = []
+    for ln in body.splitlines():
+        if ln.lstrip().startswith("- ") and NOTE_BLEED_RE.search(ln):
+            msgs.append(f"lint: dropped boilerplate note {ln.strip()!r}")
+            continue
+        kept.append(ln)
+    body = "\n".join(kept)
+    for tag, pattern, why in TAG_NEEDS_TEXT:
+        if tag in tags and not re.search(pattern, body, re.I):
+            tags.remove(tag)
+            msgs.append(f"lint: removed {tag} ({why})")
+
     for cuisine, regions in REGION_MAP.items():
         if cuisine in tags:
             for r in regions:
@@ -284,8 +308,43 @@ def lint_md(md):
                     msgs.append(f"lint: added derived region {r} for {cuisine}")
 
     new_line = "tags: [" + ", ".join(dict.fromkeys(tags)) + "]"
-    md = md[:m.start()] + new_line + md[m.end():]
+    md = md[:m.start()] + new_line + body
     return md, msgs
+
+
+TIME_TOKEN_RE = re.compile(r"\d+\s*(?:min|hour|hr)|_TIME_MIN:", re.I)
+YIELD_TOKEN_RE = re.compile(r"\b(?:serves|servings?|yield|makes|portions?)\b", re.I)
+
+
+def lint_against_source(md, source):
+    """Drop frontmatter times and yield the source never stated. The model
+    invents plausible-looking values when a page gives none, and a wrong
+    number is worse than a missing one."""
+    msgs = []
+    fm_text, body = split_frontmatter(md)
+    if fm_text is None or not source:
+        return md, msgs
+    nums = set(re.findall(r"\d+(?:\.\d+)?", source))
+    for n in re.findall(r"_TIME_MIN:\s*(\d+)", source):  # recipe-scrapers gives minutes
+        n = int(n)
+        nums |= {str(n), str(n // 60), str(n % 60), str(n / 60).rstrip("0").rstrip(".")}
+    has_time = bool(TIME_TOKEN_RE.search(source))
+    has_yield = bool(YIELD_TOKEN_RE.search(source))
+    kept = []
+    for ln in fm_text.splitlines():
+        m = re.match(r"^(prep_time|cook_time|total_time|yield):\s*(.*)$", ln)
+        if m:
+            field, val = m.groups()
+            is_time = field != "yield"
+            if (is_time and not has_time) or (not is_time and not has_yield):
+                msgs.append(f"lint: dropped {field} {val!r} (source states no {'time' if is_time else 'yield'})")
+                continue
+            vnums = re.findall(r"\d+(?:\.\d+)?", val)
+            if vnums and not all(n in nums for n in vnums):
+                msgs.append(f"lint: dropped {field} {val!r} (numbers not in source)")
+                continue
+        kept.append(ln)
+    return "---\n" + "\n".join(kept) + "\n---\n" + body, msgs
 
 
 # ---------------------------------------------------------------- validation
@@ -463,7 +522,7 @@ def try_generate_grid(content, md):
                           user if extra is None or attempt == 0 else user)
         raw = re.sub(r"\A```(?:yaml)?\s*\n|\n```\s*\Z", "", raw.strip())
         try:
-            spec = yaml.safe_load(raw)
+            spec = recipe_grid.load_spec(raw)  # rejects duplicate keys
             if not isinstance(spec, dict):
                 raise ValueError("spec is not a mapping")
             table = recipe_grid.spec_to_html(spec)
@@ -514,6 +573,10 @@ def process_one(inp, system_prompt, allowed_tags, auto_yes, want_grid=False):
             for e in errors:
                 print(f"  - {e}")
             return False
+
+    md, src_msgs = lint_against_source(md, content)
+    for msg in src_msgs:
+        print(f"  {msg}")
 
     if want_grid:
         md = try_generate_grid(content, md)
