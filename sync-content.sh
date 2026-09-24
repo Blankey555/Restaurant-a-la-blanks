@@ -13,7 +13,7 @@ SITE="$(cd "$(dirname "$0")" && pwd)"
 
 # Anything listed here never reaches the public site.
 rsync -a --delete \
-  --exclude '.git/' --exclude '.gitignore' \
+  --exclude '.git/' --exclude '.gitignore' --exclude '/README.md' \
   --exclude '.obsidian/' --exclude '.claude/' \
   --exclude '__pycache__/' --exclude '.DS_Store' \
   --exclude 'Agony & Annihilation/' \
