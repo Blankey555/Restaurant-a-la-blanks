@@ -26,7 +26,8 @@ import sys
 from fractions import Fraction
 from pathlib import Path
 
-VAULT = Path("/Users/alexblankenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Blanks' Restaurant")
+import os
+VAULT = Path(os.environ.get("RECIPE_VAULT") or Path(__file__).resolve().parent)
 RECIPES = VAULT / "Recipes"
 LISTS_DIR = RECIPES / "private" / "Shopping Lists"
 MAX_DEPTH = 3

@@ -22,11 +22,15 @@ from pathlib import Path
 import requests
 import yaml
 
-VAULT = Path("/Users/alexblankenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Blanks' Restaurant")
+import os
+
+# The script lives in the vault root, so the vault is wherever this file is;
+# RECIPE_VAULT overrides that. Model and server are per-machine via env vars.
+VAULT = Path(os.environ.get("RECIPE_VAULT") or Path(__file__).resolve().parent)
 RECIPES = VAULT / "Recipes"
 TAXONOMY_CSV = VAULT / "recipe_vault_taxonomy.csv"
-OLLAMA_URL = "http://localhost:11434"
-MODEL = "qwen2.5:7b"
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")
+MODEL = os.environ.get("RECIPE_MODEL", "qwen2.5:7b")
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
 REQUIRED_FIELDS = ["tags", "difficulty"]  # always required
