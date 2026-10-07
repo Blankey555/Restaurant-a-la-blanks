@@ -26,7 +26,7 @@ import sys
 from fractions import Fraction
 from pathlib import Path
 
-VAULT = Path("/Users/alexblankenberg/Documents/Blanks' Restaurant")
+VAULT = Path("/Users/alexblankenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Blanks' Restaurant")
 RECIPES = VAULT / "Recipes"
 LISTS_DIR = RECIPES / "private" / "Shopping Lists"
 MAX_DEPTH = 3

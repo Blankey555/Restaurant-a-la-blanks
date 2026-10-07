@@ -33,6 +33,11 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Refuse evicted or conflicted vault files
+        run: |
+          bad=$(find content \( -name '*.icloud' -o -name '* 2.md' -o -iname '*conflict*' \) -not -path '*/.obsidian/*')
+          if [ -n "$bad" ]; then echo "$bad"; exit 1; fi
+
       - name: Build Quartz
         run: npx quartz build
 
