@@ -14,3 +14,4 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+publish.sh.backup-*
