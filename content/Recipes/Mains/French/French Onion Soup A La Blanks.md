@@ -7,7 +7,6 @@ yield: 4 servings
 difficulty: medium
 ---
 *A deeply savory French onion soup built on long-caramelized onions, beef stock, and brandy. The longer it simmers, the better it gets. Finished with crusty bread and Gruyère.*
-## At a Glance
 
 %%recipe-grid-spec
 steps:

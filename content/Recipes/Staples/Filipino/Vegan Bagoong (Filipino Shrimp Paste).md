@@ -9,7 +9,6 @@ difficulty: easy
 
 **Source:** https://cinnamonsnail.com/vegan-shrimp-paste-bagoong-recipe/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

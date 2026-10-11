@@ -3,7 +3,6 @@ tags: [spanish, european, mediterranean, soup, no-cook, make-ahead, untested]
 total_time: 8 hours (includes chilling)
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

@@ -7,7 +7,6 @@ yield: 8 to 10 servings
 difficulty: medium
 ---
 *A Cuban-adjacent slow-roasted pork butt marinated overnight in sofrito, citrus, and olive oil, studded with garlic, and roasted low and slow until falling apart. Serves a crowd.*
-## At a Glance
 
 %%recipe-grid-spec
 steps:

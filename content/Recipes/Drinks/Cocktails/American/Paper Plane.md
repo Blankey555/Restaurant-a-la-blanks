@@ -8,7 +8,6 @@ difficulty: easy
 
 **Source:** https://www.liquor.com/recipes/the-paper-plane/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

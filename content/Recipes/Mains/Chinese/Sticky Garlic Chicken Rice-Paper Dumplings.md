@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** craveflash (Instagram)
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

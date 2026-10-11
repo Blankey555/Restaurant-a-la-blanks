@@ -4,7 +4,6 @@ total_time: 5 minutes
 yield: 1 serving
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

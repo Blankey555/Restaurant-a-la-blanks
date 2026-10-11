@@ -5,7 +5,6 @@ cook_time: 40 minutes
 yield: 4 servings
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

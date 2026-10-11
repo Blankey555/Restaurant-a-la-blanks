@@ -5,7 +5,6 @@ difficulty: medium
 ---
 **Source:** https://veganfeastkitchen.blogspot.com/2006/07/buddhas-roast-duck-with-yuba.html?m=1
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

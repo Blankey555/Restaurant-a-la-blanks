@@ -7,7 +7,6 @@ difficulty: easy
 
 **Source:** https://www.jamesbeard.org/recipes/banana-bread
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

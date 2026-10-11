@@ -3,7 +3,6 @@ tags: [armenian, middle-eastern, ingredient, vegetarian, gluten-free, make-ahead
 cook_time: 10 mins
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

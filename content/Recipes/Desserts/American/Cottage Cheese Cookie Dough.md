@@ -6,7 +6,6 @@ difficulty: easy
 
 **Source:** @thesamplan on TikTok, via Delish (https://www.delish.com/food/a44590948/cottage-cheese-cookie-dough-tiktok/)
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

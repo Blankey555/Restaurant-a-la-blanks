@@ -8,7 +8,6 @@ difficulty: easy
 ---
 
 *Superfirm tofu shredded, baked dry, then marinated in a Korean bulgogi sauce and seared until crispy and caramelized. Works on a cast iron skillet, griddle, or grill.*
-## At a Glance
 
 %%recipe-grid-spec
 setup:

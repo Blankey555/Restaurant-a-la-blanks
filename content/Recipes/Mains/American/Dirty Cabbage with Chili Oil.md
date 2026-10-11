@@ -9,7 +9,6 @@ difficulty: easy
 
 **Source:** https://badbatchbaking.com/dirty-cabbage/
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

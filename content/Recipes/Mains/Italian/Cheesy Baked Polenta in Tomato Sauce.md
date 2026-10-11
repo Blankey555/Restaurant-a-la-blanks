@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** https://cooking.nytimes.com/recipes/1021955-cheesy-baked-polenta-in-tomato-sauce
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

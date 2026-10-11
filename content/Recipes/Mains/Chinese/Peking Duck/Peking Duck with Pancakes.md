@@ -6,7 +6,6 @@ difficulty: hard
 ---
 *A refined version of the classic roast, utilizing a vertical can spit for even airflow and a double-scald technique for maximum skin crispness.*
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

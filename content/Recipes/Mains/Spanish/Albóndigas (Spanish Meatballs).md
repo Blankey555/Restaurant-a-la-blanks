@@ -9,7 +9,6 @@ difficulty: medium
 
 **Source:** https://www.themediterraneandish.com/albondigas-spanish-meatballs/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

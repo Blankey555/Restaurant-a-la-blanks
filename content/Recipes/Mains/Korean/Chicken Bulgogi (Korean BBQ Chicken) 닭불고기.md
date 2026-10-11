@@ -6,7 +6,6 @@ yield: 3 servings
 difficulty: easy
 ---
 *Bold Korean BBQ chicken with a gochujang-based marinade. Broiled for caramelized edges and easy cleanup.*
-## At a Glance
 
 %%recipe-grid-spec
 setup:

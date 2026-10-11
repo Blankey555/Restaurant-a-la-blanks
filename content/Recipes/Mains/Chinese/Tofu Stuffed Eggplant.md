@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** dandumbrell (Instagram)
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -8,7 +8,6 @@ difficulty: medium
 
 **Source:** Family Armenian cookbook (Baneerov Pahtuvadz Khumoreghen), p. 6
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

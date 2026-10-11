@@ -8,7 +8,6 @@ difficulty: easy
 
 ---
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -8,7 +8,6 @@ difficulty: medium
 
 **Source:** Family Armenian cookbook (Derevi Patooyt Tsetov), p. 8
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

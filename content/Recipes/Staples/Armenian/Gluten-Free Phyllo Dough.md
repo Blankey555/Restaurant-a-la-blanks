@@ -5,7 +5,6 @@ difficulty: hard
 ---
 *A delicate, paper-thin pastry made without gluten. This recipe uses psyllium husk to provide the necessary elasticity for stretching the dough.*
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

@@ -8,7 +8,6 @@ difficulty: medium
 
 **Source:** Family Armenian cookbook (Gaghampi Patooyt Tsetov)
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

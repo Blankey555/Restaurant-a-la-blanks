@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** Handwritten family recipe card
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

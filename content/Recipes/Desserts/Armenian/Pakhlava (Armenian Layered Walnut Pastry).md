@@ -4,7 +4,6 @@ cook_time: 1 hour 15 mins
 yield: 20 to 25 servings
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 setup:

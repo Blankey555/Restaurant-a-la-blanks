@@ -7,7 +7,6 @@ difficulty: easy
 
 **Source:** https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -5,7 +5,6 @@ difficulty: medium
 
 **Source:** https://delicate-kitchen.com/2026/08/18/crunchy-sushi-burgers-2/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

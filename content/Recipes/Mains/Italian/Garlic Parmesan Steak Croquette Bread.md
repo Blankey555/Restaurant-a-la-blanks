@@ -6,7 +6,6 @@ difficulty: medium
 
 **Source:** https://delicate-kitchen.com/2026/02/08/garlic-parmesan-steak-croquette-bread/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

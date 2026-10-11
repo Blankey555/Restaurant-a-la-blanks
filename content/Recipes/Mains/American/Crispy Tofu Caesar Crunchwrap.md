@@ -5,7 +5,6 @@ difficulty: easy
 
 **Source:** plantbasedmace_ (Instagram)
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

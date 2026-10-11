@@ -9,7 +9,6 @@ difficulty: medium
 
 **Source:** Family Armenian cookbook (Tsgnaganchi Leetsk), p. 13
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

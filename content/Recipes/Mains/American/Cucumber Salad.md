@@ -8,7 +8,6 @@ difficulty: easy
 
 **Source:** https://www.corriecooks.com/cucumber-salad/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

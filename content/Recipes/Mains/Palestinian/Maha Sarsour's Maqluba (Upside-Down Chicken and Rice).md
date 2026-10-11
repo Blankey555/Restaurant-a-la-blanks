@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** https://cooking.nytimes.com/recipes/1018535-maha-sarsours-maqluba-upside-down-chicken-and-rice
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

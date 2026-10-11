@@ -8,7 +8,6 @@ difficulty: medium
 
 ---
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

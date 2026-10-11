@@ -9,7 +9,6 @@ difficulty: easy
 
 **Source:** https://www.foodnetwork.com/recipes/rachael-ray/butternut-squash-mac-and-cheese-recipe-1916479
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

@@ -8,7 +8,6 @@ difficulty: easy
 
 **Source:** https://wearychef.com/easy-homemade-crema-mexicana-recipe/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

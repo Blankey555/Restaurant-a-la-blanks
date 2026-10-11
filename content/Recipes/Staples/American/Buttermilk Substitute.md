@@ -7,7 +7,6 @@ difficulty: easy
 
 **Source:** https://tastesbetterfromscratch.com/how-to-make-buttermilk/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

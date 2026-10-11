@@ -4,7 +4,6 @@ prep_time: 24 hours salting plus a lime bath the morning of cooking
 difficulty: easy
 ---
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

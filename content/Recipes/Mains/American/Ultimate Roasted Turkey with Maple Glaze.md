@@ -8,7 +8,6 @@ difficulty: hard
 
 Source: Modified from some guy's substack that I lost access to
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

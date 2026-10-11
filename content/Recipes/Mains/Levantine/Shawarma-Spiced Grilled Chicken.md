@@ -8,7 +8,6 @@ difficulty: easy
 
 **Source:** https://cooking.nytimes.com/recipes/1025200-shawarma-spiced-grilled-chicken-with-tahini-yogurt-sauce
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

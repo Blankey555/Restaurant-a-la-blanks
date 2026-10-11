@@ -7,7 +7,6 @@ difficulty: medium
 
 **Source:** https://cooking.nytimes.com/recipes/1016754-butter-chicken
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

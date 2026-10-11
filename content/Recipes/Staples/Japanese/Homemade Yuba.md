@@ -5,7 +5,6 @@ difficulty: medium
 
 **Source:** https://www.bonappetit.com/people/out-of-the-kitchen/article/yuba-at-home
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

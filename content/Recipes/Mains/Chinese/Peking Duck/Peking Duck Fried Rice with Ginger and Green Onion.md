@@ -5,7 +5,6 @@ cook_time: 10 mins
 yield: 2 to 4 servings
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

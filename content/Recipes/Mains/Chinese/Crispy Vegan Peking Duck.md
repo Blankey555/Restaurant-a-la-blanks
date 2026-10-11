@@ -9,7 +9,6 @@ difficulty: medium
 
 **Source:** https://veggieanh.com/vegan-peking-duck/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

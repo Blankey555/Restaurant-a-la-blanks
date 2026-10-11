@@ -7,7 +7,6 @@ yield: 4 servings
 difficulty: medium
 ---
 *A Chinese-inflected French onion soup built on rendered duck fat, homemade duck stock, and Shaoxing wine. Five spice runs through the entire cook. Finished with crusty bread and Gruyère.*
-## At a Glance
 
 %%recipe-grid-spec
 setup:

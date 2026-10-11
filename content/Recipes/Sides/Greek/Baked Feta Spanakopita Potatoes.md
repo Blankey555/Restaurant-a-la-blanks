@@ -6,7 +6,6 @@ difficulty: easy
 
 **Source:** https://www.goodmoodfood.news/p/baked-feta-spanakopita-potatoes?mcp_token=eyJwaWQiOjg3MDc3MCwic2lkIjoxMzA2ODYxNDUwLCJheCI6IjA3ODZlNDNlNmFmMWY4MzRhMWI5OWVkYWVjMDdkOGMwIiwidHMiOjE3ODkwMDEzNzAsImV4cCI6MTc5MTQyMDU3MH0.AYRfEOZg9kn5vDV2qO5T_Zmgqcqbo-dMBKFPqwK3b8M
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

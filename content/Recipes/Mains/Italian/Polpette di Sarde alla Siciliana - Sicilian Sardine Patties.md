@@ -9,7 +9,6 @@ difficulty: medium
 
 **Source:** https://www.manusmenu.com/polpette-di-sarde-alla-siciliana-sicilian-sardine-patties
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

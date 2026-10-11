@@ -12,7 +12,6 @@ A truffle-infused bourbon cocktail with shiso, ume, and a cocoa-dusted rim. Dark
 
 ---
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

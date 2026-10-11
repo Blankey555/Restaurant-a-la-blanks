@@ -5,7 +5,6 @@ cook_time: 50 minutes
 yield: 8 servings
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -6,7 +6,6 @@ total_time: 2 to 3 days (components) plus 5 mins per cocktail
 yield: 1 cocktail (components yield approximately 8 to 10 cocktails)
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -8,7 +8,6 @@ difficulty: medium
 ---
 **Source:** https://shutterandmint.com/vegan-french-onion-soup-with-gruyere-cheese/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

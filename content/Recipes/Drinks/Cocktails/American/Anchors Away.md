@@ -9,7 +9,6 @@ difficulty: easy
 
 **Source:** https://www.foodandwine.com/anchors-away-cocktail-8637069
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

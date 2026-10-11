@@ -8,7 +8,6 @@ difficulty: easy
 ---
 **Source:** https://www.smalltownwoman.com/quick-creamy-crab-stuffed-mushrooms/
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

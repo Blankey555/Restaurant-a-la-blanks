@@ -3,7 +3,6 @@ tags: [turkish, middle-eastern, mediterranean, martini, digestif, dessertif, mas
 prep_time: 15 min
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

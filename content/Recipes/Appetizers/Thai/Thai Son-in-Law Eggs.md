@@ -8,7 +8,6 @@ difficulty: easy
 ---
 *A no-fry take on Kai Look Keuy. Soft-boiled eggs steeped in a sweet-sour tamarind marinade with fish sauce, palm sugar, and sesame oil. All you do is chop, combine, and marinate.*
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

@@ -8,7 +8,6 @@ difficulty: medium
 ---
 **Source:** https://thewoksoflife.com/chinese-boneless-spare-ribs/
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

@@ -7,7 +7,6 @@ yield: approximately 1.5 cups
 difficulty: easy
 ---
 *A sweet-sour dipping crema built on Mexican crema and tamarind. Pairs with fried jalapeño poppers and other fried foods.*
-## At a Glance
 
 %%recipe-grid-spec
 steps:

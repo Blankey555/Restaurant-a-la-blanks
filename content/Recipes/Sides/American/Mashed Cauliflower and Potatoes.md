@@ -9,7 +9,6 @@ difficulty: easy
 
 **Source:** https://gooddinnermom.com/mashed-cauliflower-and-potatoes/
 
-## At a Glance
 
 %%recipe-grid-spec
 setup:

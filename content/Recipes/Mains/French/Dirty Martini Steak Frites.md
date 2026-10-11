@@ -8,7 +8,6 @@ difficulty: medium
 
 **Source:** https://www.delish.com/cooking/recipe-ideas/a46457508/dirty-martini-steak-frites-recipe/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

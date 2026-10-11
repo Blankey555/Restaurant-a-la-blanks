@@ -5,7 +5,6 @@ difficulty: easy
 
 **Source:** https://topsecretrecipes.com/foodhackerblog/in-n-out-burger-double-double/
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

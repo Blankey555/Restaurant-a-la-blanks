@@ -4,7 +4,6 @@ cook_time: 20 mins
 yield: about 30 long pastries
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 setup:

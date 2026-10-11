@@ -4,7 +4,10 @@
 set -e
 VAULT="$(readlink content)"
 [ -d "$VAULT" ] || { echo "content symlink does not resolve: $VAULT"; exit 1; }
-bad=$(find "$VAULT" \( -name "*.icloud" -o -name "* 2.md" -o -name "* 2" -o -iname "*conflict*" \) -not -path "*/.obsidian/*" 2>/dev/null)
+if ! bad=$(find "$VAULT" \( -name "*.icloud" -o -name "* 2.md" -o -name "* 2" -o -iname "*conflict*" \)); then
+  echo "Refusing to publish: could not completely scan the vault." >&2
+  exit 1
+fi
 if [ -n "$bad" ]; then
   echo "Refusing to publish: iCloud placeholders or conflict copies in the vault:"
   echo "$bad" | sed 's/^/  /'

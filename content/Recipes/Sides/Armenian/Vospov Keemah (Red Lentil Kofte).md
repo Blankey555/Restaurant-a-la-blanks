@@ -3,7 +3,6 @@ tags: [armenian, middle-eastern, kofte, vegan, vegetarian, spicy, homebrew, mast
 cook_time: 1 hr
 difficulty: easy
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

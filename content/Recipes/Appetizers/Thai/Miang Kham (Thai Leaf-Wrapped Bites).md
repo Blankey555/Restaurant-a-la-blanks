@@ -4,7 +4,6 @@ prep_time: 45 min
 difficulty: medium
 ---
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

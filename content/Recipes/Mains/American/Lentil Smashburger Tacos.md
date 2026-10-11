@@ -4,7 +4,6 @@ difficulty: easy
 ---
 **Source:** tappedinwellness (Instagram)
 
-## At a Glance
 
 %%recipe-grid-spec
 steps:

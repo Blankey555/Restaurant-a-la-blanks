@@ -5,7 +5,6 @@ cook_time: 1 hour 20 minutes (block) to 2 hours 20 minutes (rolled)
 yield: 8 to 10 servings (rolled) or 3 to 4 (block)
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 steps:

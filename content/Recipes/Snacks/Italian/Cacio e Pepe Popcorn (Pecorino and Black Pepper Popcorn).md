@@ -6,7 +6,6 @@ difficulty: easy
 ---
 
 *All the flavors of the Roman pasta (sharp pecorino, aggressive black pepper, and a little butter) on stovetop popcorn.*
-## At a Glance
 
 %%recipe-grid-spec
 steps:

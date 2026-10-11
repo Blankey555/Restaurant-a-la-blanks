@@ -5,7 +5,6 @@ total_time: about 4 hours including rise
 yield: 14 meat pies
 difficulty: medium
 ---
-## At a Glance
 
 %%recipe-grid-spec
 setup:

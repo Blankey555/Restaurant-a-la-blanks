@@ -234,6 +234,9 @@ REGION_MAP = {
     "armenian": ["middle-eastern"], "palestinian": ["middle-eastern"], "levantine": ["middle-eastern"],
     "mexican": ["latin-american"], "cuban": ["latin-american"], "peruvian": ["latin-american"],
     "american": ["north-american"], "new-american": ["north-american"],
+    "persian": ["middle-eastern"], "yemeni": ["middle-eastern"], "israeli": ["middle-eastern", "mediterranean"],
+    "moroccan": ["african", "mediterranean"], "north-african": ["african", "mediterranean"], "nigerian": ["african"],
+    "swedish": ["european"], "argentine": ["latin-american"], "venezuelan": ["latin-american"],
 }
 
 MEAT_RE = re.compile(r"\b(chicken|beef|pork|lamb|turkey|duck|bacon|sausage|chorizo|prosciutto|"
