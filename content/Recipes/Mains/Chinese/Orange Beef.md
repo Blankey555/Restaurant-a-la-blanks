@@ -29,7 +29,7 @@ steps:
           of:
             - "1 egg white + 1 tbsp cornstarch + pinch kosher salt"
             - "1 to 1 1/2 lb boneless rib-eye, in 1-inch pieces"
-        - "1/4 cup neutral oil, smoking hot"
+        - "1/4 cup neutral oil, heated until nearly smoking"
         - "6 scallions, whites (1-inch pieces)"
         - "2 to 4 dried red chiles"
     - "scallion greens"
@@ -44,11 +44,13 @@ steps:
   <tr><td colspan="2" class="rg-ing">1/4 cup rice vinegar + 1/4 cup soy sauce + 1 tbsp fish sauce</td></tr>
   <tr><td class="rg-ing">1 egg white + 1 tbsp cornstarch + pinch kosher salt</td><td rowspan="2" class="rg-op">toss to coat</td><td rowspan="5" class="rg-op">sear undisturbed 60 to 90 sec; add scallion whites and chiles; flip and cook 3 min</td></tr>
   <tr><td class="rg-ing">1 to 1 1/2 lb boneless rib-eye, in 1-inch pieces</td></tr>
-  <tr><td colspan="2" class="rg-ing">1/4 cup neutral oil, smoking hot</td></tr>
+  <tr><td colspan="2" class="rg-ing">1/4 cup neutral oil, heated until nearly smoking</td></tr>
   <tr><td colspan="2" class="rg-ing">6 scallions, whites (1-inch pieces)</td></tr>
   <tr><td colspan="2" class="rg-ing">2 to 4 dried red chiles</td></tr>
   <tr><td colspan="3" class="rg-ing">scallion greens</td></tr>
 </table>
+
+
 
 ## Ingredients
 

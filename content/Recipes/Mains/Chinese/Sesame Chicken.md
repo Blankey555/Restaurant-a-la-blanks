@@ -5,6 +5,8 @@ yield: 4 servings
 difficulty: medium
 ---
 
+**Source:** https://thewoksoflife.com/sesame-chicken-recipe/
+
 ## At a Glance
 
 %%recipe-grid-spec
@@ -14,13 +16,13 @@ setup:
 steps:
   op: Toss twice-fried chicken in sauce; garnish and serve.
   of:
-  - op: Rest 5 to 10 min; fry again at 335°F / 170°C for 2 to 3 min; drain.
+  - op: Rest 5 to 10 min; fry again at 335°F / 170°C for about 2 to 3 min, checking chicken reaches 165°F / 74°C; drain.
     of:
     - op: Fry in batches at 335°F / 170°C for 5 to 6 min; drain.
       of:
       - op: Coat with remaining 6 Tbsp water and coating ingredients.
         of:
-        - op: Marinate 30 min using 2 Tbsp of the water; reserve 6 Tbsp.
+        - op: Marinate refrigerated 30 min using 2 Tbsp of the water; reserve 6 Tbsp.
           of:
           - 1 pound boneless skinless chicken thighs or chicken breast, cut into 1‑inch
             (2.5 cm) pieces
@@ -61,7 +63,7 @@ steps:
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Oil is divided: 1 Tbsp for coating, extra for frying, and 2 tsp frying oil for the garlic. Water: 2 Tbsp for marinating, remaining 6 Tbsp for coating.</td></tr>
-  <tr><td class="rg-ing">1 pound boneless skinless chicken thighs or chicken breast, cut into 1‑inch (2.5 cm) pieces</td><td rowspan="9" class="rg-op">Marinate 30 min using 2 Tbsp of the water; reserve 6 Tbsp.</td><td rowspan="13" class="rg-op">Coat with remaining 6 Tbsp water and coating ingredients.</td><td rowspan="13" class="rg-op">Fry in batches at 335°F / 170°C for 5 to 6 min; drain.</td><td rowspan="13" class="rg-op">Rest 5 to 10 min; fry again at 335°F / 170°C for 2 to 3 min; drain.</td><td rowspan="25" class="rg-op">Toss twice-fried chicken in sauce; garnish and serve.</td></tr>
+  <tr><td class="rg-ing">1 pound boneless skinless chicken thighs or chicken breast, cut into 1‑inch (2.5 cm) pieces</td><td rowspan="9" class="rg-op">Marinate refrigerated 30 min using 2 Tbsp of the water; reserve 6 Tbsp.</td><td rowspan="13" class="rg-op">Coat with remaining 6 Tbsp water and coating ingredients.</td><td rowspan="13" class="rg-op">Fry in batches at 335°F / 170°C for 5 to 6 min; drain.</td><td rowspan="13" class="rg-op">Rest 5 to 10 min; fry again at 335°F / 170°C for about 2 to 3 min, checking chicken reaches 165°F / 74°C; drain.</td><td rowspan="25" class="rg-op">Toss twice-fried chicken in sauce; garnish and serve.</td></tr>
   <tr><td class="rg-ing">8 tablespoons water, divided</td></tr>
   <tr><td class="rg-ing">1 teaspoon Shaoxing wine</td></tr>
   <tr><td class="rg-ing">½ teaspoon salt</td></tr>
@@ -87,6 +89,8 @@ steps:
   <tr><td colspan="4" class="rg-ing">1 tablespoon cornstarch mixed with 1 tablespoon water (slurry)</td></tr>
   <tr><td colspan="5" class="rg-ing">1 teaspoon toasted sesame seeds</td></tr>
 </table>
+
+
 
 ## Ingredients
 
@@ -121,11 +125,11 @@ steps:
 
 ## Instructions
 
-1. In a bowl, combine the chicken pieces with 2 tablespoons of water, Shaoxing wine, salt, sesame oil, MSG (if using), white pepper, garlic powder, and onion powder. Set aside to marinate for 30 minutes.
+1. In a bowl, combine the chicken pieces with 2 tablespoons of water, Shaoxing wine, salt, sesame oil, MSG (if using), white pepper, garlic powder, and onion powder. Cover and refrigerate to marinate for 30 minutes.
 2. After marinating, add the cornstarch, flour, the remaining 6 tablespoons of water, neutral oil, and baking soda. Mix thoroughly to coat the chicken evenly.
 3. Prepare the sauce by mixing the hot chicken stock (or water), sugar, oyster sauce, honey, soy sauce, wine, toasted sesame oil, rice vinegar, and white pepper in a separate bowl.
 4. Heat 3 inches (8 cm) of oil in a wok or deep pot to 335 °F (170 °C). Fry the chicken in batches until light golden brown, about 5–6 minutes per batch. Transfer to a wire rack or paper‑towel‑lined plate to drain.
-5. Let the fried chicken rest for 5–10 minutes, then reheat the oil to 335 °F (170 °C) and fry the chicken a second time until crispy, about 2–3 minutes. Drain again.
+5. Let the fried chicken rest for 5–10 minutes, then reheat the oil to 335 °F (170 °C) and fry the chicken a second time until crispy, about 2–3 minutes. Check that the center of the thickest pieces reaches 165°F (74°C); extend cooking as needed rather than relying on time alone. Drain again.
 6. In a clean wok over medium heat, add 2 teaspoons of frying oil and the minced garlic. After a few seconds, add the sauce mixture and bring to a simmer.
 7. Gradually stir in the cornstarch slurry until the sauce thickens enough to coat a spoon.
 8. Toss the twice‑fried chicken in the wok to coat it with the sauce. Serve garnished with toasted sesame seeds.

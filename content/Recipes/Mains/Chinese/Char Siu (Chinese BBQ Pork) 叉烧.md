@@ -10,9 +10,9 @@ difficulty: medium
 setup:
   - "Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below"
 steps:
-  op: "baste with any remaining sauce, rest 10 minutes, slice"
+  op: "finish only with separately reserved clean glaze and clean brush; rest 10 minutes, slice"
   of:
-    - op: "baste both sides at 40 minutes, roast final 10 minutes (50 minutes total); broil 1 to 2 minutes if more color is needed"
+    - op: "baste both sides at 40 minutes, roast about 10 minutes more (about 50 total), checking at least 145°F internal followed by at least 3 minutes rest; broil 1 to 2 minutes if more color is needed"
       of:
         - op: "roast at 475°F 10 minutes, reduce to 375°F for 15 minutes; flip, rotate pan, roast 15 minutes more, adding water if pan is dry"
           of:
@@ -43,7 +43,7 @@ steps:
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Preheat oven to 475°F (246°C), rack in upper third; foil-lined sheet pan with wire rack, 1½ cups water in pan below</td></tr>
-  <tr><td class="rg-ing">¼ cup granulated white sugar</td><td rowspan="11" class="rg-op">mix well; reserve 2 tbsp for basting sauce</td><td rowspan="12" class="rg-op">rub pork with marinade, cover, refrigerate 8 hours to overnight</td><td rowspan="12" class="rg-op">roast at 475°F 10 minutes, reduce to 375°F for 15 minutes; flip, rotate pan, roast 15 minutes more, adding water if pan is dry</td><td rowspan="15" class="rg-op">baste both sides at 40 minutes, roast final 10 minutes (50 minutes total); broil 1 to 2 minutes if more color is needed</td><td rowspan="15" class="rg-op">baste with any remaining sauce, rest 10 minutes, slice</td></tr>
+  <tr><td class="rg-ing">¼ cup granulated white sugar</td><td rowspan="11" class="rg-op">mix well; reserve 2 tbsp for basting sauce</td><td rowspan="12" class="rg-op">rub pork with marinade, cover, refrigerate 8 hours to overnight</td><td rowspan="12" class="rg-op">roast at 475°F 10 minutes, reduce to 375°F for 15 minutes; flip, rotate pan, roast 15 minutes more, adding water if pan is dry</td><td rowspan="15" class="rg-op">baste both sides at 40 minutes, roast about 10 minutes more (about 50 total), checking at least 145°F internal followed by at least 3 minutes rest; broil 1 to 2 minutes if more color is needed</td><td rowspan="15" class="rg-op">finish only with separately reserved clean glaze and clean brush; rest 10 minutes, slice</td></tr>
   <tr><td class="rg-ing">2 tsp salt</td></tr>
   <tr><td class="rg-ing">½ tsp five spice powder</td></tr>
   <tr><td class="rg-ing">¼ tsp white pepper</td></tr>
@@ -60,10 +60,14 @@ steps:
   <tr><td colspan="3" class="rg-ing">1 tbsp hot water</td></tr>
 </table>
 
+
+
 ## Ingredients
 
-### Marinade
+### Pork
 - 3 lb boneless pork shoulder or pork butt (choose a piece with good fat on it)
+
+### Marinade
 - ¼ cup granulated white sugar
 - 2 tsp salt
 - ½ tsp five spice powder
@@ -106,13 +110,13 @@ steps:
 
 9. Mix the reserved 2 tbsp marinade with maltose or honey and 1 tbsp hot water. Maltose is very thick. Microwave briefly to loosen it.
 10. At 40 minutes total roasting time, baste the pork on both sides. Roast a final 10 minutes.
-11. Total roasting time is 50 minutes. The pork should be cooked through and caramelized. If more color is needed, broil for 1 to 2 minutes. Watch closely. The sugar glaze burns fast.
-12. Remove from oven and baste with any remaining sauce. Rest 10 minutes before slicing.
+11. Total roasting time is approximately 50 minutes. Check the thickest part reaches at least 145°F (63°C), followed by at least a 3-minute rest; the pork should also be caramelized. If more color is needed, broil for 1 to 2 minutes. Watch closely. The sugar glaze burns fast.
+12. Remove from the oven. For a finishing glaze, use only sauce set aside in a separate clean container before basting, applied with a clean brush. Do not use leftover sauce or a brush that contacted undercooked pork. Rest 10 minutes before slicing.
 
 ---
 
 ## Storage
-- **Fridge:** Up to 5 days.
+- **Fridge:** Refrigerate promptly and use within 3 to 4 days.
 - **Freezer:** Freeze unused portions for up to 3 months. Use in fried rice, pork buns, or stir fries.
 
 ---
@@ -124,3 +128,7 @@ steps:
 - Convection ovens run hotter and faster. Reduce temperature by 25°F and check earlier than the times given.
 - Check the oven every 10 minutes throughout cooking. The sugar in the marinade burns quickly.
 - USDA recommends pork reaches 145°F internal temperature with a 3-minute rest.
+
+### Editorial clarifications
+
+- Handling and storage clarifications use standard consumer guidance; they do not establish that a fixed roasting time guarantees doneness. https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts

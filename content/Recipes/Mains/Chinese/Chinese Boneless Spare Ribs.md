@@ -1,8 +1,8 @@
 ---
 tags: [chinese, east-asian, roast, bbq, party, make-ahead, meal-prep, tested]
-prep_time: 30 mins
+prep_time: 30 mins active, plus about 45 mins chilling
 cook_time: 35 mins
-total_time: 65 mins plus 8 hours marinating
+total_time: About 1 hour 50 mins plus 12 to 24 hours marinating; any counter time is additional
 yield: 8 servings
 difficulty: medium
 ---
@@ -17,11 +17,11 @@ steps:
   of:
     - op: "roast at 425°F 15 minutes with ½ cup hot water in pan; flip, roast 15 minutes more"
       of:
-        - op: "marinate refrigerated overnight (12 to 24 hours), then bring to room temperature 2 hours"
+        - op: "marinate refrigerated overnight (12 to 24 hours), keep refrigerated until oven preparation; counter time must not exceed 2 hours total, or 1 hour above 90°F"
           of:
             - op: "mix until well combined and smooth"
               of:
-                - 2 cloves garlic
+                - 2 cloves garlic, finely minced
                 - 3.5 tablespoons sugar
                 - 2.5 teaspoons sea salt
                 - 1 teaspoon five spice powder
@@ -43,7 +43,7 @@ steps:
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="5">Preheat oven to 425°F; line sheet pan with heavy duty foil, set metal rack on top</td></tr>
-  <tr><td class="rg-ing">2 cloves garlic</td><td rowspan="12" class="rg-op">mix until well combined and smooth</td><td rowspan="13" class="rg-op">marinate refrigerated overnight (12 to 24 hours), then bring to room temperature 2 hours</td><td rowspan="13" class="rg-op">roast at 425°F 15 minutes with ½ cup hot water in pan; flip, roast 15 minutes more</td><td rowspan="14" class="rg-op">brush pork generously on both sides, broil on low a few minutes until lightly charred; rest 5 to 10 minutes, slice thin</td></tr>
+  <tr><td class="rg-ing">2 cloves garlic, finely minced</td><td rowspan="12" class="rg-op">mix until well combined and smooth</td><td rowspan="13" class="rg-op">marinate refrigerated overnight (12 to 24 hours), keep refrigerated until oven preparation; counter time must not exceed 2 hours total, or 1 hour above 90°F</td><td rowspan="13" class="rg-op">roast at 425°F 15 minutes with ½ cup hot water in pan; flip, roast 15 minutes more</td><td rowspan="14" class="rg-op">brush pork generously on both sides, broil on low a few minutes until lightly charred; rest 5 to 10 minutes, slice thin</td></tr>
   <tr><td class="rg-ing">3.5 tablespoons sugar</td></tr>
   <tr><td class="rg-ing">2.5 teaspoons sea salt</td></tr>
   <tr><td class="rg-ing">1 teaspoon five spice powder</td></tr>
@@ -59,10 +59,12 @@ steps:
   <tr><td colspan="3" class="rg-ing">2 tablespoons maltose (or honey)</td><td class="rg-op">mix with 2 teaspoons hot water</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 - 2.5 pounds boneless pork butt (sliced ¾” thick into 4”x8” slices; can also use boneless country ribs)
-- 2 cloves garlic
+- 2 cloves garlic, finely minced
 - 3.5 tablespoons sugar
 - 2.5 teaspoons sea salt
 - 1 teaspoon five spice powder
@@ -83,7 +85,7 @@ steps:
 3. In a large mixing bowl, combine the garlic, sugar, salt, five spice powder, white pepper, Shaoxing wine, hoisin sauce, ground bean sauce, ketchup, pineapple juice, sesame oil, and red food coloring (if using). Mix until everything is well combined and smooth.
 4. Add the pork and toss until well coated in the marinade.
 5. Cover with plastic wrap or a large sheet pan, transfer to the refrigerator, and marinate overnight (12-24 hours).
-6. Let the pork come up to room temperature on the counter for 2 hours.
+6. Keep the pork refrigerated until preparing the oven and tray. It does not need to reach room temperature. If taking it out early, limit all counter preparation time to 2 hours total, or 1 hour above 90°F (32°C).
 7. Preheat the oven to 425°F. Line a sheet pan or roasting pan with heavy duty foil and place a metal rack on top.
 8. Place the boneless pork on the metal rack, leaving at least 1 inch of room between the pieces.
 9. Pour ½ cup of hot water on the bottom of the pan, and transfer to the preheated oven for 15 minutes.

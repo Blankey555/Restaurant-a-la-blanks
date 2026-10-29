@@ -16,7 +16,7 @@ steps:
   of:
     - op: Brush with leftover marinade and let it bubble into a glossy glaze
       of:
-        - op: Wrap each cutlet tightly in soaked rice paper and pan-fry until crispy
+        - op: Wrap each cutlet tightly in soaked rice paper and pan-fry seam-side down in a thin layer of neutral oil over medium heat; turn and brown the other side
           of:
             - op: Marinate the cutlets; optionally dust with cornstarch for extra crisp
               of:
@@ -35,7 +35,7 @@ steps:
 %%
 
 <table class="recipe-grid">
-  <tr><td class="rg-ing">200g King oyster mushrooms (stems; save caps for another recipe)</td><td class="rg-op">Boil stems 10 minutes until slightly darkened, cool in an ice bath, then spiral-cut into long thin cutlets</td><td rowspan="7" class="rg-op">Marinate the cutlets; optionally dust with cornstarch for extra crisp</td><td rowspan="8" class="rg-op">Wrap each cutlet tightly in soaked rice paper and pan-fry until crispy</td><td rowspan="8" class="rg-op">Brush with leftover marinade and let it bubble into a glossy glaze</td><td rowspan="10" class="rg-op">Slice diagonally and serve</td></tr>
+  <tr><td class="rg-ing">200g King oyster mushrooms (stems; save caps for another recipe)</td><td class="rg-op">Boil stems 10 minutes until slightly darkened, cool in an ice bath, then spiral-cut into long thin cutlets</td><td rowspan="7" class="rg-op">Marinate the cutlets; optionally dust with cornstarch for extra crisp</td><td rowspan="8" class="rg-op">Wrap each cutlet tightly in soaked rice paper and pan-fry seam-side down in a thin layer of neutral oil over medium heat; turn and brown the other side</td><td rowspan="8" class="rg-op">Brush with leftover marinade and let it bubble into a glossy glaze</td><td rowspan="10" class="rg-op">Slice diagonally and serve</td></tr>
   <tr><td colspan="2" class="rg-ing">2 tbsp soy sauce</td></tr>
   <tr><td colspan="2" class="rg-ing">1 tbsp hoisin sauce</td></tr>
   <tr><td colspan="2" class="rg-ing">1/2 tsp 5-spice powder</td></tr>
@@ -47,6 +47,8 @@ steps:
   <tr><td colspan="5" class="rg-ing">Bok choy</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 - 200g King oyster mushrooms (4 big ones)
@@ -57,8 +59,10 @@ steps:
 - 1 tbsp sesame oil
 - 1 tbsp brown sugar
 - 1 tbsp chili oil
-- Noodles
-- Bok choy
+- Cornstarch, for optional light dusting
+- Neutral oil, enough for a thin layer in the frying pan
+- Noodles, cooked for serving
+- Bok choy, cooked for serving
 
 ## Instructions
 
@@ -68,7 +72,7 @@ steps:
 4. Spiral-cut each stem by slicing around it in one continuous motion to create a long, thin “cutlet".
 5. Marinate the cutlets with soy sauce, hoisin sauce, 5-spice powder, sesame oil, brown sugar, and chili oil.
 6. Dust lightly with cornstarch for extra crisp (optional).
-7. Create the crispy "duck skin" by dipping rice paper sheets in warm water, placing a marinated mushroom cutlet on top, wrapping tightly, and pan-frying until crispy.
+7. Create the crispy "duck skin" by dipping rice paper sheets in warm water, placing a marinated mushroom cutlet on top, wrapping tightly. Heat a thin layer of neutral oil in a pan over medium heat. Place the parcels seam-side down, fry until crisp and lightly golden, then turn and brown the other side.
 8. Brush the leftover marinade onto the duck and let it bubble into a glossy glaze.
 9. Slice the vegan duck diagonally for presentation.
 10. Serve over noodles with bok choy.
