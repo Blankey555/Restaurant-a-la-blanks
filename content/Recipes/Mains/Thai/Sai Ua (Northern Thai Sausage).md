@@ -10,6 +10,7 @@ tags:
 - spicy
 - pork
 - main
+- tested
 yield: 4 servings
 difficulty: medium
 ---

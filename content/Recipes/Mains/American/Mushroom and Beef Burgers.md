@@ -43,10 +43,12 @@ steps:
   <tr><td colspan="4" class="rg-ing">hamburger buns, lettuce, sliced tomatoes, fixings</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 - 1 pound lean ground beef
-- 1 pound roasted mushroom base
+- 1 pound prepared roasted mushroom base (separate recipe required; see Notes)
 - 1/2 cup finely chopped onion
 - Salt and freshly ground pepper to taste
 - 1/2 teaspoon Worcestershire sauce
@@ -57,10 +59,14 @@ steps:
 
 ## Instructions
 
-1. Mix the beef, mushroom base, onion, salt, pepper, Worcestershire, herbs and egg in a large bowl. Shape into 6 to 8 patties and set on a plate or lightly oiled sheet pan. Refrigerate 30 minutes.
+1. Before starting, obtain and prepare the separate roasted mushroom base recipe and measure 1 pound of the finished base. Its preparation time is not included here. Mix the beef, mushroom base, onion, salt, pepper, Worcestershire, herbs and egg in a large bowl. Shape into 6 to 8 patties and set on a plate or lightly oiled sheet pan. Refrigerate 30 minutes.
 2. Heat the oven to 425°F and line a sheet pan with parchment. Heat 1 or 2 heavy skillets over medium-high and coat lightly with oil (about 1 tablespoon).
 3. Sear the patties 4 minutes per side, move them to the lined pan, and bake 5 minutes. Rest a couple of minutes and serve.
 
 ## Notes
 
 - The roasted mushroom base is a separate NYT Cooking recipe (Martha Rose Shulman) not included here.
+
+### Review notes
+
+- Incomplete source dependency: the roasted mushroom base recipe has not been recovered in this vault. Do not substitute 1 pound raw mushrooms as if equivalent. The burger method can be followed only once that prepared base is available.

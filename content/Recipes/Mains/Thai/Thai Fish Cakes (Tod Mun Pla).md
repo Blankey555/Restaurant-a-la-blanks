@@ -1,11 +1,12 @@
 ---
 tags:
-  - thai
-  - southeast-asian
-  - fishcakes
-  - fried
-  - seafood
-  - main
+- thai
+- southeast-asian
+- fishcakes
+- fried
+- seafood
+- main
+- tested
 yield: 19 pieces
 difficulty: medium
 ---

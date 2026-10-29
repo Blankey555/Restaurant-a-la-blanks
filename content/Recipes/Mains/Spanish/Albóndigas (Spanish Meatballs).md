@@ -1,5 +1,13 @@
 ---
-tags: [spanish, european, mediterranean, meatballs, braise, party, make-ahead, untested]
+tags:
+- spanish
+- european
+- mediterranean
+- meatballs
+- braised
+- party
+- make-ahead
+- untested
 prep_time: 20 mins
 cook_time: 45 mins
 total_time: 65 mins

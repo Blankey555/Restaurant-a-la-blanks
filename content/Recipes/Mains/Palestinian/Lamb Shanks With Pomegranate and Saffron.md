@@ -1,5 +1,12 @@
 ---
-tags: [palestinian, middle-eastern, lamb, braise, braised, gluten-free, holiday, untested]
+tags:
+- palestinian
+- middle-eastern
+- lamb
+- braised
+- gluten-free
+- holiday
+- untested
 total_time: 3 hours
 yield: 6 servings
 difficulty: medium

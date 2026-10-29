@@ -1,9 +1,19 @@
 ---
-tags: [american, north-american, salad, vegetarian, gluten-free, no-cook, weeknight, untested]
+tags:
+- american
+- north-american
+- salad
+- vegetarian
+- gluten-free
+- no-cook
+- weeknight
+- untested
 prep_time: 5 mins
 total_time: 5 mins
 yield: 4 servings
 difficulty: easy
+aliases:
+- Recipes/Mains/American/Cucumber Salad
 ---
 
 **Source:** https://www.corriecooks.com/cucumber-salad/

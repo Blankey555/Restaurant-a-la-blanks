@@ -1,7 +1,7 @@
 ---
 tags: [american, north-american, burger, fried, vegan, vegetarian, project, untested]
 prep_time: 1 hour
-total_time: 1 hour
+total_time: Multi-day; overnight soaking, 24-hour rest and overnight chilling in the saved method
 yield: 6 servings
 difficulty: hard
 ---
@@ -34,7 +34,7 @@ steps:
               of:
                 - "1/2 cup dry black beans + 2 cups water"
         - "1 tbsp olive oil, plus more for grilling"
-    - op: "blend smooth; add coconut oil; rest at room temp 24 hours, then chill overnight"
+    - op: "blend smooth; add coconut oil; STOP: saved 24-hour room-temperature rest is unverified; use a tested cashew-cheese recipe instead"
       of:
         - "1 1/2 cups raw cashews, soaked overnight, drained"
         - "1 tbsp white miso + 1 tbsp truffle oil + 1/2 tsp onion powder + 1/4 tsp white pepper + 1/4 tsp salt + 1/4 cup beer"
@@ -55,12 +55,14 @@ steps:
   <tr><td colspan="3" class="rg-ing">1 cup cooked rice</td></tr>
   <tr><td colspan="2" class="rg-ing">1/2 cup dry black beans + 2 cups water</td><td class="rg-op">simmer about 2 hours until tender</td></tr>
   <tr><td colspan="4" class="rg-ing">1 tbsp olive oil, plus more for grilling</td></tr>
-  <tr><td colspan="4" class="rg-ing">1 1/2 cups raw cashews, soaked overnight, drained</td><td rowspan="3" class="rg-op">blend smooth; add coconut oil; rest at room temp 24 hours, then chill overnight</td></tr>
+  <tr><td colspan="4" class="rg-ing">1 1/2 cups raw cashews, soaked overnight, drained</td><td rowspan="3" class="rg-op">blend smooth; add coconut oil; STOP: saved 24-hour room-temperature rest is unverified; use a tested cashew-cheese recipe instead</td></tr>
   <tr><td colspan="4" class="rg-ing">1 tbsp white miso + 1 tbsp truffle oil + 1/2 tsp onion powder + 1/4 tsp white pepper + 1/4 tsp salt + 1/4 cup beer</td></tr>
   <tr><td colspan="4" class="rg-ing">1/4 cup melted coconut oil</td></tr>
   <tr><td colspan="4" class="rg-ing">2 cups mayonnaise (vegan or regular) + 2 to 3 tbsp chili sauce</td><td class="rg-op">stir together</td></tr>
   <tr><td colspan="5" class="rg-ing">lettuce, pickles, tomato, rolls</td></tr>
 </table>
+
+
 
 ## Ingredients
 
@@ -107,7 +109,7 @@ steps:
 3. Heat 1 teaspoon oil in a large skillet over medium-high. Cook the onion, mushrooms, beets, garlic, thyme, salt, and pepper about 20 minutes, until everything is soft.
 4. Grind the pumpkin seeds to a flour in a food processor or high-speed blender. Add the beets, rice, onion, and mushrooms and process to combine. Add the beans and process until combined but still chunky. Transfer to a large bowl.
 5. Heat the remaining 1 tablespoon oil over high heat. Shape the mixture into 6 patties and cook about 5 minutes per side, until golden and crisp. If you like, grill the bread with garlic-infused olive oil and a little salt.
-6. For the cashew cheese: drain and rinse the cashews. Blend with the miso, truffle oil, onion powder, white pepper, salt, and beer until very smooth. Blend in the coconut oil. Put in an airtight container, leave at room temperature 24 hours, stir, then chill overnight.
+6. For the cashew cheese: drain and rinse the cashews. Blend with the miso, truffle oil, onion powder, white pepper, salt, and beer until very smooth. Blend in the coconut oil. The saved method then specifies an airtight container at room temperature for 24 hours, followed by stirring and overnight chilling. That fermentation procedure is unverified and should not be followed as written; use a tested cashew-cheese recipe instead until the source process is resolved.
 7. For the chili mayo: stir the chili sauce into the mayonnaise.
 8. Serve the burgers on whole wheat rolls with lettuce, tomato, cashew cheese, pickles, and chili mayo.
 
@@ -116,3 +118,8 @@ steps:
 - Recipe from Chandra Gilbert of Gracias Madre, via MUNCHIES; recovered from a 2017 Internet Archive snapshot.
 - The bean cooking and beet roasting can be done the day before.
 - Use vegan mayonnaise to keep the dish vegan.
+
+### Review notes
+
+- The saved room-temperature cheese method lacks a verified fermentation protocol. Its original wording is retained in step 6 for provenance, not as an instruction to proceed. No replacement fermentation timings or culture amounts have been invented.
+- Even without the cheese, dry beans take about 2 hours and the rice must already be cooked. The former 1-hour total was incomplete.

@@ -37,13 +37,19 @@ steps:
   <tr><td colspan="2" class="rg-ing">1 tbsp garlic powder + 1 tbsp salt + 1/2 tsp black pepper</td></tr>
 </table>
 
+
+
 ## Ingredients
+
+### Rolls
 
 - 2 split-top brioche buns
 - 1 tablespoon butter
 - Mayonnaise
 - 8 ounces cooked shrimp meat
 - 1 lemon
+### Seasoning batch (use only a dash for the rolls)
+
 - 2 tablespoons celery salt
 - 2 tablespoons ground oregano
 - 1 tablespoon ground basil
@@ -53,10 +59,11 @@ steps:
 
 ## Instructions
 
-1. Melt the butter in a cast-iron skillet or panini press and toast the buns on each side until golden.
-2. Spread a little mayonnaise inside each bun.
-3. Fill each roll with half the shrimp.
-4. Squeeze lemon over, drizzle with the melted butter, and finish with a dash of the spice blend.
+1. Mix the celery salt, oregano, basil, garlic powder, salt and black pepper in a small dry container. This makes more seasoning than needed; use only a dash on the finished rolls and store the remainder airtight.
+2. Melt the butter in a cast-iron skillet or panini press and toast the buns on each side until golden.
+3. Spread a little mayonnaise inside each bun.
+4. Fill each roll with half the shrimp.
+5. Squeeze lemon over, drizzle with the melted butter, and finish with a dash of the spice blend.
 
 ## Notes
 

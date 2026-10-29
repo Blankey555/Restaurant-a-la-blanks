@@ -1,7 +1,18 @@
 ---
-tags: [american, north-american, grilled, beef, marinade, homebrew, untested]
+tags:
+- american
+- north-american
+- grilled
+- beef
+- marinade
+- homebrew
+- untested
+- tex-mex
+- main
 prep_time: 24 hours salting plus a lime bath the morning of cooking
 difficulty: easy
+aliases:
+- Recipes/Staples/American/Nick's Fajita Meat
 ---
 
 

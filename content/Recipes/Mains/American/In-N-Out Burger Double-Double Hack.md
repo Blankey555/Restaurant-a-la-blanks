@@ -1,8 +1,8 @@
 ---
 tags: [american, north-american, burger, party, comfort-food, untested]
 prep_time: 18 mins
-cook_time: 2 mins
-total_time: 20 mins
+cook_time: About 4 mins per batch, plus preheating and toasting
+total_time: Varies with batch count; prep 18 mins plus cooking
 yield: 4 servings
 difficulty: easy
 ---
@@ -63,7 +63,11 @@ steps:
   <tr><td colspan="3" class="rg-ing">4 white onion slices</td></tr>
 </table>
 
+
+
 ## Ingredients
+
+### Spread
 
 - 1/2 cup mayonnaise
 - 3 tablespoons ketchup
@@ -74,6 +78,8 @@ steps:
 - 1/4 teaspoon yellow mustard
 - 1/4 teaspoon paprika
 - 1/8 teaspoon salt
+### Burgers
+
 - 1 pound ground chuck, preferably 25% to 30% fat
 - 4 small plain hamburger buns
 - 8 slices real American cheese
@@ -85,7 +91,7 @@ steps:
 
 ## Instructions
 
-1. Make the spread by combining all the ingredients in a small bowl. Set this aside until needed.
+1. Make the spread by combining only the ingredients under Spread in a small bowl. Set this aside until needed.
 2. Make eight patties by rolling 2-ounce portions of beef into balls and forming them into 4-inch circles on wax paper.
 3. Preheat two large sauté pans over medium/low to medium heat. Start at medium/low and then turn up the heat if needed after 5 minutes of pre-heating.
 4. To prepare each burger, separate a hamburger bun and place the face of the top and bottom bun on one of the hot pans to toast. The buns are done when the faces are significantly darkened and crispy.

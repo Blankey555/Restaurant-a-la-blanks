@@ -1,5 +1,12 @@
 ---
-tags: [american, north-american, dessert, cookie, baked, vegetarian]
+tags:
+- american
+- north-american
+- dessert
+- cookie
+- baked
+- vegetarian
+- mastered
 prep_time: 15 minutes
 cook_time: 9 to 11 minutes
 yield: 5 dozen cookies

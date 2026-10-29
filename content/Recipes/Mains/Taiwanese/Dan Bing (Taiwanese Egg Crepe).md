@@ -1,10 +1,17 @@
 ---
-tags: [chinese, east-asian, egg, breakfast, untested]
+tags:
+- east-asian
+- egg
+- breakfast
+- untested
+- taiwanese
 prep_time: 10 mins
 cook_time: 15 mins
 total_time: 25 mins
 yield: 3 to 4 servings
 difficulty: easy
+aliases:
+- Recipes/Mains/Chinese/Dan Bing (Taiwanese Egg Crepe)
 ---
 
 **Source:** http://www.extracrispy.com/food/365/dan-bing-is-the-best-thing-youre-not-eating-for-breakfast (recovered from the Internet Archive)

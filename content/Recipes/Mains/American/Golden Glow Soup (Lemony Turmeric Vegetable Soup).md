@@ -1,6 +1,6 @@
 ---
 tags: [american, north-american, soup, vegan, vegetarian, weeknight, untested]
-total_time: 20 mins
+total_time: About 35 to 45 mins (estimated, including prep)
 yield: 4 to 6 servings
 difficulty: easy
 ---
@@ -52,6 +52,8 @@ steps:
   <tr><td colspan="4" class="rg-ing">1 tsp turmeric</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 * 1 tbsp olive oil or vegetable broth
@@ -73,7 +75,7 @@ steps:
 
 ## Instructions
 
-1. In a pot over medium heat, add the **onion**, **carrot**, **celery**, and **garlic**. Sauté until softened, approximately 5 minutes.
-2. Add the **vegetable broth**, drained and rinsed can of **white beans**, **lemon juice**, and **lemon zest** to the pot. Bring to a boil, then simmer for 10 minutes covered.
+1. In a pot over medium heat, heat the **olive oil** (or the tablespoon of broth), then add the **onion**, **carrot**, **celery**, and **garlic**. Sauté until softened, approximately 5 minutes.
+2. Add the **vegetable broth**, drained and rinsed can of **white beans**, **lemon juice**, **lemon zest**, **oregano**, and **black pepper** to the pot. Bring to a boil, then simmer for 10 minutes covered.
 3. Stir in the **kale**, fresh **dill**, and **orzo** and cook for another 10 minutes until the orzo is cooked through. Keep the lid off and stir intermittently to prevent the orzo from sticking.
 4. Stir in the **tahini** and **turmeric** until combined and heated through.

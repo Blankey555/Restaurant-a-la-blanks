@@ -1,5 +1,15 @@
 ---
-tags: [north-african, mediterranean, african, beef, lamb, meatballs, fried, braise, make-ahead, untested]
+tags:
+- north-african
+- mediterranean
+- african
+- beef
+- lamb
+- meatballs
+- fried
+- braised
+- make-ahead
+- untested
 total_time: 1 hour 15 mins
 yield: 4 to 6 servings (36 meatballs)
 difficulty: medium

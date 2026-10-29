@@ -1,5 +1,13 @@
 ---
-tags: [italian, european, mediterranean, main, braised, beef]
+tags:
+- italian
+- european
+- mediterranean
+- main
+- braised
+- beef
+- pork
+- sauce
 cook_time: 2 to 3 hours
 total_time: 2 to 3 hours
 yield: 6 servings

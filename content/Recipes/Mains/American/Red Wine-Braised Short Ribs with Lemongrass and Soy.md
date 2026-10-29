@@ -1,5 +1,12 @@
 ---
-tags: [fusion, american, north-american, east-asian, beef, braise, braised, untested]
+tags:
+- fusion
+- american
+- north-american
+- east-asian
+- beef
+- braised
+- untested
 total_time: 3 hours
 yield: 4 servings
 difficulty: medium

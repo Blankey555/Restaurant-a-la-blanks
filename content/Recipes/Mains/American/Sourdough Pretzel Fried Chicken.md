@@ -1,6 +1,6 @@
 ---
 tags: [american, north-american, chicken, fried, comfort-food, untested]
-total_time: 1 hour 45 mins
+total_time: 13 hours 45 mins to 25 hours 45 mins (including marinade)
 yield: 4 servings
 difficulty: medium
 ---
@@ -15,7 +15,7 @@ setup:
 steps:
   op: "serve with mustard sauce"
   of:
-    - op: "fry in 1 inch oil at 350°F, 10 to 15 min, to 160°F inside"
+    - op: "fry in 1 inch oil at 350°F, 10 to 15 min, to 165°F inside"
       of:
         - op: "coat in batter, then dredge in pretzel mix; set on rack"
           of:
@@ -45,7 +45,7 @@ steps:
 
 <table class="recipe-grid">
   <tr><td class="rg-setup" colspan="6">Set a wire rack in a rimmed baking sheet</td></tr>
-  <tr><td class="rg-ing">2 cups buttermilk + 1 tbsp mustard powder + 1 tsp paprika</td><td rowspan="3" class="rg-op">marinate, refrigerated, 12 to 24 hours</td><td rowspan="3" class="rg-op">remove from marinade; season</td><td rowspan="8" class="rg-op">coat in batter, then dredge in pretzel mix; set on rack</td><td rowspan="9" class="rg-op">fry in 1 inch oil at 350°F, 10 to 15 min, to 160°F inside</td><td rowspan="12" class="rg-op">serve with mustard sauce</td></tr>
+  <tr><td class="rg-ing">2 cups buttermilk + 1 tbsp mustard powder + 1 tsp paprika</td><td rowspan="3" class="rg-op">marinate, refrigerated, 12 to 24 hours</td><td rowspan="3" class="rg-op">remove from marinade; season</td><td rowspan="8" class="rg-op">coat in batter, then dredge in pretzel mix; set on rack</td><td rowspan="9" class="rg-op">fry in 1 inch oil at 350°F, 10 to 15 min, to 165°F inside</td><td rowspan="12" class="rg-op">serve with mustard sauce</td></tr>
   <tr><td class="rg-ing">zest of 1 lemon + 1/2 tsp Tabasco + salt + pepper</td></tr>
   <tr><td class="rg-ing">2 lb bone-in, skin-on chicken pieces</td></tr>
   <tr><td colspan="2" class="rg-ing">3 cups flour + 1 cup cornstarch + 1/2 tsp baking powder</td><td rowspan="2" class="rg-op">mix batter</td></tr>
@@ -59,6 +59,8 @@ steps:
   <tr><td colspan="4" class="rg-ing">3/4 cup canola oil</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 ### Marinade and chicken
@@ -69,7 +71,7 @@ steps:
 - 1/2 teaspoon Tabasco
 - Kosher salt
 - Freshly ground pepper
-- 2 pounds bone-in, skin-on chicken pieces, rinsed and patted dry
+- 2 pounds bone-in, skin-on chicken pieces, patted dry; do not rinse raw chicken
 
 ### Pretzel crust
 - 4 cups pretzel crumbs
@@ -101,8 +103,13 @@ steps:
 2. Pretzel crust: combine the pretzel crumbs, ground pretzels, mustard powder, paprika, onion and garlic powders, salt and pepper.
 3. Mustard sauce: mix the Dijon, vinegar, honey and whole-grain mustard, then stir in the canola oil.
 4. Set a wire rack in a rimmed baking sheet. Mix the flour, cornstarch, baking powder and soda water into a batter. Lift the chicken from the marinade and season it. Dip in batter, dredge in pretzel mix, shake off excess and set on the rack.
-5. Heat 1 inch of vegetable oil to 350°F in a Dutch oven or cast-iron skillet. Fry in small batches, turning, until golden and crisp and the thickest part reads 160°F, about 10 to 15 minutes. Serve immediately with the mustard sauce.
+5. Heat 1 inch of vegetable oil to 350°F in a Dutch oven or cast-iron skillet. Fry in small batches, turning, until golden and crisp and the thickest part reads 165°F, about 10 to 15 minutes. Serve immediately with the mustard sauce.
 
 ## Notes
 
 - Recipe by chef John DeLucie of Empire Diner, New York. Bookmarked as "Mustard-Baked Chicken with a Pretzel Crust," but the recovered page is this fried version.
+
+### Review notes
+
+- The working endpoint is updated to 165°F (74°C) for poultry; the recovered version specified 160°F without a holding procedure. Use temperature rather than the approximate frying time.
+- Guidance: https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling

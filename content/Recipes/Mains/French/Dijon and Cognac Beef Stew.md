@@ -1,5 +1,11 @@
 ---
-tags: [french, european, beef, braised, braise, comfort-food, untested]
+tags:
+- french
+- european
+- beef
+- braised
+- comfort-food
+- untested
 total_time: 3 hours
 yield: 4 to 6 servings
 difficulty: medium

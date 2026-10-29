@@ -47,6 +47,8 @@ steps:
   <tr><td colspan="2" class="rg-ing">1/2 cup packed brown sugar + 1 tbsp granulated garlic + 1 tbsp granulated onion + 1 tbsp red pepper flakes + 2 tbsp paprika</td></tr>
 </table>
 
+
+
 ## Ingredients
 
 - 1 brisket or brisket flat, 5 to 12 lbs
@@ -83,7 +85,7 @@ steps:
 3. On smoking day, coarsely grind the coriander and peppercorns and combine with the rest of the rub ingredients.
 4. Heat the smoker to 250°F (121°C), with 225°F (107°C) as the low limit.
 5. Discard the brine carefully, rinse the beef under cold water, and pat it completely dry. Coat all over with the rub, including the gap between flat and point.
-6. Smoke until the thickest part reads 150°F (66°C). If finishing the next day, cool uncovered to room temperature, then cover and refrigerate.
+6. Smoke until the thickest part reads 150°F (66°C). If finishing the next day, refrigerate promptly in shallow portions or containers suitable for cooling; do not wait for room temperature. Refrigerate within 2 hours of leaving the smoker.
 7. Heat the oven to 275°F (135°C). Set a rack in a roasting pan with nearly 1/2 inch of very hot water, place the pastrami on it, and cover tightly with foil.
 8. Steam until the internal temperature reaches 198 to 203°F (92 to 95°C); start checking texture at the lower end. It need not be very tender since it is sliced thin.
 9. Slice thinly right away, or chill for cold cuts.
@@ -92,3 +94,8 @@ steps:
 
 - Substitute recipe: the saved Munchies piece was a profile of Ugly Drum's brine-cured, rubbed, and smoked brisket "hybrid pastrami" with no recipe; this ThermoWorks recipe follows the same brine, rub, and smoke approach.
 - The source says the rub is coriander-heavy; scale the coriander back to 1/2 cup if preferred.
+
+### Review notes
+
+- Curing measurement unresolved: the ThermoWorks source also prints "2 tsp (19 g) Prague powder #1". Do not treat the two units as interchangeable or guess a correction. Verify a tested cure formulation and the product instructions for the actual meat and water quantities before making this recipe.
+- Source checked: https://www.thermoworks.com/blogs/thermoblog/how-to-make-smoked-pastrami
